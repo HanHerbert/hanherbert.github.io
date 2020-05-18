@@ -1439,7 +1439,7 @@ pre code {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #7e03d2;
+  background: #ecd750;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2228,7 +2228,7 @@ pre code {
   width: 180px;
 }
 .post-body p a {
-  color: #3acfc4;
+  color: #40a08e;
   border-bottom: none;
   text-decoration: none;
 }
