@@ -44,9 +44,9 @@
     <link href="http://hanherebrt.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87-%E5%85%B3%E4%BA%8EHexo%E5%92%8CNext/"/>
     <id>http://hanherebrt.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87-%E5%85%B3%E4%BA%8EHexo%E5%92%8CNext/</id>
     <published>2020-05-18T06:33:04.000Z</published>
-    <updated>2020-05-18T15:01:48.514Z</updated>
+    <updated>2020-05-18T15:20:49.078Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><ul><li><p><code>hexo server -p 端口号</code></p><p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p></li><li><p><code>hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</code></p><p>部署博客，发布文章。</p><a id="more"></a></li></ul><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p><p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p><p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p><p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p><p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p><p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><ul><li><p><code>hexo server -p 端口号</code></p><p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p></li><li><p><code>hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</code></p><p>部署博客，发布文章。</p></li></ul><a id="more"></a><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p><p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p><p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p><p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p><p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p><p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>]]></content>
     
     <summary type="html">
     
@@ -56,6 +56,8 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;code&gt;hexo clean &amp;amp;&amp;amp; hexo generate &amp;amp;&amp;amp; hexo deploy&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;部署博客，发布文章。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     

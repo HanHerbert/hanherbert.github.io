@@ -29,12 +29,12 @@
 </li>
 <li><p><code>hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</code></p>
 <p>部署博客，发布文章。</p>
+</li>
+</ul>
 <a id="more"></a>
 
 
 
-</li>
-</ul>
 <h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p>
 <p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p>
 <p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p>
