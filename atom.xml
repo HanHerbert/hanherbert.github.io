@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanherebrt.github.io/"/>
-  <updated>2020-05-18T06:55:58.511Z</updated>
+  <updated>2020-05-18T12:59:14.376Z</updated>
   <id>http://hanherebrt.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://hanherebrt.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87-%E5%85%B3%E4%BA%8EHexo%E5%92%8CNext/"/>
     <id>http://hanherebrt.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87-%E5%85%B3%E4%BA%8EHexo%E5%92%8CNext/</id>
     <published>2020-05-18T06:33:04.000Z</published>
-    <updated>2020-05-18T06:55:58.511Z</updated>
+    <updated>2020-05-18T12:59:14.376Z</updated>
     
     <content type="html"><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><ul><li><p>hexo server -p 端口号</p><p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p></li></ul>]]></content>
     
@@ -36,6 +36,8 @@
     
     </summary>
     
+    
+      <category term="tools" scheme="http://hanherebrt.github.io/categories/tools/"/>
     
     
       <category term="notes" scheme="http://hanherebrt.github.io/tags/notes/"/>
