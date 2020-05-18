@@ -18,6 +18,7 @@
 <h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p>
 <p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p>
 <p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p>
+<p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p>
 <p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p>
 <p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>
 ]]></content>
@@ -37,6 +38,8 @@
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<a id="more"></a>
 
 <p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
 <h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
