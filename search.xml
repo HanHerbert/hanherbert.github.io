@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>考研随想录</title>
-    <url>/%E8%80%83%E7%A0%94%E9%9A%8F%E6%83%B3%E5%BD%95/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>mind</category>
-      </categories>
-      <tags>
-        <tag>notes</tag>
-        <tag>graduate</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo、NexT和github搭建博客 | 使用文档</title>
     <url>/Hexo%20NexT%20%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
     <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><ul>
@@ -40,6 +28,18 @@
       </categories>
       <tags>
         <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>考研随想录</title>
+    <url>/%E8%80%83%E7%A0%94%E9%9A%8F%E6%83%B3%E5%BD%95/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>mind</category>
+      </categories>
+      <tags>
+        <tag>notes</tag>
+        <tag>graduate</tag>
       </tags>
   </entry>
 </search>
