@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>The Mind Sky</title>
+  <title>Mind Sky</title>
   
   <subtitle>stay focused, keep thinking</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanherebrt.github.io/"/>
-  <updated>2020-05-19T13:49:45.950Z</updated>
+  <updated>2020-05-19T14:14:16.072Z</updated>
   <id>http://hanherebrt.github.io/</id>
   
   <author>
@@ -21,16 +21,14 @@
     <link href="http://hanherebrt.github.io/%E8%80%83%E7%A0%94%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
     <id>http://hanherebrt.github.io/%E8%80%83%E7%A0%94%E9%9A%8F%E6%83%B3%E5%BD%95/</id>
     <published>2020-05-19T02:59:03.000Z</published>
-    <updated>2020-05-19T13:49:45.950Z</updated>
+    <updated>2020-05-19T14:14:16.072Z</updated>
     
     <summary type="html">
     
     </summary>
     
     
-      <category term="life" scheme="http://hanherebrt.github.io/categories/life/"/>
-    
-      <category term="study" scheme="http://hanherebrt.github.io/categories/life/study/"/>
+      <category term="mind" scheme="http://hanherebrt.github.io/categories/mind/"/>
     
     
       <category term="notes" scheme="http://hanherebrt.github.io/tags/notes/"/>
