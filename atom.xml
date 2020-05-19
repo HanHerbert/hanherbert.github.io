@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanherebrt.github.io/"/>
-  <updated>2020-05-18T14:19:29.381Z</updated>
+  <updated>2020-05-19T03:05:08.996Z</updated>
   <id>http://hanherebrt.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>考研随想录</title>
+    <link href="http://hanherebrt.github.io/%E8%80%83%E7%A0%94%E9%9A%8F%E6%83%B3%E5%BD%95/"/>
+    <id>http://hanherebrt.github.io/%E8%80%83%E7%A0%94%E9%9A%8F%E6%83%B3%E5%BD%95/</id>
+    <published>2020-05-19T02:59:03.000Z</published>
+    <updated>2020-05-19T03:05:08.996Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="life" scheme="http://hanherebrt.github.io/categories/life/"/>
+    
+      <category term="study" scheme="http://hanherebrt.github.io/categories/life/study/"/>
+    
+    
+      <category term="notes" scheme="http://hanherebrt.github.io/tags/notes/"/>
+    
+      <category term="graduate" scheme="http://hanherebrt.github.io/tags/graduate/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -44,7 +67,7 @@
     <link href="http://hanherebrt.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87-%E5%85%B3%E4%BA%8EHexo%E5%92%8CNext/"/>
     <id>http://hanherebrt.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87-%E5%85%B3%E4%BA%8EHexo%E5%92%8CNext/</id>
     <published>2020-05-18T06:33:04.000Z</published>
-    <updated>2020-05-18T15:20:49.078Z</updated>
+    <updated>2020-05-19T03:03:42.298Z</updated>
     
     <content type="html"><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><ul><li><p><code>hexo server -p 端口号</code></p><p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p></li><li><p><code>hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</code></p><p>部署博客，发布文章。</p></li></ul><a id="more"></a><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p><p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p><p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p><p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p><p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p><p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>]]></content>
     
@@ -65,7 +88,7 @@
       <category term="tools" scheme="http://hanherebrt.github.io/categories/tools/"/>
     
     
-      <category term="notes" scheme="http://hanherebrt.github.io/tags/notes/"/>
+      <category term="blog" scheme="http://hanherebrt.github.io/tags/blog/"/>
     
       <category term="hexo" scheme="http://hanherebrt.github.io/tags/hexo/"/>
     
