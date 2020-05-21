@@ -31,18 +31,14 @@
   <entry>
     <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
     <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
-    <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><ul>
-<li><p><code>hexo server -p 端口号</code></p>
+    <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
+
 <p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p>
-</li>
-</ul>
 <a id="more"></a>
 
-<ul>
-<li><p><code>hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</code></p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
+
 <p>部署博客，发布文章。</p>
-</li>
-</ul>
 <h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">标题：#~######，一至六级标题</span><br><span class="line">强调：Ctrl+B</span><br><span class="line">下划线： Ctrl+U</span><br><span class="line">删除：Alt+Shift+<span class="number">5</span></span><br></pre></td></tr></table></figure>
 
 
