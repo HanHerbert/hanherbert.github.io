@@ -183,7 +183,7 @@ body {
   color: var(--text-color);
   font-family: 'Lato', "Microsoft YaHei", "PingFang SC", sans-serif;
   font-size: 16px;
-  line-height: 6;
+  line-height: 2;
 }
 @media (max-width: 991px) {
   body {
@@ -528,7 +528,7 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 pre {
   background: var(--highlight-background);
   color: var(--highlight-foreground);
-  line-height: 1.4;
+  line-height: 1.6;
   margin: 0 auto 20px;
 }
 pre,
@@ -1439,7 +1439,7 @@ pre code {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffbdd0;
+  background: #8279ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
