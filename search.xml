@@ -29,9 +29,43 @@
       </tags>
   </entry>
   <entry>
+    <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
+    <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
+    <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
+
+<p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p>
+<a id="more"></a>
+
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>部署博客，发布文章。</p>
+<h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">标题：#~######，一至六级标题</span><br><span class="line">强调：Ctrl+B</span><br><span class="line">下划线： Ctrl+U</span><br><span class="line">删除：Alt+Shift+<span class="number">5</span></span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p>
+<p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p>
+<p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p>
+<p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p>
+<p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p>
+<p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>
+<p><a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT 使用文档</a></p>
+<p><a href="https://vel.life/Markdown-%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener">Markdown-语法笔记</a></p>
+]]></content>
+      <categories>
+        <category>tools</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>MarkDown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>408院校整理及资料分享</title>
     <url>/408/</url>
-    <content><![CDATA[<p>21年王道电子书：链接：<a href="https://pan.baidu.com/s/1YZqmb3MyUy8j8EudRYnpZw" target="_blank" rel="noopener">https://pan.baidu.com/s/1YZqmb3MyUy8j8EudRYnpZw</a> <a id="more"></a><br>提取码：99d1</br></p>
+    <content><![CDATA[<p>21年王道电子书：链接：<a href="https://pan.baidu.com/s/1YZqmb3MyUy8j8EudRYnpZw" target="_blank" rel="noopener">https://pan.baidu.com/s/1YZqmb3MyUy8j8EudRYnpZw</a><br>提取码：<a id="more"></a>99d1</br></p>
 <p>21年天勤电子书：链接：<a href="https://pan.baidu.com/s/1Hcwj1NY_2VulaXhf0tKL5w" target="_blank" rel="noopener">https://pan.baidu.com/s/1Hcwj1NY_2VulaXhf0tKL5w</a><br>提取码：ufai</br></p>
 <p>408笔记：链接：链接：链接：<a href="https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g" target="_blank" rel="noopener">https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g</a><br>提取码：04to<br></p>
 <p>408真题：链接：<a href="https://pan.baidu.com/s/1U9n4NkGjO4eY9NiVAKG1ew" target="_blank" rel="noopener">https://pan.baidu.com/s/1U9n4NkGjO4eY9NiVAKG1ew</a><br>提取码：3mvr </br></p>
@@ -67,40 +101,6 @@
       </categories>
       <tags>
         <tag>408</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
-    <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
-    <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
-
-<p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p>
-<a id="more"></a>
-
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>部署博客，发布文章。</p>
-<h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">标题：#~######，一至六级标题</span><br><span class="line">强调：Ctrl+B</span><br><span class="line">下划线： Ctrl+U</span><br><span class="line">删除：Alt+Shift+<span class="number">5</span></span><br></pre></td></tr></table></figure>
-
-
-
-
-
-<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p>
-<p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p>
-<p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p>
-<p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p>
-<p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p>
-<p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>
-<p><a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT 使用文档</a></p>
-<p><a href="https://vel.life/Markdown-%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener">Markdown-语法笔记</a></p>
-]]></content>
-      <categories>
-        <category>tools</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
-        <tag>MarkDown</tag>
       </tags>
   </entry>
 </search>
