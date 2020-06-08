@@ -1439,7 +1439,7 @@ pre code {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #8279ff;
+  background: #47e7ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2226,14 +2226,6 @@ pre code {
   margin: 0.8em 2em 0 2em;
   max-width: 100%;
   width: 180px;
-}
-.post-body p a {
-  color: #0593d3;
-  border-bottom: none;
-}
-.post-body p a:hover {
-  color: #0477ab;
-  text-decoration: underline;
 }
 .post-copyright {
   background: var(--card-bg-color);
