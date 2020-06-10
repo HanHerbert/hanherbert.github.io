@@ -1,55 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我的学习观</title>
-    <url>/%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%A7%82/</url>
-    <content><![CDATA[<p>学习，是实践论付诸执行的过程。</p>
-<a id="more"></a>
-
-<p>通过实践而发现真理，又通过实践而证实真理和发展真理。从感性认识而能动地发展到理性认识，又从理性认识而能动地指导革命实践，改造主观世界和客观世界。实践、认识、再实践、再认识，这种形式，循环往复以至无穷，而实践和认识之每一循环的内容，都比较地进到了高一级的程度。这就是辩证唯物论的全部认识论，这就是辩证唯物论的知行统一观。</p>
-<p>检验所学，能否有条理的复述是一条重要的标准。例如，读了某本书或者学到某些科学知识，若能用文字将自己的所学所悟记录下来，对接下来的学习有积极的影响。</p>
-<h3 id="做以下尝试："><a href="#做以下尝试：" class="headerlink" title="做以下尝试："></a>做以下尝试：</h3><h4 id="第一，复述所学"><a href="#第一，复述所学" class="headerlink" title="第一，复述所学"></a>第一，复述所学</h4><p>复述的方式有两种，口语复述和文字复述。</p>
-<h4 id="第二，保持专注"><a href="#第二，保持专注" class="headerlink" title="第二，保持专注"></a>第二，保持专注</h4><p>远离任何会打断复述过程的事物，思维本就碎片化，不要打断复述过程。这些事物包括但不限于论坛、短视频等各种短时反馈的东西。走出舒适区才能进步。</p>
-<h4 id="第三，抛弃形式主义"><a href="#第三，抛弃形式主义" class="headerlink" title="第三，抛弃形式主义"></a>第三，抛弃形式主义</h4><p>很多人进入过自我感动的怪圈，这和自小接受的苦难教育有关。</p>
-<p>如苏东坡言：古之成大事者，不惟有超世之才，亦必有坚韧不拔之志。</p>
-<p>按照科学的方法，减少学习时长带来的感动，增多睡眠时间，经常锻炼身体，把精力投入到学习中。</p>
-<h4 id="第四，坦荡从容，是自己给的"><a href="#第四，坦荡从容，是自己给的" class="headerlink" title="第四，坦荡从容，是自己给的"></a>第四，坦荡从容，是自己给的</h4><p>大多数人，尤其是同龄人，看到我们不断变得优秀，涌上心头的，不是替我们感到开心，而是羞耻，进而郁郁寡欢。</p>
-<p>因为在成长的过程中，我们经年累月被灌输一种思维方式，那就是需要借助一个参照物，来知道自己的位置。</p>
-<p>隔壁邻居的张三，班里的李四，职场中的王五，都是参照物。</p>
-<p>远离这种参照物思维，不要被别人贩卖的焦虑情绪感染，去追寻比过去的自己更优秀的自己。</p>
-<p><strong>自己比过去的自己优秀，是要给自己赞美的。</strong></p>
-<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p><strong>学习时的思维如流一般，沉浸其中是极致的乐趣。</strong></p>
-]]></content>
-      <categories>
-        <category>Mind</category>
-      </categories>
-      <tags>
-        <tag>notes</tag>
-        <tag>graduate</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>THU-912</title>
-    <url>/THU-912/</url>
-    <content><![CDATA[<blockquote>
-<p>简书，豆瓣，csdn，微信公众号，知乎，b站。。。</p>
-</blockquote>
-<h3 id="0-写在前面"><a href="#0-写在前面" class="headerlink" title="0.写在前面"></a>0.写在前面</h3><p>今天，THU-912仓库开始维护。</p>
-<p>新建了仓库之后，在本地建立远程仓库：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git remote add origin git@github.com:hanherbert&#x2F;THU-912.git</span><br></pre></td></tr></table></figure>
-
-
-
-]]></content>
-      <categories>
-        <category>NEEP</category>
-      </categories>
-      <tags>
-        <tag>912</tag>
-        <tag>notes</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>408院校整理及资料分享</title>
     <url>/408/</url>
     <content><![CDATA[<p>21年王道电子书：链接：<a href="https://pan.baidu.com/s/1YZqmb3MyUy8j8EudRYnpZw" target="_blank" rel="noopener">https://pan.baidu.com/s/1YZqmb3MyUy8j8EudRYnpZw</a><br>提取码：<a id="more"></a>99d1</br></p>
@@ -92,6 +43,55 @@
       </tags>
   </entry>
   <entry>
+    <title>THU-912</title>
+    <url>/THU-912/</url>
+    <content><![CDATA[<blockquote>
+<p>简书，豆瓣，csdn，微信公众号，知乎，b站。。。</p>
+</blockquote>
+<h3 id="0-写在前面"><a href="#0-写在前面" class="headerlink" title="0.写在前面"></a>0.写在前面</h3><p>今天，THU-912仓库开始维护。</p>
+<p>新建了仓库之后，在本地建立远程仓库：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git remote add origin git@github.com:hanherbert&#x2F;THU-912.git</span><br></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>NEEP</category>
+      </categories>
+      <tags>
+        <tag>912</tag>
+        <tag>Notes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的学习观</title>
+    <url>/%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%A7%82/</url>
+    <content><![CDATA[<p>学习，是实践论付诸执行的过程。</p>
+<a id="more"></a>
+
+<p>通过实践而发现真理，又通过实践而证实真理和发展真理。从感性认识而能动地发展到理性认识，又从理性认识而能动地指导革命实践，改造主观世界和客观世界。实践、认识、再实践、再认识，这种形式，循环往复以至无穷，而实践和认识之每一循环的内容，都比较地进到了高一级的程度。这就是辩证唯物论的全部认识论，这就是辩证唯物论的知行统一观。</p>
+<p>检验所学，能否有条理的复述是一条重要的标准。例如，读了某本书或者学到某些科学知识，若能用文字将自己的所学所悟记录下来，对接下来的学习有积极的影响。</p>
+<h3 id="做以下尝试："><a href="#做以下尝试：" class="headerlink" title="做以下尝试："></a>做以下尝试：</h3><h4 id="第一，复述所学"><a href="#第一，复述所学" class="headerlink" title="第一，复述所学"></a>第一，复述所学</h4><p>复述的方式有两种，口语复述和文字复述。</p>
+<h4 id="第二，保持专注"><a href="#第二，保持专注" class="headerlink" title="第二，保持专注"></a>第二，保持专注</h4><p>远离任何会打断复述过程的事物，思维本就碎片化，不要打断复述过程。这些事物包括但不限于论坛、短视频等各种短时反馈的东西。走出舒适区才能进步。</p>
+<h4 id="第三，抛弃形式主义"><a href="#第三，抛弃形式主义" class="headerlink" title="第三，抛弃形式主义"></a>第三，抛弃形式主义</h4><p>很多人进入过自我感动的怪圈，这和自小接受的苦难教育有关。</p>
+<p>如苏东坡言：古之成大事者，不惟有超世之才，亦必有坚韧不拔之志。</p>
+<p>按照科学的方法，减少学习时长带来的感动，增多睡眠时间，经常锻炼身体，把精力投入到学习中。</p>
+<h4 id="第四，坦荡从容，是自己给的"><a href="#第四，坦荡从容，是自己给的" class="headerlink" title="第四，坦荡从容，是自己给的"></a>第四，坦荡从容，是自己给的</h4><p>大多数人，尤其是同龄人，看到我们不断变得优秀，涌上心头的，不是替我们感到开心，而是羞耻，进而郁郁寡欢。</p>
+<p>因为在成长的过程中，我们经年累月被灌输一种思维方式，那就是需要借助一个参照物，来知道自己的位置。</p>
+<p>隔壁邻居的张三，班里的李四，职场中的王五，都是参照物。</p>
+<p>远离这种参照物思维，不要被别人贩卖的焦虑情绪感染，去追寻比过去的自己更优秀的自己。</p>
+<p><strong>自己比过去的自己优秀，是要给自己赞美的。</strong></p>
+<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p><strong>学习时的思维如流一般，沉浸其中是极致的乐趣。</strong></p>
+]]></content>
+      <categories>
+        <category>Mind</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+        <tag>学习方法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
     <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
     <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
@@ -121,8 +121,7 @@
         <category>Tools</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
-        <tag>MarkDown</tag>
+        <tag>Notes</tag>
       </tags>
   </entry>
 </search>
