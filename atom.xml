@@ -44,19 +44,14 @@
     <link href="http://hanherebrt.github.io/THU-912/"/>
     <id>http://hanherebrt.github.io/THU-912/</id>
     <published>2020-06-09T12:06:10.000Z</published>
-    <updated>2020-06-10T00:06:15.512Z</updated>
+    <updated>2020-06-10T05:47:26.006Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>简书，豆瓣，csdn，微信公众号，知乎，b站。。。</p></blockquote><h3 id="0-写在前面"><a href="#0-写在前面" class="headerlink" title="0.写在前面"></a>0.写在前面</h3><p>今天，THU-912仓库开始维护。</p><p>新建了仓库之后，在本地建立远程仓库：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br><span class="line">git remote add origin git@github.com:hanherbert&#x2F;THU-912.git</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>简书，豆瓣，csdn，微信公众号，知乎，b站。。。<a id="more"></a></p></blockquote><h3 id="0-写在前面"><a href="#0-写在前面" class="headerlink" title="0.写在前面"></a>0.写在前面</h3><p>今天，THU-912仓库开始维护。</p><p>新建了仓库之后，在本地建立远程仓库：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br><span class="line">git remote add origin git@github.com:hanherbert&#x2F;THU-912.git</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;简书，豆瓣，csdn，微信公众号，知乎，b站。。。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&quot;0-写在前面&quot;&gt;&lt;a href=&quot;#0-写在前面&quot; class=&quot;headerlink&quot; title=&quot;0.写在前面&quot;&gt;&lt;/a&gt;0.写在前面&lt;/
-      
+      &lt;blockquote&gt;
+&lt;p&gt;简书，豆瓣，csdn，微信公众号，知乎，b站。。。
     
     </summary>
     
@@ -64,9 +59,9 @@
       <category term="NEEP" scheme="http://hanherebrt.github.io/categories/NEEP/"/>
     
     
-      <category term="912" scheme="http://hanherebrt.github.io/tags/912/"/>
-    
       <category term="Notes" scheme="http://hanherebrt.github.io/tags/Notes/"/>
+    
+      <category term="912" scheme="http://hanherebrt.github.io/tags/912/"/>
     
   </entry>
   

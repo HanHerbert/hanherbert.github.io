@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
+    <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
+    <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
+
+<p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p>
+<a id="more"></a>
+
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>部署博客，发布文章。</p>
+<h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">标题：#~######，一至六级标题</span><br><span class="line">强调：Ctrl+B</span><br><span class="line">下划线： Ctrl+U</span><br><span class="line">删除：Alt+Shift+<span class="number">5</span></span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p>
+<p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p>
+<p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p>
+<p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p>
+<p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p>
+<p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>
+<p><a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT 使用文档</a></p>
+<p><a href="https://vel.life/Markdown-%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener">Markdown-语法笔记</a></p>
+]]></content>
+      <categories>
+        <category>Tools</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>我的学习观</title>
     <url>/%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%A7%82/</url>
     <content><![CDATA[<p>学习，是实践论付诸执行的过程。</p>
@@ -26,57 +59,6 @@
       <tags>
         <tag>Notes</tag>
         <tag>学习方法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>THU-912</title>
-    <url>/THU-912/</url>
-    <content><![CDATA[<blockquote>
-<p>简书，豆瓣，csdn，微信公众号，知乎，b站。。。</p>
-</blockquote>
-<h3 id="0-写在前面"><a href="#0-写在前面" class="headerlink" title="0.写在前面"></a>0.写在前面</h3><p>今天，THU-912仓库开始维护。</p>
-<p>新建了仓库之后，在本地建立远程仓库：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git remote add origin git@github.com:hanherbert&#x2F;THU-912.git</span><br></pre></td></tr></table></figure>
-
-
-
-]]></content>
-      <categories>
-        <category>NEEP</category>
-      </categories>
-      <tags>
-        <tag>912</tag>
-        <tag>Notes</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2020年清华大学计算机系学硕拟录取分析</title>
-    <url>/2020%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E5%AD%A6%E7%A1%95%E6%8B%9F%E5%BD%95%E5%8F%96%E5%88%86%E6%9E%90/</url>
-    <content><![CDATA[<h3 id="2020年被录取学硕（非强军计划）的14位同学情况"><a href="#2020年被录取学硕（非强军计划）的14位同学情况" class="headerlink" title="2020年被录取学硕（非强军计划）的14位同学情况"></a>2020年被录取学硕（非强军计划）的14位同学情况</h3><h4 id="1-从三个方面列举出学硕拟录取同学的背景"><a href="#1-从三个方面列举出学硕拟录取同学的背景" class="headerlink" title="1.从三个方面列举出学硕拟录取同学的背景"></a>1.从三个方面列举出学硕拟录取同学的背景<a id="more"></a></h4><p><strong>本科：</strong></p>
-<p>​            清华大学(2)，中国科学技术大学(1)，上海交通大学(1)，中国人民大学(1)，北京航空航天大学(1)</br></p>
-<p>​            同济大学(1)，北京理工大学(1)，武汉大学(1)，中南大学(1)，天津大学(1)</br></p>
-<p>​            四川大学(1)，华南理工大学(1)，福州大学(1)</p>
-<p><strong>毕业情况统计：</strong></p>
-<p>​            应届生(5)，非应届生(9)</p>
-<p><strong>本科专业统计：</strong></p>
-<p>​            跨考(5)，非跨考(8)，未知(1)</p>
-<h4 id="2-分析："><a href="#2-分析：" class="headerlink" title="2.分析："></a>2.分析：</h4><p>2020年录入学硕的14位同学有13位来自985大学，一位来自211大学。</p>
-<p>其中，来自福州大学的同学本科期间获得ASC2018全球总决赛一等奖。</p>
-<p>看被录取的同学名单，远远不能感受到清华大学计算机学硕竞争的激烈。</p>
-<p>如果把那些被刷的同学的本科学校摆出来，会更加可怕。</p>
-<p>如：北京大学、上海交通大学、浙江大学……</p>
-<p>另外，有这样一位同学，同时拿到清华软件学院、清华网研院、北大信科的保研资格，因对清华学硕非常向往，放弃保研考研学硕，最终以深圳研究院计算机专硕上岸收场。</p>
-<h3 id="报考清华前的常见问题解答"><a href="#报考清华前的常见问题解答" class="headerlink" title="报考清华前的常见问题解答"></a>报考清华前的常见问题解答</h3><h4 id="1-清华面试黑吗？"><a href="#1-清华面试黑吗？" class="headerlink" title="1.清华面试黑吗？"></a>1.清华面试黑吗？</h4><p>可以明确地说肯定没有。老师面试的时候都是完全根据你的个人能力评价的，不存在所谓的黑幕，大家还是积极提高自己的能力，不要把时间浪费在讨论这些没有意义的东西上。</p>
-<p>关于所谓的本科歧视，这个我觉得肯定是没有的。如果你来自双非但有很牛逼的项目或竞赛经历，还是很可能被录取的。而即使来自985计算机强校，成绩平平没有项目经历也是肯定会被刷的。而且话说回来，本科院校也是个人能力的一种，所以我们必须正视这一事实，而不是抱着被害者心理到处非议。最为关键的还是努力提升自身能力。</p>
-<h4 id="2-我本科不好，成绩平平，也没项目经历怎么办？"><a href="#2-我本科不好，成绩平平，也没项目经历怎么办？" class="headerlink" title="2.我本科不好，成绩平平，也没项目经历怎么办？"></a>2.我本科不好，成绩平平，也没项目经历怎么办？</h4><p>在这里我劝退一下，可能会得罪人，但请多包涵。复试三大劣势：双非、跨考、没项目或者成绩差（挂科之类），如果你只有其中一个，那么还是很有希望的，加油准备吧。但如果你有其中两项，我不得不说希望很小，还是换个目标吧。毕竟大家都是成年人了，应该学会了权衡利弊，用最小投入获得最为可能最大的产出，而不是为了一个心中的愿景不计成本地投入。</p>
-<p><strong>结语</strong></p>
-<p><strong>没有自信的人，从战斗一开始，就输了一半。</strong></p>
-]]></content>
-      <categories>
-        <category>NEEP</category>
-      </categories>
-      <tags>
-        <tag>912</tag>
       </tags>
   </entry>
   <entry>
@@ -122,36 +104,54 @@
       </tags>
   </entry>
   <entry>
-    <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
-    <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
-    <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
-
-<p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p>
-<a id="more"></a>
-
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>部署博客，发布文章。</p>
-<h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">标题：#~######，一至六级标题</span><br><span class="line">强调：Ctrl+B</span><br><span class="line">下划线： Ctrl+U</span><br><span class="line">删除：Alt+Shift+<span class="number">5</span></span><br></pre></td></tr></table></figure>
-
-
-
-
-
-<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p>
-<p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p>
-<p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p>
-<p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p>
-<p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p>
-<p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>
-<p><a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT 使用文档</a></p>
-<p><a href="https://vel.life/Markdown-%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener">Markdown-语法笔记</a></p>
+    <title>2020年清华大学计算机系学硕拟录取分析</title>
+    <url>/2020%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E5%AD%A6%E7%A1%95%E6%8B%9F%E5%BD%95%E5%8F%96%E5%88%86%E6%9E%90/</url>
+    <content><![CDATA[<h3 id="2020年被录取学硕（非强军计划）的14位同学情况"><a href="#2020年被录取学硕（非强军计划）的14位同学情况" class="headerlink" title="2020年被录取学硕（非强军计划）的14位同学情况"></a>2020年被录取学硕（非强军计划）的14位同学情况</h3><h4 id="1-从三个方面列举出学硕拟录取同学的背景"><a href="#1-从三个方面列举出学硕拟录取同学的背景" class="headerlink" title="1.从三个方面列举出学硕拟录取同学的背景"></a>1.从三个方面列举出学硕拟录取同学的背景<a id="more"></a></h4><p><strong>本科：</strong></p>
+<p>​            清华大学(2)，中国科学技术大学(1)，上海交通大学(1)，中国人民大学(1)，北京航空航天大学(1)</br></p>
+<p>​            同济大学(1)，北京理工大学(1)，武汉大学(1)，中南大学(1)，天津大学(1)</br></p>
+<p>​            四川大学(1)，华南理工大学(1)，福州大学(1)</p>
+<p><strong>毕业情况统计：</strong></p>
+<p>​            应届生(5)，非应届生(9)</p>
+<p><strong>本科专业统计：</strong></p>
+<p>​            跨考(5)，非跨考(8)，未知(1)</p>
+<h4 id="2-分析："><a href="#2-分析：" class="headerlink" title="2.分析："></a>2.分析：</h4><p>2020年录入学硕的14位同学有13位来自985大学，一位来自211大学。</p>
+<p>其中，来自福州大学的同学本科期间获得ASC2018全球总决赛一等奖。</p>
+<p>看被录取的同学名单，远远不能感受到清华大学计算机学硕竞争的激烈。</p>
+<p>如果把那些被刷的同学的本科学校摆出来，会更加可怕。</p>
+<p>如：北京大学、上海交通大学、浙江大学……</p>
+<p>另外，有这样一位同学，同时拿到清华软件学院、清华网研院、北大信科的保研资格，因对清华学硕非常向往，放弃保研考研学硕，最终以深圳研究院计算机专硕上岸收场。</p>
+<h3 id="报考清华前的常见问题解答"><a href="#报考清华前的常见问题解答" class="headerlink" title="报考清华前的常见问题解答"></a>报考清华前的常见问题解答</h3><h4 id="1-清华面试黑吗？"><a href="#1-清华面试黑吗？" class="headerlink" title="1.清华面试黑吗？"></a>1.清华面试黑吗？</h4><p>可以明确地说肯定没有。老师面试的时候都是完全根据你的个人能力评价的，不存在所谓的黑幕，大家还是积极提高自己的能力，不要把时间浪费在讨论这些没有意义的东西上。</p>
+<p>关于所谓的本科歧视，这个我觉得肯定是没有的。如果你来自双非但有很牛逼的项目或竞赛经历，还是很可能被录取的。而即使来自985计算机强校，成绩平平没有项目经历也是肯定会被刷的。而且话说回来，本科院校也是个人能力的一种，所以我们必须正视这一事实，而不是抱着被害者心理到处非议。最为关键的还是努力提升自身能力。</p>
+<h4 id="2-我本科不好，成绩平平，也没项目经历怎么办？"><a href="#2-我本科不好，成绩平平，也没项目经历怎么办？" class="headerlink" title="2.我本科不好，成绩平平，也没项目经历怎么办？"></a>2.我本科不好，成绩平平，也没项目经历怎么办？</h4><p>在这里我劝退一下，可能会得罪人，但请多包涵。复试三大劣势：双非、跨考、没项目或者成绩差（挂科之类），如果你只有其中一个，那么还是很有希望的，加油准备吧。但如果你有其中两项，我不得不说希望很小，还是换个目标吧。毕竟大家都是成年人了，应该学会了权衡利弊，用最小投入获得最为可能最大的产出，而不是为了一个心中的愿景不计成本地投入。</p>
+<p><strong>结语</strong></p>
+<p><strong>没有自信的人，从战斗一开始，就输了一半。</strong></p>
 ]]></content>
       <categories>
-        <category>Tools</category>
+        <category>NEEP</category>
+      </categories>
+      <tags>
+        <tag>912</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>THU-912</title>
+    <url>/THU-912/</url>
+    <content><![CDATA[<blockquote>
+<p>简书，豆瓣，csdn，微信公众号，知乎，b站。。。<a id="more"></a></p>
+</blockquote>
+<h3 id="0-写在前面"><a href="#0-写在前面" class="headerlink" title="0.写在前面"></a>0.写在前面</h3><p>今天，THU-912仓库开始维护。</p>
+<p>新建了仓库之后，在本地建立远程仓库：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git init</span><br><span class="line">git remote add origin git@github.com:hanherbert&#x2F;THU-912.git</span><br></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>NEEP</category>
       </categories>
       <tags>
         <tag>Notes</tag>
+        <tag>912</tag>
       </tags>
   </entry>
 </search>
