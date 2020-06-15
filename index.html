@@ -786,144 +786,6 @@
   
   
 
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://hanherebrt.github.io/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar.jpg">
-      <meta itemprop="name" content="少青">
-      <meta itemprop="description" content="">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Mind Sky">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" class="post-title-link" itemprop="url">数据结构笔记 | 清华大学邓俊辉 | 第三版</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">Posted on</span>
-
-              <time title="Created: 2020-06-15 22:50:20" itemprop="dateCreated datePublished" datetime="2020-06-15T22:50:20+08:00">2020-06-15</time>
-            </span>
-
-          
-            <span id="/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" class="post-meta-item leancloud_visitors" data-flag-title="数据结构笔记 | 清华大学邓俊辉 | 第三版" title="Views">
-              <span class="post-meta-item-icon">
-                <i class="fa fa-eye"></i>
-              </span>
-              <span class="post-meta-item-text">Views: </span>
-              <span class="leancloud-visitors-count"></span>
-            </span>
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Valine: </span>
-    
-    <a title="valine" href="/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/#valine-comments" itemprop="discussionUrl">
-      <span class="post-comments-count valine-comment-count" data-xid="/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  <br>
-            <span class="post-meta-item" title="Symbols count in article">
-              <span class="post-meta-item-icon">
-                <i class="far fa-file-word"></i>
-              </span>
-              <span>1.6k</span>
-            </span>
-            <span class="post-meta-item" title="Reading time">
-              <span class="post-meta-item-icon">
-                <i class="far fa-clock"></i>
-              </span>
-              <span>1 mins.</span>
-            </span>
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <h1 id="第一章-绪论"><a href="#第一章-绪论" class="headerlink" title="第一章 绪论"></a>第一章 绪论</h1><h2 id="a-计算"><a href="#a-计算" class="headerlink" title="a.计算"></a>a.计算</h2><p><strong>算法要素：</strong></p>
-<ul>
-<li>输入与输出、</li>
-<li>基本操作、确定性与可行性</li>
-<li>有穷性与正确性</li>
-<li>退化与鲁棒性</li>
-<li>重用性</li>
-</ul>
-<p><strong>好算法</strong>：<strong>正确</strong>（处理简单的、大规模的、一般性的、退化的、合法的输入）、<strong>健壮</strong>、<strong>可读</strong>、<strong>效率</strong>（速度快、存储空间小）</p>
-<p><strong>计算成本</strong>T(n)：求解规模为n的问题所需基本操作数，在规模为n的所有实例中，只关注最坏（成本最高）者</p>
-<h2 id="b-大O记号"><a href="#b-大O记号" class="headerlink" title="b.大O记号"></a>b.大O记号</h2><p>T(n)定义为算法所执行基本操作的总次数。</p>
-<p>关注T(n)的渐进上界。引入<strong>大O记号</strong>。</p>
-<p>具体地，由T(n) &lt; = c.f(n)，用f(n)代替T(n)，可忽略常系数和低次项。</p>
-<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">//常数情况</span></span><br><span class="line"><span class="number">2013</span>×<span class="number">2013</span></span><br><span class="line"><span class="comment">//包含循环情况</span></span><br><span class="line"><span class="keyword">for</span>(i=<span class="number">0</span>; i&lt;n; i+= n/<span class="number">2013</span> + <span class="number">1</span>);</span><br><span class="line"><span class="keyword">for</span>(i=<span class="number">1</span>; i&lt;n; i=<span class="number">1</span> &lt;&lt; i);</span><br><span class="line"><span class="comment">//包含分支</span></span><br><span class="line"><span class="keyword">if</span>((n+m)*(n+m) &lt; <span class="number">4</span>*n*m) <span class="keyword">goto</span> UNREACHABLE;</span><br><span class="line"><span class="comment">//包含递归</span></span><br><span class="line"><span class="keyword">if</span>(<span class="number">2</span>==(n*n)% <span class="number">5</span>) <span class="number">01</span>(n);</span><br></pre></td></tr></table></figure>
-
-<p><strong>O(1)</strong> ：常数</p>
-<p><strong>O(logn)</strong> 对数：此类算法非常有效，复杂度无限接近常数，可忽略常底数和常数次幂。</p>
-<p><strong>O(n)</strong> 线性及多项式：线性，从n到n2是编程题主要覆盖的范围。</p>
-<p><strong>O(2^n)</strong> 指数：无效，从多项式到指数被认为有效算法到无效算法的分水岭。指数复杂度算法无法真正应用于实际问题中，不是有效算法，甚至不能称之为算法。相应地，多项式复杂度的算法也被称作南街的(intractable)问题。</p>
-<h2 id="c-常见算法分析"><a href="#c-常见算法分析" class="headerlink" title="c.常见算法分析"></a>c.常见算法分析</h2><p><strong>两个任务</strong>：<strong>正确性</strong>（不变性、单调性）+ <strong>复杂度</strong><br><strong>复杂度分析</strong>：猜测+验证，迭代（级数求和），递归（递归跟踪+递推方程）<br><strong>算数级数</strong>：与末项平方同阶<br><strong>幂方级数</strong>：比幂次高出一阶<br><strong>几何级数</strong>(a&gt;1)：与末项同阶<br><strong>收敛级数</strong>：O(1)<br><strong>调和级数</strong>：1+1/2+1/3+…+1/n=O(logn)<br><strong>对数级数</strong>：log1+log2+…+logn=O(nlogn)</p>
-<p>以冒泡排序为例：</p>
-<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">bubblesort</span><span class="params">(<span class="keyword">int</span> A[], <span class="keyword">int</span> n)</span></span>&#123;</span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">bool</span> sorted = <span class="literal">false</span>; sorted = !sorted; n--)</span><br><span class="line">		<span class="keyword">for</span> (<span class="keyword">int</span> i=<span class="number">1</span>; i&lt;n; i++)</span><br><span class="line">			<span class="keyword">if</span> (A[i<span class="number">-1</span>] &gt; A[i])&#123;</span><br><span class="line">				swap(A[i<span class="number">-1</span>], A[i]);</span><br><span class="line">				sorted = <span class="literal">false</span>;</span><br><span class="line">			&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p><strong>不变性</strong>：经k轮交换，最大的k个元素就位<br><strong>单调性</strong>：经k轮交换，问题规模缩减至n-k<br><strong>正确性</strong>：经至多n趟扫描后，算法必然终止且给出正确解答</p>
-<h2 id="d-递归及迭代"><a href="#d-递归及迭代" class="headerlink" title="d.递归及迭代"></a>d.递归及迭代</h2><p><strong>分而治之</strong>：划分为两个子问题，规模大体相当。</p>
-<p><strong>减而治之</strong>：划分为两个子问题，其一平凡，另一缩减。</p>
-<ol>
-<li><strong>Fibonacci</strong>数：迭代</li>
-</ol>
-<p>动态规划：按规模自小而大求解各子问题的过程。</p>
-<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">fibI</span><span class="params">(<span class="keyword">int</span> n)</span></span>&#123;</span><br><span class="line">    f = <span class="number">0</span>; g = <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">while</span> (<span class="number">0</span> &lt; n--)&#123;</span><br><span class="line">	    g = g + f;</span><br><span class="line">	    f = g - f;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> g;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>仅使用两个中间变量f和g，记录当前的一对相邻Fibonacci数。整个算法仅需线性步的迭代.</p>
-<p><strong>时间复杂度为O(n)</strong>,<strong>空间复杂度为O(1)</strong></p>
-<ol>
-<li><strong>最长公共子序列</strong>（可能有多个；可能有歧义）</li>
-</ol>
-<p>对于序列A[0, n]和B[0, m]，LSC有三种情况：<br>（1）n = -1或m = -1，取空序列（“”）</p>
-<p>（2）A[n] = ‘X’ = B[m]，取LSC(A[0, n),B[0, m)) + ‘X’ （减而治之）</p>
-<p>（3）A[n] ≠ B[m]，则在 LCS(A[0, n], B[0, m))与 LCS(A[0, n), B[0, m])中取更长者 （分而治之）</p>
-<p><strong>最好情况：O(n + m)</strong></p>
-<p><strong>最坏情况：O(2^n),此时 (n = m)</strong></p>
-<p>与斐波那契数列一样，有大量重复的递归实例；若采用动态规划，只需O(nm)时间即可计算所有子问题，为此只需:</p>
-<p>（1）将所有子问题假想列成一张表；</p>
-<p>（2）颠倒计算方向，从LCS(A[0], B[0])出发依次计算所有项。</p>
-<h2 id="e-习题集"><a href="#e-习题集" class="headerlink" title="e.习题集"></a>e.习题集</h2><p>习题1-12</p>
-<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">(<span class="keyword">unsigned</span> <span class="keyword">long</span>) <span class="number">-1</span> <span class="comment">//在不知道最大无符号整数大小的情况下，只需将-1转换为此类型，轻松获得此类型的最大值</span></span><br></pre></td></tr></table></figure>
-
-
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
 
   
 
@@ -992,7 +854,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">7</span>
+          <span class="site-state-item-count">6</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -1066,7 +928,7 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-area"></i>
     </span>
-    <span title="Symbols count total">7k</span>
+    <span title="Symbols count total">5k</span>
 </div>
 
 
