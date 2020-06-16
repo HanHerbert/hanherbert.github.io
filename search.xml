@@ -1,37 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
-    <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
-    <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
-
-<p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>部署博客，发布文章。</p>
-<h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">标题：#~######，一至六级标题</span><br><span class="line">强调：Ctrl+B</span><br><span class="line">下划线： Ctrl+U</span><br><span class="line">删除：Alt+Shift+<span class="number">5</span></span><br></pre></td></tr></table></figure>
-
-
-
-
-
-<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p>
-<p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p>
-<p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p>
-<p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p>
-<p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p>
-<p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>
-<p><a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT 使用文档</a></p>
-<p><a href="https://vel.life/Markdown-%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener">Markdown-语法笔记</a></p>
-]]></content>
-      <categories>
-        <category>Tools</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>408院校整理及资料分享</title>
     <url>/408/</url>
     <content><![CDATA[<p>408笔记：链接：<a href="https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g" target="_blank" rel="noopener">https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g</a><br>提取码：04to<br></p>
@@ -69,6 +38,658 @@
       </categories>
       <tags>
         <tag>408</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LaTeX+Typora使用Markdown编辑数学公式 | Typora使用文档</title>
+    <url>/LaTeX-Typora%E4%BD%BF%E7%94%A8Markdown%E7%BC%96%E8%BE%91%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
+    <content><![CDATA[<p><a href="https://baike.baidu.com/item/LaTeX/1212106" target="_blank" rel="noopener">LaTeX</a>是一种基于<a href="https://baike.baidu.com/item/TeX/3794463?fr=aladdin" target="_blank" rel="noopener">TeX</a>的文档排版系统,把大片排版的格式细节隐藏在若干样式之后，以内容的逻辑结构统帅纷繁的格式，遂成为现在最流行的科技写作——尤其是数学写作的工具之一.<a id="more"></a><br> 在Markdown中插入数学公式的语法是 <code>$数学公式$</code> 和 <code>$$数学公式$$</code>.</p>
+<h2 id="行内公式"><a href="#行内公式" class="headerlink" title="行内公式"></a>行内公式</h2><p>行内公式是可以让公式在文中与文字或其他东西混编，不独占一行.在数学模式下,符号会使用单独的字体,字母通常是倾斜的意大利体,数字和符号则是直立体.而且,数学符号之间的距离也与一般的水平模式不同:</p>
+<table>
+<thead>
+<tr>
+<th>示例</th>
+<th>显示</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>$2x+3y=34$</code></td>
+<td><img src="https://math.jianshu.com/math?formula=2x%2B3y%3D34" alt="2x+3y=34"></td>
+</tr>
+<tr>
+<td><code>2x+3y=34</code></td>
+<td>2x+3y=34</td>
+</tr>
+</tbody></table>
+<p>因此,在排版数学公式时,即使没有特殊符号的算式如1+1=2,或者简单的一个字母变量<img src="https://math.jianshu.com/math?formula=x" alt="x">,也要进入数学模式,使用<code>$1+1=2$</code>,<code>$x$</code>,而不是使用排版普通文字的方式</p>
+<h2 id="常用符号"><a href="#常用符号" class="headerlink" title="常用符号"></a>常用符号</h2><table>
+<thead>
+<tr>
+<th>符号</th>
+<th>示例</th>
+<th>显示</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>上下标</td>
+<td><code>S=a_{1}^2+a_{2}^2+a_{3}^2$</code></td>
+<td><img src="https://math.jianshu.com/math?formula=S%3Da_%7B1%7D%5E2%2Ba_%7B2%7D%5E2%2Ba_%7B3%7D%5E2" alt="S=a_{1}^2+a_{2}^2+a_{3}^2"></td>
+</tr>
+<tr>
+<td>括号</td>
+<td><code>$f(x, y) = 100 * \lbrace[(x + y) * 3] - 5\rbrace$</code></td>
+<td><img src="https://math.jianshu.com/math?formula=f(x%2C%20y)%20%3D%20100%20*%20%5Clbrace%5B(x%20%2B%20y)%20*%203%5D%20-%205%5Crbrace" alt="f(x, y) = 100 * \lbrace[(x + y) * 3] - 5\rbrace"></td>
+</tr>
+<tr>
+<td>分数</td>
+<td><code>$\frac{1}{3} 与 \cfrac{1}{3}$</code></td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cfrac%7B1%7D%7B3%7D%20%E4%B8%8E%20%5Ccfrac%7B1%7D%7B3%7D" alt="\frac{1}{3} 与 \cfrac{1}{3}"></td>
+</tr>
+<tr>
+<td>开方</td>
+<td><code>$\sqrt[3]{X}$</code>和<code>$\sqrt{5 - x}$</code></td>
+<td><img src="https://math.jianshu.com/math?formula=%5Csqrt%5B3%5D%7BX%7D" alt="\sqrt[3]{X}">和<img src="https://math.jianshu.com/math?formula=%5Csqrt%7B5%20-%20x%7D" alt="\sqrt{5 - x}"></td>
+</tr>
+</tbody></table>
+<h2 id="其他字符"><a href="#其他字符" class="headerlink" title="其他字符"></a>其他字符</h2><h3 id="关系运算符"><a href="#关系运算符" class="headerlink" title="关系运算符"></a>关系运算符</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>符号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\pm</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cpm" alt="\pm"></td>
+</tr>
+<tr>
+<td>\times</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ctimes" alt="\times"></td>
+</tr>
+<tr>
+<td>\div</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cdiv" alt="\div"></td>
+</tr>
+<tr>
+<td>\mid</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cmid" alt="\mid"></td>
+</tr>
+<tr>
+<td>\nmid</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cnmid" alt="\nmid"></td>
+</tr>
+<tr>
+<td>\cdot</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ccdot" alt="\cdot"></td>
+</tr>
+<tr>
+<td>\circ</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ccirc" alt="\circ"></td>
+</tr>
+<tr>
+<td>\ast</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cast" alt="\ast"></td>
+</tr>
+<tr>
+<td>\bigodot</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbigodot" alt="\bigodot"></td>
+</tr>
+<tr>
+<td>\bigotimes</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbigotimes" alt="\bigotimes"></td>
+</tr>
+<tr>
+<td>\bigoplus</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbigoplus" alt="\bigoplus"></td>
+</tr>
+<tr>
+<td>\leq</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cleq" alt="\leq"></td>
+</tr>
+<tr>
+<td>\geq</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cgeq" alt="\geq"></td>
+</tr>
+<tr>
+<td>\neq</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cneq" alt="\neq"></td>
+</tr>
+<tr>
+<td>\approx</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Capprox" alt="\approx"></td>
+</tr>
+<tr>
+<td>\equiv</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cequiv" alt="\equiv"></td>
+</tr>
+<tr>
+<td>\sum</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Csum" alt="\sum"></td>
+</tr>
+<tr>
+<td>\prod</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cprod" alt="\prod"></td>
+</tr>
+</tbody></table>
+<h3 id="对数运算符"><a href="#对数运算符" class="headerlink" title="对数运算符"></a>对数运算符</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>符号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\log</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Clog" alt="\log"></td>
+</tr>
+<tr>
+<td>\lg</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Clg" alt="\lg"></td>
+</tr>
+<tr>
+<td>\ln</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cln" alt="\ln"></td>
+</tr>
+</tbody></table>
+<h3 id="三角运算符"><a href="#三角运算符" class="headerlink" title="三角运算符"></a>三角运算符</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>符号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\bot</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbot" alt="\bot"></td>
+</tr>
+<tr>
+<td>\angle</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cangle" alt="\angle"></td>
+</tr>
+<tr>
+<td>\sin</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Csin" alt="\sin"></td>
+</tr>
+<tr>
+<td>\cos</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ccos" alt="\cos"></td>
+</tr>
+<tr>
+<td>\tan</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ctan" alt="\tan"></td>
+</tr>
+<tr>
+<td>\cot</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ccot" alt="\cot"></td>
+</tr>
+<tr>
+<td>\sec</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Csec" alt="\sec"></td>
+</tr>
+<tr>
+<td>\csc</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ccsc" alt="\csc"></td>
+</tr>
+</tbody></table>
+<h3 id="微积分运算符"><a href="#微积分运算符" class="headerlink" title="微积分运算符"></a>微积分运算符</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>符号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\prime</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cprime" alt="\prime"></td>
+</tr>
+<tr>
+<td>\int</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cint" alt="\int"></td>
+</tr>
+<tr>
+<td>\iint</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ciint" alt="\iint"></td>
+</tr>
+<tr>
+<td>\iiint</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ciiint" alt="\iiint"></td>
+</tr>
+<tr>
+<td>\oint</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Coint" alt="\oint"></td>
+</tr>
+<tr>
+<td>\lim</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Clim" alt="\lim"></td>
+</tr>
+<tr>
+<td>\infty</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cinfty" alt="\infty"></td>
+</tr>
+<tr>
+<td>\nabla</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cnabla" alt="\nabla"></td>
+</tr>
+<tr>
+<td>\mathrm{d}</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cmathrm%7Bd%7D" alt="\mathrm{d}"></td>
+</tr>
+</tbody></table>
+<h3 id="集合运算符"><a href="#集合运算符" class="headerlink" title="集合运算符"></a>集合运算符</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>符号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\emptyset</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cemptyset" alt="\emptyset"></td>
+</tr>
+<tr>
+<td>\in</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cin" alt="\in"></td>
+</tr>
+<tr>
+<td>\notin</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cnotin" alt="\notin"></td>
+</tr>
+<tr>
+<td>\subset</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Csubset" alt="\subset"></td>
+</tr>
+<tr>
+<td>\subseteq</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Csubseteq" alt="\subseteq"></td>
+</tr>
+<tr>
+<td>\supseteq</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Csupseteq" alt="\supseteq"></td>
+</tr>
+<tr>
+<td>\bigcap</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbigcap" alt="\bigcap"></td>
+</tr>
+<tr>
+<td>\bigcup</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbigcup" alt="\bigcup"></td>
+</tr>
+<tr>
+<td>\bigvee</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbigvee" alt="\bigvee"></td>
+</tr>
+<tr>
+<td>\bigwedge</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbigwedge" alt="\bigwedge"></td>
+</tr>
+<tr>
+<td>\biguplus</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbiguplus" alt="\biguplus"></td>
+</tr>
+<tr>
+<td>\bigsqcup</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbigsqcup" alt="\bigsqcup"></td>
+</tr>
+</tbody></table>
+<h3 id="希腊字母"><a href="#希腊字母" class="headerlink" title="希腊字母"></a>希腊字母</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>大写</th>
+<th>代码</th>
+<th>小写</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>A</td>
+<td><img src="https://math.jianshu.com/math?formula=A" alt="A"></td>
+<td>\alpha</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Calpha" alt="\alpha"></td>
+</tr>
+<tr>
+<td>B</td>
+<td><img src="https://math.jianshu.com/math?formula=B" alt="B"></td>
+<td>\beta</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cbeta" alt="\beta"></td>
+</tr>
+<tr>
+<td>\Gamma</td>
+<td><img src="https://math.jianshu.com/math?formula=%5CGamma" alt="\Gamma"></td>
+<td>\gamma</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cgamma" alt="\gamma"></td>
+</tr>
+<tr>
+<td>\Delta</td>
+<td><img src="https://math.jianshu.com/math?formula=%5CDelta" alt="\Delta"></td>
+<td>\delta</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cdelta" alt="\delta"></td>
+</tr>
+<tr>
+<td>E</td>
+<td><img src="https://math.jianshu.com/math?formula=E" alt="E"></td>
+<td>\epsilon</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cepsilon" alt="\epsilon"></td>
+</tr>
+<tr>
+<td>Z</td>
+<td><img src="https://math.jianshu.com/math?formula=Z" alt="Z"></td>
+<td>\zeta</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Czeta" alt="\zeta"></td>
+</tr>
+<tr>
+<td>H</td>
+<td><img src="https://math.jianshu.com/math?formula=H" alt="H"></td>
+<td>\eta</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ceta" alt="\eta"></td>
+</tr>
+<tr>
+<td>\Theta</td>
+<td><img src="https://math.jianshu.com/math?formula=%5CTheta" alt="\Theta"></td>
+<td>\theta</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ctheta" alt="\theta"></td>
+</tr>
+<tr>
+<td>I</td>
+<td><img src="https://math.jianshu.com/math?formula=I" alt="I"></td>
+<td>\iota</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ciota" alt="\iota"></td>
+</tr>
+<tr>
+<td>K</td>
+<td><img src="https://math.jianshu.com/math?formula=K" alt="K"></td>
+<td>\kappa</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ckappa" alt="\kappa"></td>
+</tr>
+<tr>
+<td>Lambda</td>
+<td><img src="https://math.jianshu.com/math?formula=%5CLambda" alt="\Lambda"></td>
+<td>\lambda</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Clambda" alt="\lambda"></td>
+</tr>
+<tr>
+<td>M</td>
+<td><img src="https://math.jianshu.com/math?formula=M" alt="M"></td>
+<td>\mu</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cmu" alt="\mu"></td>
+</tr>
+<tr>
+<td>N</td>
+<td><img src="https://math.jianshu.com/math?formula=N" alt="N"></td>
+<td>\nu</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cnu" alt="\nu"></td>
+</tr>
+<tr>
+<td>Xi</td>
+<td><img src="https://math.jianshu.com/math?formula=Xi" alt="Xi"></td>
+<td>\xi</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cxi" alt="\xi"></td>
+</tr>
+<tr>
+<td>O</td>
+<td><img src="https://math.jianshu.com/math?formula=O" alt="O"></td>
+<td>\omicron</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Comicron" alt="\omicron"></td>
+</tr>
+<tr>
+<td>\Pi</td>
+<td><img src="https://math.jianshu.com/math?formula=%5CPi" alt="\Pi"></td>
+<td>\pi</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cpi" alt="\pi"></td>
+</tr>
+<tr>
+<td>P</td>
+<td><img src="https://math.jianshu.com/math?formula=P" alt="P"></td>
+<td>\rho</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Crho" alt="\rho"></td>
+</tr>
+<tr>
+<td>\Sigma</td>
+<td><img src="https://math.jianshu.com/math?formula=%5CSigma" alt="\Sigma"></td>
+<td>\sigma</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Csigma" alt="\sigma"></td>
+</tr>
+<tr>
+<td>T</td>
+<td><img src="https://math.jianshu.com/math?formula=T" alt="T"></td>
+<td>\tau</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Ctau" alt="\tau"></td>
+</tr>
+<tr>
+<td>\Upsilon</td>
+<td><img src="https://math.jianshu.com/math?formula=%5CUpsilon" alt="\Upsilon"></td>
+<td>\upsilon</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cupsilon" alt="\upsilon"></td>
+</tr>
+<tr>
+<td>\Phi</td>
+<td><img src="https://math.jianshu.com/math?formula=%5CPhi" alt="\Phi"></td>
+<td>\phi</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cphi" alt="\phi"></td>
+</tr>
+<tr>
+<td>X</td>
+<td><img src="https://math.jianshu.com/math?formula=X" alt="X"></td>
+<td>\chi</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cchi" alt="\chi"></td>
+</tr>
+<tr>
+<td>\Psi</td>
+<td><img src="https://math.jianshu.com/math?formula=%5CPsi" alt="\Psi"></td>
+<td>\psi</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Cpsi" alt="\psi"></td>
+</tr>
+<tr>
+<td>\Omega</td>
+<td><img src="https://math.jianshu.com/math?formula=%5COmega" alt="\Omega"></td>
+<td>\omega</td>
+<td><img src="https://math.jianshu.com/math?formula=%5Comega" alt="\omega"></td>
+</tr>
+</tbody></table>
+<h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><p><a href="http://www.ctex.org/TeX" target="_blank" rel="noopener">TeX</a></p>
+<p><a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener">MATHEMATICS</a></p>
+]]></content>
+      <categories>
+        <category>Tools</category>
+      </categories>
+      <tags>
+        <tag>LaTeX</tag>
+        <tag>Notes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
+    <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
+    <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
+
+<p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>部署博客，发布文章。</p>
+<h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">标题：#~######，一至六级标题</span><br><span class="line">强调：Ctrl+B</span><br><span class="line">下划线： Ctrl+U</span><br><span class="line">删除：Alt+Shift+<span class="number">5</span></span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p>
+<p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p>
+<p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p>
+<p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p>
+<p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p>
+<p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>
+<p><a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT 使用文档</a></p>
+<p><a href="https://vel.life/Markdown-%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener">Markdown-语法笔记</a></p>
+]]></content>
+      <categories>
+        <category>Tools</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数据结构笔记 | 清华大学邓俊辉 | 第三版</title>
+    <url>/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</url>
+    <content><![CDATA[<h1 id="第一章-绪论"><a href="#第一章-绪论" class="headerlink" title="第一章 绪论"></a>第一章 绪论</h1><h2 id="a-计算"><a href="#a-计算" class="headerlink" title="a.计算"></a>a.计算</h2><p><strong>算法要素：</strong></p>
+<ul>
+<li>输入与输出、</li>
+<li>基本操作、确定性与可行性</li>
+<li>有穷性与正确性</li>
+<li>退化与鲁棒性</li>
+<li>重用性</li>
+</ul>
+<p><strong>好算法</strong>：<strong>正确</strong>（处理简单的、大规模的、一般性的、退化的、合法的输入）、<strong>健壮</strong>、<strong>可读</strong>、<strong>效率</strong>（速度快、存储空间小）</p>
+<p><strong>计算成本</strong>T(n)：求解规模为n的问题所需基本操作数，在规模为n的所有实例中，只关注最坏（成本最高）者</p>
+<h2 id="b-大O记号"><a href="#b-大O记号" class="headerlink" title="b.大O记号"></a>b.大O记号</h2><p>T(n)定义为算法所执行基本操作的总次数。</p>
+<p>关注T(n)的渐进上界。引入<strong>大O记号</strong>。</p>
+<p>具体地，由T(n) &lt; = c.f(n)，用f(n)代替T(n)，可忽略常系数和低次项。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//常数情况</span></span><br><span class="line"><span class="number">2013</span>×<span class="number">2013</span></span><br><span class="line"><span class="comment">//包含循环情况</span></span><br><span class="line"><span class="keyword">for</span>(i=<span class="number">0</span>; i&lt;n; i+= n/<span class="number">2013</span> + <span class="number">1</span>);</span><br><span class="line"><span class="keyword">for</span>(i=<span class="number">1</span>; i&lt;n; i=<span class="number">1</span> &lt;&lt; i);</span><br><span class="line"><span class="comment">//包含分支</span></span><br><span class="line"><span class="keyword">if</span>((n+m)*(n+m) &lt; <span class="number">4</span>*n*m) <span class="keyword">goto</span> UNREACHABLE;</span><br><span class="line"><span class="comment">//包含递归</span></span><br><span class="line"><span class="keyword">if</span>(<span class="number">2</span>==(n*n)% <span class="number">5</span>) <span class="number">01</span>(n);</span><br></pre></td></tr></table></figure>
+
+<p><strong>O(1)</strong> ：常数</p>
+<p><strong>O(logn)</strong> 对数：此类算法非常有效，复杂度无限接近常数，可忽略常底数和常数次幂。</p>
+<p><strong>O(n)</strong> 线性及多项式：线性，从n到n2是编程题主要覆盖的范围。</p>
+<p><strong>O(2^n)</strong> 指数：无效，从多项式到指数被认为有效算法到无效算法的分水岭。指数复杂度算法无法真正应用于实际问题中，不是有效算法，甚至不能称之为算法。相应地，多项式复杂度的算法也被称作南街的(intractable)问题。</p>
+<h2 id="c-常见算法分析"><a href="#c-常见算法分析" class="headerlink" title="c.常见算法分析"></a>c.常见算法分析</h2><p><strong>两个任务</strong>：<strong>正确性</strong>（不变性、单调性）+ <strong>复杂度</strong><br><strong>复杂度分析</strong>：猜测+验证，迭代（级数求和），递归（递归跟踪+递推方程）<br><strong>算数级数</strong>：与末项平方同阶<br><strong>幂方级数</strong>：比幂次高出一阶<br><strong>几何级数</strong>(a&gt;1)：与末项同阶<br><strong>收敛级数</strong>：O(1)<br><strong>调和级数</strong>：1+1/2+1/3+…+1/n=O(logn)<br><strong>对数级数</strong>：log1+log2+…+logn=O(nlogn)</p>
+<p>以冒泡排序为例：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">bubblesort</span><span class="params">(<span class="keyword">int</span> A[], <span class="keyword">int</span> n)</span></span>&#123;</span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">bool</span> sorted = <span class="literal">false</span>; sorted = !sorted; n--)</span><br><span class="line">		<span class="keyword">for</span> (<span class="keyword">int</span> i=<span class="number">1</span>; i&lt;n; i++)</span><br><span class="line">			<span class="keyword">if</span> (A[i<span class="number">-1</span>] &gt; A[i])&#123;</span><br><span class="line">				swap(A[i<span class="number">-1</span>], A[i]);</span><br><span class="line">				sorted = <span class="literal">false</span>;</span><br><span class="line">			&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>不变性</strong>：经k轮交换，最大的k个元素就位<br><strong>单调性</strong>：经k轮交换，问题规模缩减至n-k<br><strong>正确性</strong>：经至多n趟扫描后，算法必然终止且给出正确解答</p>
+<h2 id="d-递归及迭代"><a href="#d-递归及迭代" class="headerlink" title="d.递归及迭代"></a>d.递归及迭代</h2><p><strong>分而治之</strong>：划分为两个子问题，规模大体相当。</p>
+<p><strong>减而治之</strong>：划分为两个子问题，其一平凡，另一缩减。</p>
+<ol>
+<li><strong>Fibonacci</strong>数：迭代</li>
+</ol>
+<p>动态规划：按规模自小而大求解各子问题的过程。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">fibI</span><span class="params">(<span class="keyword">int</span> n)</span></span>&#123;</span><br><span class="line">    f = <span class="number">0</span>; g = <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">while</span> (<span class="number">0</span> &lt; n--)&#123;</span><br><span class="line">	    g = g + f;</span><br><span class="line">	    f = g - f;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> g;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>仅使用两个中间变量f和g，记录当前的一对相邻Fibonacci数。整个算法仅需线性步的迭代.</p>
+<p><strong>时间复杂度为O(n)</strong>,<strong>空间复杂度为O(1)</strong></p>
+<ol>
+<li><strong>最长公共子序列</strong>（可能有多个；可能有歧义）</li>
+</ol>
+<p>对于序列A[0, n]和B[0, m]，LSC有三种情况：<br>（1）n = -1或m = -1，取空序列（“”）</p>
+<p>（2）A[n] = ‘X’ = B[m]，取LSC(A[0, n),B[0, m)) + ‘X’ （减而治之）</p>
+<p>（3）A[n] ≠ B[m]，则在 LCS(A[0, n], B[0, m))与 LCS(A[0, n), B[0, m])中取更长者 （分而治之）</p>
+<p><strong>最好情况：O(n + m)</strong></p>
+<p><strong>最坏情况：O(2^n),此时 (n = m)</strong></p>
+<p>与斐波那契数列一样，有大量重复的递归实例；若采用动态规划，只需O(nm)时间即可计算所有子问题，为此只需:</p>
+<p>（1）将所有子问题假想列成一张表；</p>
+<p>（2）颠倒计算方向，从LCS(A[0], B[0])出发依次计算所有项。</p>
+<h2 id="e-习题集"><a href="#e-习题集" class="headerlink" title="e.习题集"></a>e.习题集</h2><p>习题1-12</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">(<span class="keyword">unsigned</span> <span class="keyword">long</span>) <span class="number">-1</span> <span class="comment">//在不知道最大无符号整数大小的情况下，只需将-1转换为此类型，轻松获得此类型的最大值</span></span><br></pre></td></tr></table></figure>
+
+<h1 id="第二章-向量"><a href="#第二章-向量" class="headerlink" title="第二章 向量"></a>第二章 向量</h1><p><strong>向量（vector）</strong>是线性数组的一种抽象与泛化。</p>
+<p>从向量最基本的接口出发，设计并实现与之对应的向量模板类。</p>
+<h2 id="a-向量ADT支持的操作接口"><a href="#a-向量ADT支持的操作接口" class="headerlink" title="a.向量ADT支持的操作接口"></a>a.向量ADT支持的操作接口</h2><table>
+<thead>
+<tr>
+<th>操作接口</th>
+<th>功能</th>
+<th>适用对象</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>size()</td>
+<td>报告向量当前的规模（元素总数）</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>get(r)</td>
+<td>获取秩为r的元素</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>put(r, e)</td>
+<td>用e替换秩为r的元素</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>insert(r, e)</td>
+<td>e作为秩为r元素插入，后继元素依次右移</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>remove(r)</td>
+<td>删除秩为r的元素，返回该元素中原存放的对象</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>disordered()</td>
+<td>判断所有元素是否已按非降序排列</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>sort()</td>
+<td>调整各元素位置，使之按非降序排列</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>find(e)</td>
+<td>查找等于e且秩最大的元素</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>search(e)</td>
+<td>查找目标元素e，返回不大于e且秩最大的元素</td>
+<td>有序向量</td>
+</tr>
+<tr>
+<td>deduplicate()</td>
+<td>剔除重复元素</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>uniquify()</td>
+<td>剔除重复元素</td>
+<td>有序向量</td>
+</tr>
+<tr>
+<td>traverse()</td>
+<td>遍历向量并统一处理所有元素，处理方法由函数对象指定</td>
+<td>向量</td>
+</tr>
+</tbody></table>
+<h2 id="b-Vector模板类"><a href="#b-Vector模板类" class="headerlink" title="b.Vector模板类"></a>b.Vector模板类</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">typedef</span> <span class="keyword">int</span> Rank; <span class="comment">//秩</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> DEFAULT_CAPACITY  3 <span class="comment">//默认的初始容量（实际应用中可设置为更大）</span></span></span><br><span class="line"></span><br><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="class"><span class="keyword">class</span> <span class="title">Vector</span> &#123;</span> <span class="comment">//向量模板类</span></span><br><span class="line"><span class="keyword">protected</span>:</span><br><span class="line">   Rank _size; <span class="keyword">int</span> _capacity;  T* _elem; <span class="comment">//规模、容量、数据区</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">copyFrom</span> <span class="params">( T <span class="keyword">const</span>* A, Rank lo, Rank hi )</span></span>; <span class="comment">//复制数组区间A[lo, hi)</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">expand</span><span class="params">()</span></span>; <span class="comment">//空间不足时扩容</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">shrink</span><span class="params">()</span></span>; <span class="comment">//装填因子过小时压缩</span></span><br><span class="line">   <span class="function"><span class="keyword">bool</span> <span class="title">bubble</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//扫描交换</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">bubbleSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//起泡排序算法</span></span><br><span class="line">   <span class="function">Rank <span class="title">max</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//选取最大元素</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">selectionSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//选择排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">merge</span> <span class="params">( Rank lo, Rank mi, Rank hi )</span></span>; <span class="comment">//归并算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">mergeSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//归并排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">heapSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//堆排序（稍后结合完全堆讲解）</span></span><br><span class="line">   <span class="function">Rank <span class="title">partition</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//轴点构造算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">quickSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//快速排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">shellSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//希尔排序算法</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line"><span class="comment">// 构造函数</span></span><br><span class="line">   Vector ( <span class="keyword">int</span> c = DEFAULT_CAPACITY, <span class="keyword">int</span> s = <span class="number">0</span>, T v = <span class="number">0</span> ) <span class="comment">//容量为c、规模为s、所有元素初始为v</span></span><br><span class="line">   &#123; _elem = <span class="keyword">new</span> T[_capacity = c]; <span class="keyword">for</span> ( _size = <span class="number">0</span>; _size &lt; s; _elem[_size++] = v ); &#125; <span class="comment">//s&lt;=c</span></span><br><span class="line">   Vector ( T <span class="keyword">const</span>* A, Rank n ) &#123; copyFrom ( A, <span class="number">0</span>, n ); &#125; <span class="comment">//数组整体复制</span></span><br><span class="line">   Vector ( T <span class="keyword">const</span>* A, Rank lo, Rank hi ) &#123; copyFrom ( A, lo, hi ); &#125; <span class="comment">//区间</span></span><br><span class="line">   Vector ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; V ) &#123; copyFrom ( V._elem, <span class="number">0</span>, V._size ); &#125; <span class="comment">//向量整体复制</span></span><br><span class="line">   Vector ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; V, Rank lo, Rank hi ) &#123; copyFrom ( V._elem, lo, hi ); &#125; <span class="comment">//区间</span></span><br><span class="line"><span class="comment">// 析构函数</span></span><br><span class="line">   ~Vector() &#123; <span class="keyword">delete</span> [] _elem; &#125; <span class="comment">//释放内部空间</span></span><br><span class="line"><span class="comment">// 只读访问接口</span></span><br><span class="line">   <span class="function">Rank <span class="title">size</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> _size; &#125; <span class="comment">//规模</span></span><br><span class="line">   <span class="function"><span class="keyword">bool</span> <span class="title">empty</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> !_size; &#125; <span class="comment">//判空</span></span><br><span class="line">   <span class="function">Rank <span class="title">find</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> <span class="built_in">find</span> ( e, <span class="number">0</span>, _size ); &#125; <span class="comment">//无序向量整体查找</span></span><br><span class="line">   <span class="function">Rank <span class="title">find</span> <span class="params">( T <span class="keyword">const</span>&amp; e, Rank lo, Rank hi )</span> <span class="keyword">const</span></span>; <span class="comment">//无序向量区间查找</span></span><br><span class="line">   <span class="function">Rank <span class="title">search</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> <span class="keyword">const</span> <span class="comment">//有序向量整体查找</span></span></span><br><span class="line"><span class="function">   </span>&#123; <span class="keyword">return</span> ( <span class="number">0</span> &gt;= _size ) ? <span class="number">-1</span> : search ( e, <span class="number">0</span>, _size ); &#125;</span><br><span class="line">   <span class="function">Rank <span class="title">search</span> <span class="params">( T <span class="keyword">const</span>&amp; e, Rank lo, Rank hi )</span> <span class="keyword">const</span></span>; <span class="comment">//有序向量区间查找</span></span><br><span class="line"><span class="comment">// 可写访问接口</span></span><br><span class="line">   T&amp; <span class="keyword">operator</span>[] ( Rank r ); <span class="comment">//重载下标操作符，可以类似于数组形式引用各元素</span></span><br><span class="line">   <span class="keyword">const</span> T&amp; <span class="keyword">operator</span>[] ( Rank r ) <span class="keyword">const</span>; <span class="comment">//仅限于做右值的重载版本</span></span><br><span class="line">   Vector&lt;T&gt; &amp; <span class="keyword">operator</span>= ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; ); <span class="comment">//重载赋值操作符，以便直接克隆向量</span></span><br><span class="line">   <span class="function">T <span class="title">remove</span> <span class="params">( Rank r )</span></span>; <span class="comment">//删除秩为r的元素</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">remove</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//删除秩在区间[lo, hi)之内的元素</span></span><br><span class="line">   <span class="function">Rank <span class="title">insert</span> <span class="params">( Rank r, T <span class="keyword">const</span>&amp; e )</span></span>; <span class="comment">//插入元素</span></span><br><span class="line">   <span class="function">Rank <span class="title">insert</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> </span>&#123; <span class="keyword">return</span> insert ( _size, e ); &#125; <span class="comment">//默认作为末元素插入</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">sort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//对[lo, hi)排序</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">sort</span><span class="params">()</span> </span>&#123; sort ( <span class="number">0</span>, _size ); &#125; <span class="comment">//整体排序</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">unsort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//对[lo, hi)置乱</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">unsort</span><span class="params">()</span> </span>&#123; unsort ( <span class="number">0</span>, _size ); &#125; <span class="comment">//整体置乱</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">deduplicate</span><span class="params">()</span></span>; <span class="comment">//无序去重</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">uniquify</span><span class="params">()</span></span>; <span class="comment">//有序去重</span></span><br><span class="line"><span class="comment">// 遍历</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">traverse</span> <span class="params">( <span class="keyword">void</span> (* ) ( T&amp; ) )</span></span>; <span class="comment">//遍历（使用函数指针，只读或局部性修改）</span></span><br><span class="line">   <span class="keyword">template</span> &lt;<span class="keyword">typename</span> VST&gt; <span class="function"><span class="keyword">void</span> <span class="title">traverse</span> <span class="params">( VST&amp; )</span></span>; <span class="comment">//遍历（使用函数对象，可全局性修改）</span></span><br><span class="line">&#125;; <span class="comment">//Vector</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="c-构造和析构"><a href="#c-构造和析构" class="headerlink" title="c.构造和析构"></a>c.构造和析构</h2><p><strong>基于复制的构造方法</strong></p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//元素类型</span></span><br><span class="line"><span class="keyword">void</span> Vector&lt;T&gt;::copyFrom ( T <span class="keyword">const</span>* A, Rank lo, Rank hi ) &#123; <span class="comment">//以数组区间A[lo, hi)为蓝本复制向量</span></span><br><span class="line">   _elem = <span class="keyword">new</span> T[_capacity = <span class="number">2</span> * ( hi - lo ) ]; _size = <span class="number">0</span>; <span class="comment">//分配空间，规模清零</span></span><br><span class="line">   <span class="keyword">while</span> ( lo &lt; hi ) <span class="comment">//A[lo, hi)内的元素逐一</span></span><br><span class="line">      _elem[_size++] = A[lo++]; <span class="comment">//复制至_elem[0, hi - lo)</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>需强调的是，由于向量内部含有动态分配的空间，默认的运算符“=”不足以支持向量之间的直接赋值。</p>
+<p>故重载向量的赋值运算符。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; Vector&lt;T&gt;::<span class="keyword">operator</span>= (Vector&lt;T&gt; <span class="keyword">const</span>&amp; V)&#123; <span class="comment">//重载</span></span><br><span class="line">	<span class="keyword">if</span> (_elem) <span class="keyword">delete</span> [] _elem; <span class="comment">//释放原有内容</span></span><br><span class="line">	copyFrom ( V._elem, <span class="number">0</span>, V.<span class="built_in">size</span>() ); <span class="comment">//整体复制</span></span><br><span class="line">	<span class="keyword">return</span> *<span class="keyword">this</span>; <span class="comment">//返回当前对象的引用，以便链式赋值</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="c-动态空间管理"><a href="#c-动态空间管理" class="headerlink" title="c.动态空间管理"></a>c.动态空间管理</h2><h3 id="1-静态空间管理"><a href="#1-静态空间管理" class="headerlink" title="1.静态空间管理"></a>1.静态空间管理</h3><p>内部数组所占物理空间的容量，若在向量的生命期内不允许调整，则为静态管理策略。</p>
+<p>缺点：因容量固定，总有可能在此后的某一时刻，无法加入更多的新元素–即导致所谓的上溢（overflow）。</p>
+<p>也有可能拥有少量元素的数组长时间占据大量物理空间，造成空间浪费。</p>
+<h3 id="2-可扩充向量"><a href="#2-可扩充向量" class="headerlink" title="2.可扩充向量"></a>2.可扩充向量</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="keyword">void</span> Vector&lt;T&gt;::expand() &#123; <span class="comment">//向量空间不足时扩容</span></span><br><span class="line">   <span class="keyword">if</span> ( _size &lt; _capacity ) <span class="keyword">return</span>; <span class="comment">//尚未满员时，不必扩容</span></span><br><span class="line">   <span class="keyword">if</span> ( _capacity &lt; DEFAULT_CAPACITY ) _capacity = DEFAULT_CAPACITY; <span class="comment">//不低于最小容量</span></span><br><span class="line">   T* oldElem = _elem;  _elem = <span class="keyword">new</span> T[_capacity &lt;&lt;= <span class="number">1</span>]; <span class="comment">//容量加倍</span></span><br><span class="line">   <span class="keyword">for</span> ( <span class="keyword">int</span> i = <span class="number">0</span>; i &lt; _size; i++ )</span><br><span class="line">      _elem[i] = oldElem[i]; <span class="comment">//复制原向量内容（T为基本类型，或已重载赋值操作符'='）</span></span><br><span class="line">   <span class="keyword">delete</span> [] oldElem; <span class="comment">//释放原空间</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>该扩容策略是<strong>容量加倍策略</strong></p>
+<p><strong>分析：</strong>最坏情况：在初始容量为1的满向量中，连续插入n=2 ^ m&gt;&gt;2个元素，在第1、2、4、8、16次插入都需要扩容，每次扩容中复制原向量的时间成本分别为1,2,4,8，…,2^m = n，总体耗时O(n)，每次扩容的分摊成本为O(1)<br><strong>平均分析复杂度</strong>：根据数据结构各种操作出现概率的分布，将对应的成本加权平均，各种可能的操作作为独立事件分别考查，割裂了操作之间的相关性和连贯性，不能准确评判数据结构和算法的真实性能；<br><strong>分摊复杂度</strong>：对数据结构连续实施足够多次操作，所需总成本分摊至单次操作，对一系列操作做整体的考量。</p>
+<p>另外，<strong>追加固定数目的单元的策略</strong>，无论采用的固定常数多大，在最坏的情况下，此类数组单次操作的分摊时间复杂度都将高达<strong>Ω(n)</strong>。</p>
+<h3 id="3-缩小容量"><a href="#3-缩小容量" class="headerlink" title="3.缩小容量"></a>3.缩小容量</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="keyword">void</span> Vector&lt;T&gt;::shrink() &#123; <span class="comment">//装填因子过小时压缩向量所占空间</span></span><br><span class="line">   <span class="keyword">if</span> ( _capacity &lt; DEFAULT_CAPACITY &lt;&lt; <span class="number">1</span> ) <span class="keyword">return</span>; <span class="comment">//不致收缩到DEFAULT_CAPACITY以下</span></span><br><span class="line">   <span class="keyword">if</span> ( _size &lt;&lt; <span class="number">2</span> &gt; _capacity ) <span class="keyword">return</span>; <span class="comment">//以25%为界</span></span><br><span class="line">   T* oldElem = _elem;  _elem = <span class="keyword">new</span> T[_capacity &gt;&gt;= <span class="number">1</span>]; <span class="comment">//容量减半</span></span><br><span class="line">   <span class="keyword">for</span> ( <span class="keyword">int</span> i = <span class="number">0</span>; i &lt; _size; i++ ) _elem[i] = oldElem[i]; <span class="comment">//复制原向量内容</span></span><br><span class="line">   <span class="keyword">delete</span> [] oldElem; <span class="comment">//释放原空间</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="d-常规向量"><a href="#d-常规向量" class="headerlink" title="d.常规向量"></a>d.常规向量</h2><h3 id="1-直接引用元素"><a href="#1-直接引用元素" class="headerlink" title="1.直接引用元素"></a>1.直接引用元素</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; </span><br><span class="line">T&amp; Vector::<span class="keyword">operator</span>[] ( Rank r ) <span class="keyword">const</span> <span class="comment">//重载下标操作符</span></span><br><span class="line">&#123;   <span class="keyword">return</span> _elem[r]; &#125; <span class="comment">//assert: 0 &lt;= r &lt; _size</span></span><br></pre></td></tr></table></figure>
+
+<p>此后对外的V[r]对应内部V._elem[r]<br><strong>右值</strong>：T x = V[r] + U[s] * W[t];<br><strong>左值</strong>：V[r] = (T)(2*x + 3)</p>
+<h3 id="2-插入"><a href="#2-插入" class="headerlink" title="2.插入"></a>2.插入</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//e作为秩为r元素插入</span></span><br><span class="line">Rank Vector&lt;T&gt;::insert(Rank r, T <span class="keyword">const</span> &amp; e)&#123;</span><br><span class="line">	expand(); <span class="comment">//如有必要，扩容</span></span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">int</span> i=_size; i&gt;r; i--)</span><br><span class="line">		_elem[i] = _elem[i<span class="number">-1</span>]; <span class="comment">//后继元素顺次后移一个单元</span></span><br><span class="line">	_elem[r] = e; _size++;</span><br><span class="line">	<span class="keyword">return</span> r; <span class="comment">//返回秩</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-区间删除"><a href="#3-区间删除" class="headerlink" title="3.区间删除"></a>3.区间删除</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//e作为秩为r元素插入</span></span><br><span class="line">Rank Vector&lt;T&gt;::insert(Rank r, T <span class="keyword">const</span> &amp; e)&#123;</span><br><span class="line">	expand(); <span class="comment">//如有必要，扩容</span></span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">int</span> i=_size; i&gt;r; i--)</span><br><span class="line">		_elem[i] = _elem[i<span class="number">-1</span>]; <span class="comment">//后继元素顺次后移一个单元</span></span><br><span class="line">	_elem[r] = e; _size++;</span><br><span class="line">	<span class="keyword">return</span> r; <span class="comment">//返回秩</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="4-单元素删除"><a href="#4-单元素删除" class="headerlink" title="4.单元素删除"></a>4.单元素删除</h3><p>即区间删除的特例：[r] = [r, r+1)</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//删除向量中秩为r的元素</span></span><br><span class="line">T Vector&lt;T&gt;::<span class="built_in">remove</span>(Rank r)&#123;</span><br><span class="line">	T e = _elem[r]; <span class="comment">//备份被删除元素</span></span><br><span class="line">	<span class="built_in">remove</span>(r,r+<span class="number">1</span>);</span><br><span class="line">	<span class="keyword">return</span> e;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="5-查找"><a href="#5-查找" class="headerlink" title="5.查找"></a>5.查找</h3><p><strong>无序向量</strong>：T为可判等的基本类型，或已重载操作符”==“或”!=”<br><strong>有序向量</strong>：T为可比较的基本类型，或已重载操作符”&lt;“或”&gt;”</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</span><br><span class="line">Rank Vector&lt;T&gt;::<span class="built_in">find</span>(T <span class="keyword">const</span> &amp; e, Rank lo, Rank hi) <span class="keyword">const</span>&#123;</span><br><span class="line">	<span class="keyword">while</span>((lo &lt; hi--) &amp;&amp; (e!=_elem[hi]));</span><br><span class="line">	<span class="keyword">return</span> hi;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="Question：能否反复调用remove-r-实现remove-lo-hi-呢？"><a href="#Question：能否反复调用remove-r-实现remove-lo-hi-呢？" class="headerlink" title="Question：能否反复调用remove(r)实现remove(lo,hi)呢？"></a>Question：能否反复调用remove(r)实现remove(lo,hi)呢？</h3><p><strong>删除单元素</strong>每次循环耗时正比于删除区间的后缀长度 = n - hi = O(n)，循环次数等于区间宽度=hi - lo = O(n)，如此将导致<strong>O(n^2)</strong>的复杂度。</p>
+]]></content>
+      <categories>
+        <category>NEEP</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+        <tag>912</tag>
+        <tag>DS</tag>
       </tags>
   </entry>
   <entry>
@@ -670,462 +1291,6 @@
       </tags>
   </entry>
   <entry>
-    <title>LaTeX+Typora使用Markdown编辑数学公式 | Typora使用文档</title>
-    <url>/LaTeX-Typora%E4%BD%BF%E7%94%A8Markdown%E7%BC%96%E8%BE%91%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
-    <content><![CDATA[<p><a href="https://baike.baidu.com/item/LaTeX/1212106" target="_blank" rel="noopener">LaTeX</a>是一种基于<a href="https://baike.baidu.com/item/TeX/3794463?fr=aladdin" target="_blank" rel="noopener">TeX</a>的文档排版系统,把大片排版的格式细节隐藏在若干样式之后，以内容的逻辑结构统帅纷繁的格式，遂成为现在最流行的科技写作——尤其是数学写作的工具之一.<a id="more"></a><br> 在Markdown中插入数学公式的语法是 <code>$数学公式$</code> 和 <code>$$数学公式$$</code>.</p>
-<h2 id="行内公式"><a href="#行内公式" class="headerlink" title="行内公式"></a>行内公式</h2><p>行内公式是可以让公式在文中与文字或其他东西混编，不独占一行.在数学模式下,符号会使用单独的字体,字母通常是倾斜的意大利体,数字和符号则是直立体.而且,数学符号之间的距离也与一般的水平模式不同:</p>
-<table>
-<thead>
-<tr>
-<th>示例</th>
-<th>显示</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><code>$2x+3y=34$</code></td>
-<td><img src="https://math.jianshu.com/math?formula=2x%2B3y%3D34" alt="2x+3y=34"></td>
-</tr>
-<tr>
-<td><code>2x+3y=34</code></td>
-<td>2x+3y=34</td>
-</tr>
-</tbody></table>
-<p>因此,在排版数学公式时,即使没有特殊符号的算式如1+1=2,或者简单的一个字母变量<img src="https://math.jianshu.com/math?formula=x" alt="x">,也要进入数学模式,使用<code>$1+1=2$</code>,<code>$x$</code>,而不是使用排版普通文字的方式</p>
-<h2 id="常用符号"><a href="#常用符号" class="headerlink" title="常用符号"></a>常用符号</h2><table>
-<thead>
-<tr>
-<th>符号</th>
-<th>示例</th>
-<th>显示</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>上下标</td>
-<td><code>S=a_{1}^2+a_{2}^2+a_{3}^2$</code></td>
-<td><img src="https://math.jianshu.com/math?formula=S%3Da_%7B1%7D%5E2%2Ba_%7B2%7D%5E2%2Ba_%7B3%7D%5E2" alt="S=a_{1}^2+a_{2}^2+a_{3}^2"></td>
-</tr>
-<tr>
-<td>括号</td>
-<td><code>$f(x, y) = 100 * \lbrace[(x + y) * 3] - 5\rbrace$</code></td>
-<td><img src="https://math.jianshu.com/math?formula=f(x%2C%20y)%20%3D%20100%20*%20%5Clbrace%5B(x%20%2B%20y)%20*%203%5D%20-%205%5Crbrace" alt="f(x, y) = 100 * \lbrace[(x + y) * 3] - 5\rbrace"></td>
-</tr>
-<tr>
-<td>分数</td>
-<td><code>$\frac{1}{3} 与 \cfrac{1}{3}$</code></td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cfrac%7B1%7D%7B3%7D%20%E4%B8%8E%20%5Ccfrac%7B1%7D%7B3%7D" alt="\frac{1}{3} 与 \cfrac{1}{3}"></td>
-</tr>
-<tr>
-<td>开方</td>
-<td><code>$\sqrt[3]{X}$</code>和<code>$\sqrt{5 - x}$</code></td>
-<td><img src="https://math.jianshu.com/math?formula=%5Csqrt%5B3%5D%7BX%7D" alt="\sqrt[3]{X}">和<img src="https://math.jianshu.com/math?formula=%5Csqrt%7B5%20-%20x%7D" alt="\sqrt{5 - x}"></td>
-</tr>
-</tbody></table>
-<h2 id="其他字符"><a href="#其他字符" class="headerlink" title="其他字符"></a>其他字符</h2><h3 id="关系运算符"><a href="#关系运算符" class="headerlink" title="关系运算符"></a>关系运算符</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>符号</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>\pm</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cpm" alt="\pm"></td>
-</tr>
-<tr>
-<td>\times</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ctimes" alt="\times"></td>
-</tr>
-<tr>
-<td>\div</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cdiv" alt="\div"></td>
-</tr>
-<tr>
-<td>\mid</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cmid" alt="\mid"></td>
-</tr>
-<tr>
-<td>\nmid</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cnmid" alt="\nmid"></td>
-</tr>
-<tr>
-<td>\cdot</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ccdot" alt="\cdot"></td>
-</tr>
-<tr>
-<td>\circ</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ccirc" alt="\circ"></td>
-</tr>
-<tr>
-<td>\ast</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cast" alt="\ast"></td>
-</tr>
-<tr>
-<td>\bigodot</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbigodot" alt="\bigodot"></td>
-</tr>
-<tr>
-<td>\bigotimes</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbigotimes" alt="\bigotimes"></td>
-</tr>
-<tr>
-<td>\bigoplus</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbigoplus" alt="\bigoplus"></td>
-</tr>
-<tr>
-<td>\leq</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cleq" alt="\leq"></td>
-</tr>
-<tr>
-<td>\geq</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cgeq" alt="\geq"></td>
-</tr>
-<tr>
-<td>\neq</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cneq" alt="\neq"></td>
-</tr>
-<tr>
-<td>\approx</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Capprox" alt="\approx"></td>
-</tr>
-<tr>
-<td>\equiv</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cequiv" alt="\equiv"></td>
-</tr>
-<tr>
-<td>\sum</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Csum" alt="\sum"></td>
-</tr>
-<tr>
-<td>\prod</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cprod" alt="\prod"></td>
-</tr>
-</tbody></table>
-<h3 id="对数运算符"><a href="#对数运算符" class="headerlink" title="对数运算符"></a>对数运算符</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>符号</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>\log</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Clog" alt="\log"></td>
-</tr>
-<tr>
-<td>\lg</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Clg" alt="\lg"></td>
-</tr>
-<tr>
-<td>\ln</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cln" alt="\ln"></td>
-</tr>
-</tbody></table>
-<h3 id="三角运算符"><a href="#三角运算符" class="headerlink" title="三角运算符"></a>三角运算符</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>符号</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>\bot</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbot" alt="\bot"></td>
-</tr>
-<tr>
-<td>\angle</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cangle" alt="\angle"></td>
-</tr>
-<tr>
-<td>\sin</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Csin" alt="\sin"></td>
-</tr>
-<tr>
-<td>\cos</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ccos" alt="\cos"></td>
-</tr>
-<tr>
-<td>\tan</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ctan" alt="\tan"></td>
-</tr>
-<tr>
-<td>\cot</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ccot" alt="\cot"></td>
-</tr>
-<tr>
-<td>\sec</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Csec" alt="\sec"></td>
-</tr>
-<tr>
-<td>\csc</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ccsc" alt="\csc"></td>
-</tr>
-</tbody></table>
-<h3 id="微积分运算符"><a href="#微积分运算符" class="headerlink" title="微积分运算符"></a>微积分运算符</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>符号</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>\prime</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cprime" alt="\prime"></td>
-</tr>
-<tr>
-<td>\int</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cint" alt="\int"></td>
-</tr>
-<tr>
-<td>\iint</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ciint" alt="\iint"></td>
-</tr>
-<tr>
-<td>\iiint</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ciiint" alt="\iiint"></td>
-</tr>
-<tr>
-<td>\oint</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Coint" alt="\oint"></td>
-</tr>
-<tr>
-<td>\lim</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Clim" alt="\lim"></td>
-</tr>
-<tr>
-<td>\infty</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cinfty" alt="\infty"></td>
-</tr>
-<tr>
-<td>\nabla</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cnabla" alt="\nabla"></td>
-</tr>
-<tr>
-<td>\mathrm{d}</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cmathrm%7Bd%7D" alt="\mathrm{d}"></td>
-</tr>
-</tbody></table>
-<h3 id="集合运算符"><a href="#集合运算符" class="headerlink" title="集合运算符"></a>集合运算符</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>符号</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>\emptyset</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cemptyset" alt="\emptyset"></td>
-</tr>
-<tr>
-<td>\in</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cin" alt="\in"></td>
-</tr>
-<tr>
-<td>\notin</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cnotin" alt="\notin"></td>
-</tr>
-<tr>
-<td>\subset</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Csubset" alt="\subset"></td>
-</tr>
-<tr>
-<td>\subseteq</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Csubseteq" alt="\subseteq"></td>
-</tr>
-<tr>
-<td>\supseteq</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Csupseteq" alt="\supseteq"></td>
-</tr>
-<tr>
-<td>\bigcap</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbigcap" alt="\bigcap"></td>
-</tr>
-<tr>
-<td>\bigcup</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbigcup" alt="\bigcup"></td>
-</tr>
-<tr>
-<td>\bigvee</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbigvee" alt="\bigvee"></td>
-</tr>
-<tr>
-<td>\bigwedge</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbigwedge" alt="\bigwedge"></td>
-</tr>
-<tr>
-<td>\biguplus</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbiguplus" alt="\biguplus"></td>
-</tr>
-<tr>
-<td>\bigsqcup</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbigsqcup" alt="\bigsqcup"></td>
-</tr>
-</tbody></table>
-<h3 id="希腊字母"><a href="#希腊字母" class="headerlink" title="希腊字母"></a>希腊字母</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>大写</th>
-<th>代码</th>
-<th>小写</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>A</td>
-<td><img src="https://math.jianshu.com/math?formula=A" alt="A"></td>
-<td>\alpha</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Calpha" alt="\alpha"></td>
-</tr>
-<tr>
-<td>B</td>
-<td><img src="https://math.jianshu.com/math?formula=B" alt="B"></td>
-<td>\beta</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cbeta" alt="\beta"></td>
-</tr>
-<tr>
-<td>\Gamma</td>
-<td><img src="https://math.jianshu.com/math?formula=%5CGamma" alt="\Gamma"></td>
-<td>\gamma</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cgamma" alt="\gamma"></td>
-</tr>
-<tr>
-<td>\Delta</td>
-<td><img src="https://math.jianshu.com/math?formula=%5CDelta" alt="\Delta"></td>
-<td>\delta</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cdelta" alt="\delta"></td>
-</tr>
-<tr>
-<td>E</td>
-<td><img src="https://math.jianshu.com/math?formula=E" alt="E"></td>
-<td>\epsilon</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cepsilon" alt="\epsilon"></td>
-</tr>
-<tr>
-<td>Z</td>
-<td><img src="https://math.jianshu.com/math?formula=Z" alt="Z"></td>
-<td>\zeta</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Czeta" alt="\zeta"></td>
-</tr>
-<tr>
-<td>H</td>
-<td><img src="https://math.jianshu.com/math?formula=H" alt="H"></td>
-<td>\eta</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ceta" alt="\eta"></td>
-</tr>
-<tr>
-<td>\Theta</td>
-<td><img src="https://math.jianshu.com/math?formula=%5CTheta" alt="\Theta"></td>
-<td>\theta</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ctheta" alt="\theta"></td>
-</tr>
-<tr>
-<td>I</td>
-<td><img src="https://math.jianshu.com/math?formula=I" alt="I"></td>
-<td>\iota</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ciota" alt="\iota"></td>
-</tr>
-<tr>
-<td>K</td>
-<td><img src="https://math.jianshu.com/math?formula=K" alt="K"></td>
-<td>\kappa</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ckappa" alt="\kappa"></td>
-</tr>
-<tr>
-<td>Lambda</td>
-<td><img src="https://math.jianshu.com/math?formula=%5CLambda" alt="\Lambda"></td>
-<td>\lambda</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Clambda" alt="\lambda"></td>
-</tr>
-<tr>
-<td>M</td>
-<td><img src="https://math.jianshu.com/math?formula=M" alt="M"></td>
-<td>\mu</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cmu" alt="\mu"></td>
-</tr>
-<tr>
-<td>N</td>
-<td><img src="https://math.jianshu.com/math?formula=N" alt="N"></td>
-<td>\nu</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cnu" alt="\nu"></td>
-</tr>
-<tr>
-<td>Xi</td>
-<td><img src="https://math.jianshu.com/math?formula=Xi" alt="Xi"></td>
-<td>\xi</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cxi" alt="\xi"></td>
-</tr>
-<tr>
-<td>O</td>
-<td><img src="https://math.jianshu.com/math?formula=O" alt="O"></td>
-<td>\omicron</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Comicron" alt="\omicron"></td>
-</tr>
-<tr>
-<td>\Pi</td>
-<td><img src="https://math.jianshu.com/math?formula=%5CPi" alt="\Pi"></td>
-<td>\pi</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cpi" alt="\pi"></td>
-</tr>
-<tr>
-<td>P</td>
-<td><img src="https://math.jianshu.com/math?formula=P" alt="P"></td>
-<td>\rho</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Crho" alt="\rho"></td>
-</tr>
-<tr>
-<td>\Sigma</td>
-<td><img src="https://math.jianshu.com/math?formula=%5CSigma" alt="\Sigma"></td>
-<td>\sigma</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Csigma" alt="\sigma"></td>
-</tr>
-<tr>
-<td>T</td>
-<td><img src="https://math.jianshu.com/math?formula=T" alt="T"></td>
-<td>\tau</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Ctau" alt="\tau"></td>
-</tr>
-<tr>
-<td>\Upsilon</td>
-<td><img src="https://math.jianshu.com/math?formula=%5CUpsilon" alt="\Upsilon"></td>
-<td>\upsilon</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cupsilon" alt="\upsilon"></td>
-</tr>
-<tr>
-<td>\Phi</td>
-<td><img src="https://math.jianshu.com/math?formula=%5CPhi" alt="\Phi"></td>
-<td>\phi</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cphi" alt="\phi"></td>
-</tr>
-<tr>
-<td>X</td>
-<td><img src="https://math.jianshu.com/math?formula=X" alt="X"></td>
-<td>\chi</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cchi" alt="\chi"></td>
-</tr>
-<tr>
-<td>\Psi</td>
-<td><img src="https://math.jianshu.com/math?formula=%5CPsi" alt="\Psi"></td>
-<td>\psi</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Cpsi" alt="\psi"></td>
-</tr>
-<tr>
-<td>\Omega</td>
-<td><img src="https://math.jianshu.com/math?formula=%5COmega" alt="\Omega"></td>
-<td>\omega</td>
-<td><img src="https://math.jianshu.com/math?formula=%5Comega" alt="\omega"></td>
-</tr>
-</tbody></table>
-<h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><p><a href="http://www.ctex.org/TeX" target="_blank" rel="noopener">TeX</a></p>
-<p><a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener">MATHEMATICS</a></p>
-]]></content>
-      <categories>
-        <category>Tools</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-        <tag>LaTeX</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2020年清华大学计算机系学硕录取分析</title>
     <url>/2020%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E5%AD%A6%E7%A1%95%E6%8B%9F%E5%BD%95%E5%8F%96%E5%88%86%E6%9E%90/</url>
     <content><![CDATA[<h2 id="2020年被录取计算机学硕（非强军计划）的14位同学情况"><a href="#2020年被录取计算机学硕（非强军计划）的14位同学情况" class="headerlink" title="2020年被录取计算机学硕（非强军计划）的14位同学情况"></a>2020年被录取计算机学硕（非强军计划）的14位同学情况</h2><p>2020年清华大学计算机系学硕初试线：<strong>359</strong>。</p>
@@ -1171,171 +1336,6 @@
       </categories>
       <tags>
         <tag>912</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数据结构笔记 | 清华大学邓俊辉 | 第三版</title>
-    <url>/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</url>
-    <content><![CDATA[<h1 id="第一章-绪论"><a href="#第一章-绪论" class="headerlink" title="第一章 绪论"></a>第一章 绪论</h1><h2 id="a-计算"><a href="#a-计算" class="headerlink" title="a.计算"></a>a.计算</h2><p><strong>算法要素：</strong></p>
-<ul>
-<li>输入与输出、</li>
-<li>基本操作、确定性与可行性</li>
-<li>有穷性与正确性</li>
-<li>退化与鲁棒性</li>
-<li>重用性</li>
-</ul>
-<p><strong>好算法</strong>：<strong>正确</strong>（处理简单的、大规模的、一般性的、退化的、合法的输入）、<strong>健壮</strong>、<strong>可读</strong>、<strong>效率</strong>（速度快、存储空间小）</p>
-<p><strong>计算成本</strong>T(n)：求解规模为n的问题所需基本操作数，在规模为n的所有实例中，只关注最坏（成本最高）者</p>
-<h2 id="b-大O记号"><a href="#b-大O记号" class="headerlink" title="b.大O记号"></a>b.大O记号</h2><p>T(n)定义为算法所执行基本操作的总次数。</p>
-<p>关注T(n)的渐进上界。引入<strong>大O记号</strong>。</p>
-<p>具体地，由T(n) &lt; = c.f(n)，用f(n)代替T(n)，可忽略常系数和低次项。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//常数情况</span></span><br><span class="line"><span class="number">2013</span>×<span class="number">2013</span></span><br><span class="line"><span class="comment">//包含循环情况</span></span><br><span class="line"><span class="keyword">for</span>(i=<span class="number">0</span>; i&lt;n; i+= n/<span class="number">2013</span> + <span class="number">1</span>);</span><br><span class="line"><span class="keyword">for</span>(i=<span class="number">1</span>; i&lt;n; i=<span class="number">1</span> &lt;&lt; i);</span><br><span class="line"><span class="comment">//包含分支</span></span><br><span class="line"><span class="keyword">if</span>((n+m)*(n+m) &lt; <span class="number">4</span>*n*m) <span class="keyword">goto</span> UNREACHABLE;</span><br><span class="line"><span class="comment">//包含递归</span></span><br><span class="line"><span class="keyword">if</span>(<span class="number">2</span>==(n*n)% <span class="number">5</span>) <span class="number">01</span>(n);</span><br></pre></td></tr></table></figure>
-
-<p><strong>O(1)</strong> ：常数</p>
-<p><strong>O(logn)</strong> 对数：此类算法非常有效，复杂度无限接近常数，可忽略常底数和常数次幂。</p>
-<p><strong>O(n)</strong> 线性及多项式：线性，从n到n2是编程题主要覆盖的范围。</p>
-<p><strong>O(2^n)</strong> 指数：无效，从多项式到指数被认为有效算法到无效算法的分水岭。指数复杂度算法无法真正应用于实际问题中，不是有效算法，甚至不能称之为算法。相应地，多项式复杂度的算法也被称作南街的(intractable)问题。</p>
-<h2 id="c-常见算法分析"><a href="#c-常见算法分析" class="headerlink" title="c.常见算法分析"></a>c.常见算法分析</h2><p><strong>两个任务</strong>：<strong>正确性</strong>（不变性、单调性）+ <strong>复杂度</strong><br><strong>复杂度分析</strong>：猜测+验证，迭代（级数求和），递归（递归跟踪+递推方程）<br><strong>算数级数</strong>：与末项平方同阶<br><strong>幂方级数</strong>：比幂次高出一阶<br><strong>几何级数</strong>(a&gt;1)：与末项同阶<br><strong>收敛级数</strong>：O(1)<br><strong>调和级数</strong>：1+1/2+1/3+…+1/n=O(logn)<br><strong>对数级数</strong>：log1+log2+…+logn=O(nlogn)</p>
-<p>以冒泡排序为例：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">bubblesort</span><span class="params">(<span class="keyword">int</span> A[], <span class="keyword">int</span> n)</span></span>&#123;</span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">bool</span> sorted = <span class="literal">false</span>; sorted = !sorted; n--)</span><br><span class="line">		<span class="keyword">for</span> (<span class="keyword">int</span> i=<span class="number">1</span>; i&lt;n; i++)</span><br><span class="line">			<span class="keyword">if</span> (A[i<span class="number">-1</span>] &gt; A[i])&#123;</span><br><span class="line">				swap(A[i<span class="number">-1</span>], A[i]);</span><br><span class="line">				sorted = <span class="literal">false</span>;</span><br><span class="line">			&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p><strong>不变性</strong>：经k轮交换，最大的k个元素就位<br><strong>单调性</strong>：经k轮交换，问题规模缩减至n-k<br><strong>正确性</strong>：经至多n趟扫描后，算法必然终止且给出正确解答</p>
-<h2 id="d-递归及迭代"><a href="#d-递归及迭代" class="headerlink" title="d.递归及迭代"></a>d.递归及迭代</h2><p><strong>分而治之</strong>：划分为两个子问题，规模大体相当。</p>
-<p><strong>减而治之</strong>：划分为两个子问题，其一平凡，另一缩减。</p>
-<ol>
-<li><strong>Fibonacci</strong>数：迭代</li>
-</ol>
-<p>动态规划：按规模自小而大求解各子问题的过程。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">fibI</span><span class="params">(<span class="keyword">int</span> n)</span></span>&#123;</span><br><span class="line">    f = <span class="number">0</span>; g = <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">while</span> (<span class="number">0</span> &lt; n--)&#123;</span><br><span class="line">	    g = g + f;</span><br><span class="line">	    f = g - f;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> g;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>仅使用两个中间变量f和g，记录当前的一对相邻Fibonacci数。整个算法仅需线性步的迭代.</p>
-<p><strong>时间复杂度为O(n)</strong>,<strong>空间复杂度为O(1)</strong></p>
-<ol>
-<li><strong>最长公共子序列</strong>（可能有多个；可能有歧义）</li>
-</ol>
-<p>对于序列A[0, n]和B[0, m]，LSC有三种情况：<br>（1）n = -1或m = -1，取空序列（“”）</p>
-<p>（2）A[n] = ‘X’ = B[m]，取LSC(A[0, n),B[0, m)) + ‘X’ （减而治之）</p>
-<p>（3）A[n] ≠ B[m]，则在 LCS(A[0, n], B[0, m))与 LCS(A[0, n), B[0, m])中取更长者 （分而治之）</p>
-<p><strong>最好情况：O(n + m)</strong></p>
-<p><strong>最坏情况：O(2^n),此时 (n = m)</strong></p>
-<p>与斐波那契数列一样，有大量重复的递归实例；若采用动态规划，只需O(nm)时间即可计算所有子问题，为此只需:</p>
-<p>（1）将所有子问题假想列成一张表；</p>
-<p>（2）颠倒计算方向，从LCS(A[0], B[0])出发依次计算所有项。</p>
-<h2 id="e-习题集"><a href="#e-习题集" class="headerlink" title="e.习题集"></a>e.习题集</h2><p>习题1-12</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">(<span class="keyword">unsigned</span> <span class="keyword">long</span>) <span class="number">-1</span> <span class="comment">//在不知道最大无符号整数大小的情况下，只需将-1转换为此类型，轻松获得此类型的最大值</span></span><br></pre></td></tr></table></figure>
-
-<h1 id="第二章-向量"><a href="#第二章-向量" class="headerlink" title="第二章 向量"></a>第二章 向量</h1><p><strong>向量（vector）</strong>是线性数组的一种抽象与泛化。</p>
-<p>从向量最基本的接口出发，设计并实现与之对应的向量模板类。</p>
-<h2 id="a-向量ADT支持的操作接口"><a href="#a-向量ADT支持的操作接口" class="headerlink" title="a.向量ADT支持的操作接口"></a>a.向量ADT支持的操作接口</h2><table>
-<thead>
-<tr>
-<th>操作接口</th>
-<th>功能</th>
-<th>适用对象</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>size()</td>
-<td>报告向量当前的规模（元素总数）</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>get(r)</td>
-<td>获取秩为r的元素</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>put(r, e)</td>
-<td>用e替换秩为r的元素</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>insert(r, e)</td>
-<td>e作为秩为r元素插入，后继元素依次右移</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>remove(r)</td>
-<td>删除秩为r的元素，返回该元素中原存放的对象</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>disordered()</td>
-<td>判断所有元素是否已按非降序排列</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>sort()</td>
-<td>调整各元素位置，使之按非降序排列</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>find(e)</td>
-<td>查找等于e且秩最大的元素</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>search(e)</td>
-<td>查找目标元素e，返回不大于e且秩最大的元素</td>
-<td>有序向量</td>
-</tr>
-<tr>
-<td>deduplicate()</td>
-<td>剔除重复元素</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>uniquify()</td>
-<td>剔除重复元素</td>
-<td>有序向量</td>
-</tr>
-<tr>
-<td>traverse()</td>
-<td>遍历向量并统一处理所有元素，处理方法由函数对象指定</td>
-<td>向量</td>
-</tr>
-</tbody></table>
-<h2 id="b-Vector模板类"><a href="#b-Vector模板类" class="headerlink" title="b.Vector模板类"></a>b.Vector模板类</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">typedef</span> <span class="keyword">int</span> Rank; <span class="comment">//秩</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> DEFAULT_CAPACITY  3 <span class="comment">//默认的初始容量（实际应用中可设置为更大）</span></span></span><br><span class="line"></span><br><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="class"><span class="keyword">class</span> <span class="title">Vector</span> &#123;</span> <span class="comment">//向量模板类</span></span><br><span class="line"><span class="keyword">protected</span>:</span><br><span class="line">   Rank _size; <span class="keyword">int</span> _capacity;  T* _elem; <span class="comment">//规模、容量、数据区</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">copyFrom</span> <span class="params">( T <span class="keyword">const</span>* A, Rank lo, Rank hi )</span></span>; <span class="comment">//复制数组区间A[lo, hi)</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">expand</span><span class="params">()</span></span>; <span class="comment">//空间不足时扩容</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">shrink</span><span class="params">()</span></span>; <span class="comment">//装填因子过小时压缩</span></span><br><span class="line">   <span class="function"><span class="keyword">bool</span> <span class="title">bubble</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//扫描交换</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">bubbleSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//起泡排序算法</span></span><br><span class="line">   <span class="function">Rank <span class="title">max</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//选取最大元素</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">selectionSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//选择排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">merge</span> <span class="params">( Rank lo, Rank mi, Rank hi )</span></span>; <span class="comment">//归并算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">mergeSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//归并排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">heapSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//堆排序（稍后结合完全堆讲解）</span></span><br><span class="line">   <span class="function">Rank <span class="title">partition</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//轴点构造算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">quickSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//快速排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">shellSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//希尔排序算法</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line"><span class="comment">// 构造函数</span></span><br><span class="line">   Vector ( <span class="keyword">int</span> c = DEFAULT_CAPACITY, <span class="keyword">int</span> s = <span class="number">0</span>, T v = <span class="number">0</span> ) <span class="comment">//容量为c、规模为s、所有元素初始为v</span></span><br><span class="line">   &#123; _elem = <span class="keyword">new</span> T[_capacity = c]; <span class="keyword">for</span> ( _size = <span class="number">0</span>; _size &lt; s; _elem[_size++] = v ); &#125; <span class="comment">//s&lt;=c</span></span><br><span class="line">   Vector ( T <span class="keyword">const</span>* A, Rank n ) &#123; copyFrom ( A, <span class="number">0</span>, n ); &#125; <span class="comment">//数组整体复制</span></span><br><span class="line">   Vector ( T <span class="keyword">const</span>* A, Rank lo, Rank hi ) &#123; copyFrom ( A, lo, hi ); &#125; <span class="comment">//区间</span></span><br><span class="line">   Vector ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; V ) &#123; copyFrom ( V._elem, <span class="number">0</span>, V._size ); &#125; <span class="comment">//向量整体复制</span></span><br><span class="line">   Vector ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; V, Rank lo, Rank hi ) &#123; copyFrom ( V._elem, lo, hi ); &#125; <span class="comment">//区间</span></span><br><span class="line"><span class="comment">// 析构函数</span></span><br><span class="line">   ~Vector() &#123; <span class="keyword">delete</span> [] _elem; &#125; <span class="comment">//释放内部空间</span></span><br><span class="line"><span class="comment">// 只读访问接口</span></span><br><span class="line">   <span class="function">Rank <span class="title">size</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> _size; &#125; <span class="comment">//规模</span></span><br><span class="line">   <span class="function"><span class="keyword">bool</span> <span class="title">empty</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> !_size; &#125; <span class="comment">//判空</span></span><br><span class="line">   <span class="function">Rank <span class="title">find</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> <span class="built_in">find</span> ( e, <span class="number">0</span>, _size ); &#125; <span class="comment">//无序向量整体查找</span></span><br><span class="line">   <span class="function">Rank <span class="title">find</span> <span class="params">( T <span class="keyword">const</span>&amp; e, Rank lo, Rank hi )</span> <span class="keyword">const</span></span>; <span class="comment">//无序向量区间查找</span></span><br><span class="line">   <span class="function">Rank <span class="title">search</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> <span class="keyword">const</span> <span class="comment">//有序向量整体查找</span></span></span><br><span class="line"><span class="function">   </span>&#123; <span class="keyword">return</span> ( <span class="number">0</span> &gt;= _size ) ? <span class="number">-1</span> : search ( e, <span class="number">0</span>, _size ); &#125;</span><br><span class="line">   <span class="function">Rank <span class="title">search</span> <span class="params">( T <span class="keyword">const</span>&amp; e, Rank lo, Rank hi )</span> <span class="keyword">const</span></span>; <span class="comment">//有序向量区间查找</span></span><br><span class="line"><span class="comment">// 可写访问接口</span></span><br><span class="line">   T&amp; <span class="keyword">operator</span>[] ( Rank r ); <span class="comment">//重载下标操作符，可以类似于数组形式引用各元素</span></span><br><span class="line">   <span class="keyword">const</span> T&amp; <span class="keyword">operator</span>[] ( Rank r ) <span class="keyword">const</span>; <span class="comment">//仅限于做右值的重载版本</span></span><br><span class="line">   Vector&lt;T&gt; &amp; <span class="keyword">operator</span>= ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; ); <span class="comment">//重载赋值操作符，以便直接克隆向量</span></span><br><span class="line">   <span class="function">T <span class="title">remove</span> <span class="params">( Rank r )</span></span>; <span class="comment">//删除秩为r的元素</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">remove</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//删除秩在区间[lo, hi)之内的元素</span></span><br><span class="line">   <span class="function">Rank <span class="title">insert</span> <span class="params">( Rank r, T <span class="keyword">const</span>&amp; e )</span></span>; <span class="comment">//插入元素</span></span><br><span class="line">   <span class="function">Rank <span class="title">insert</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> </span>&#123; <span class="keyword">return</span> insert ( _size, e ); &#125; <span class="comment">//默认作为末元素插入</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">sort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//对[lo, hi)排序</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">sort</span><span class="params">()</span> </span>&#123; sort ( <span class="number">0</span>, _size ); &#125; <span class="comment">//整体排序</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">unsort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//对[lo, hi)置乱</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">unsort</span><span class="params">()</span> </span>&#123; unsort ( <span class="number">0</span>, _size ); &#125; <span class="comment">//整体置乱</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">deduplicate</span><span class="params">()</span></span>; <span class="comment">//无序去重</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">uniquify</span><span class="params">()</span></span>; <span class="comment">//有序去重</span></span><br><span class="line"><span class="comment">// 遍历</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">traverse</span> <span class="params">( <span class="keyword">void</span> (* ) ( T&amp; ) )</span></span>; <span class="comment">//遍历（使用函数指针，只读或局部性修改）</span></span><br><span class="line">   <span class="keyword">template</span> &lt;<span class="keyword">typename</span> VST&gt; <span class="function"><span class="keyword">void</span> <span class="title">traverse</span> <span class="params">( VST&amp; )</span></span>; <span class="comment">//遍历（使用函数对象，可全局性修改）</span></span><br><span class="line">&#125;; <span class="comment">//Vector</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="c-构造和析构"><a href="#c-构造和析构" class="headerlink" title="c.构造和析构"></a>c.构造和析构</h2><p><strong>基于复制的构造方法</strong></p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//元素类型</span></span><br><span class="line"><span class="keyword">void</span> Vector&lt;T&gt;::copyFrom ( T <span class="keyword">const</span>* A, Rank lo, Rank hi ) &#123; <span class="comment">//以数组区间A[lo, hi)为蓝本复制向量</span></span><br><span class="line">   _elem = <span class="keyword">new</span> T[_capacity = <span class="number">2</span> * ( hi - lo ) ]; _size = <span class="number">0</span>; <span class="comment">//分配空间，规模清零</span></span><br><span class="line">   <span class="keyword">while</span> ( lo &lt; hi ) <span class="comment">//A[lo, hi)内的元素逐一</span></span><br><span class="line">      _elem[_size++] = A[lo++]; <span class="comment">//复制至_elem[0, hi - lo)</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>需强调的是，由于向量内部含有动态分配的空间，默认的运算符“=”不足以支持向量之间的直接赋值。</p>
-<p>故重载向量的赋值运算符。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; Vector&lt;T&gt;::<span class="keyword">operator</span>= (Vector&lt;T&gt; <span class="keyword">const</span>&amp; V)&#123; <span class="comment">//重载</span></span><br><span class="line">	<span class="keyword">if</span> (_elem) <span class="keyword">delete</span> [] _elem; <span class="comment">//释放原有内容</span></span><br><span class="line">	copyFrom ( V._elem, <span class="number">0</span>, V.<span class="built_in">size</span>() ); <span class="comment">//整体复制</span></span><br><span class="line">	<span class="keyword">return</span> *<span class="keyword">this</span>; <span class="comment">//返回当前对象的引用，以便链式赋值</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h2 id="c-动态空间管理"><a href="#c-动态空间管理" class="headerlink" title="c.动态空间管理"></a>c.动态空间管理</h2><h3 id="1-静态空间管理"><a href="#1-静态空间管理" class="headerlink" title="1.静态空间管理"></a>1.静态空间管理</h3><p>内部数组所占物理空间的容量，若在向量的生命期内不允许调整，则为静态管理策略。</p>
-<p>缺点：因容量固定，总有可能在此后的某一时刻，无法加入更多的新元素–即导致所谓的上溢（overflow）。</p>
-<p>也有可能拥有少量元素的数组长时间占据大量物理空间，造成空间浪费。</p>
-<h3 id="2-可扩充向量"><a href="#2-可扩充向量" class="headerlink" title="2.可扩充向量"></a>2.可扩充向量</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="keyword">void</span> Vector&lt;T&gt;::expand() &#123; <span class="comment">//向量空间不足时扩容</span></span><br><span class="line">   <span class="keyword">if</span> ( _size &lt; _capacity ) <span class="keyword">return</span>; <span class="comment">//尚未满员时，不必扩容</span></span><br><span class="line">   <span class="keyword">if</span> ( _capacity &lt; DEFAULT_CAPACITY ) _capacity = DEFAULT_CAPACITY; <span class="comment">//不低于最小容量</span></span><br><span class="line">   T* oldElem = _elem;  _elem = <span class="keyword">new</span> T[_capacity &lt;&lt;= <span class="number">1</span>]; <span class="comment">//容量加倍</span></span><br><span class="line">   <span class="keyword">for</span> ( <span class="keyword">int</span> i = <span class="number">0</span>; i &lt; _size; i++ )</span><br><span class="line">      _elem[i] = oldElem[i]; <span class="comment">//复制原向量内容（T为基本类型，或已重载赋值操作符'='）</span></span><br><span class="line">   <span class="keyword">delete</span> [] oldElem; <span class="comment">//释放原空间</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>该扩容策略是<strong>容量加倍策略</strong></p>
-<p><strong>分析：</strong>最坏情况：在初始容量为1的满向量中，连续插入n=2 ^ m&gt;&gt;2个元素，在第1、2、4、8、16次插入都需要扩容，每次扩容中复制原向量的时间成本分别为1,2,4,8，…,2^m = n，总体耗时O(n)，每次扩容的分摊成本为O(1)<br><strong>平均分析复杂度</strong>：根据数据结构各种操作出现概率的分布，将对应的成本加权平均，各种可能的操作作为独立事件分别考查，割裂了操作之间的相关性和连贯性，不能准确评判数据结构和算法的真实性能；<br><strong>分摊复杂度</strong>：对数据结构连续实施足够多次操作，所需总成本分摊至单次操作，对一系列操作做整体的考量。</p>
-<p>另外，<strong>追加固定数目的单元的策略</strong>，无论采用的固定常数多大，在最坏的情况下，此类数组单次操作的分摊时间复杂度都将高达<strong>Ω(n)</strong>。</p>
-<h3 id="3-缩小容量"><a href="#3-缩小容量" class="headerlink" title="3.缩小容量"></a>3.缩小容量</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="keyword">void</span> Vector&lt;T&gt;::shrink() &#123; <span class="comment">//装填因子过小时压缩向量所占空间</span></span><br><span class="line">   <span class="keyword">if</span> ( _capacity &lt; DEFAULT_CAPACITY &lt;&lt; <span class="number">1</span> ) <span class="keyword">return</span>; <span class="comment">//不致收缩到DEFAULT_CAPACITY以下</span></span><br><span class="line">   <span class="keyword">if</span> ( _size &lt;&lt; <span class="number">2</span> &gt; _capacity ) <span class="keyword">return</span>; <span class="comment">//以25%为界</span></span><br><span class="line">   T* oldElem = _elem;  _elem = <span class="keyword">new</span> T[_capacity &gt;&gt;= <span class="number">1</span>]; <span class="comment">//容量减半</span></span><br><span class="line">   <span class="keyword">for</span> ( <span class="keyword">int</span> i = <span class="number">0</span>; i &lt; _size; i++ ) _elem[i] = oldElem[i]; <span class="comment">//复制原向量内容</span></span><br><span class="line">   <span class="keyword">delete</span> [] oldElem; <span class="comment">//释放原空间</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h2 id="d-常规向量"><a href="#d-常规向量" class="headerlink" title="d.常规向量"></a>d.常规向量</h2><h3 id="1-直接引用元素"><a href="#1-直接引用元素" class="headerlink" title="1.直接引用元素"></a>1.直接引用元素</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; </span><br><span class="line">T&amp; Vector::<span class="keyword">operator</span>[] ( Rank r ) <span class="keyword">const</span> <span class="comment">//重载下标操作符</span></span><br><span class="line">&#123;   <span class="keyword">return</span> _elem[r]; &#125; <span class="comment">//assert: 0 &lt;= r &lt; _size</span></span><br></pre></td></tr></table></figure>
-
-<p>此后对外的V[r]对应内部V._elem[r]<br><strong>右值</strong>：T x = V[r] + U[s] * W[t];<br><strong>左值</strong>：V[r] = (T)(2*x + 3)</p>
-<h3 id="2-插入"><a href="#2-插入" class="headerlink" title="2.插入"></a>2.插入</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//e作为秩为r元素插入</span></span><br><span class="line">Rank Vector&lt;T&gt;::insert(Rank r, T <span class="keyword">const</span> &amp; e)&#123;</span><br><span class="line">	expand(); <span class="comment">//如有必要，扩容</span></span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">int</span> i=_size; i&gt;r; i--)</span><br><span class="line">		_elem[i] = _elem[i<span class="number">-1</span>]; <span class="comment">//后继元素顺次后移一个单元</span></span><br><span class="line">	_elem[r] = e; _size++;</span><br><span class="line">	<span class="keyword">return</span> r; <span class="comment">//返回秩</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="3-区间删除"><a href="#3-区间删除" class="headerlink" title="3.区间删除"></a>3.区间删除</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//e作为秩为r元素插入</span></span><br><span class="line">Rank Vector&lt;T&gt;::insert(Rank r, T <span class="keyword">const</span> &amp; e)&#123;</span><br><span class="line">	expand(); <span class="comment">//如有必要，扩容</span></span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">int</span> i=_size; i&gt;r; i--)</span><br><span class="line">		_elem[i] = _elem[i<span class="number">-1</span>]; <span class="comment">//后继元素顺次后移一个单元</span></span><br><span class="line">	_elem[r] = e; _size++;</span><br><span class="line">	<span class="keyword">return</span> r; <span class="comment">//返回秩</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="4-单元素删除"><a href="#4-单元素删除" class="headerlink" title="4.单元素删除"></a>4.单元素删除</h3><p>即区间删除的特例：[r] = [r, r+1)</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//删除向量中秩为r的元素</span></span><br><span class="line">T Vector&lt;T&gt;::<span class="built_in">remove</span>(Rank r)&#123;</span><br><span class="line">	T e = _elem[r]; <span class="comment">//备份被删除元素</span></span><br><span class="line">	<span class="built_in">remove</span>(r,r+<span class="number">1</span>);</span><br><span class="line">	<span class="keyword">return</span> e;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h4 id="5-查找"><a href="#5-查找" class="headerlink" title="5.查找"></a>5.查找</h4><p><strong>无序向量</strong>：T为可判等的基本类型，或已重载操作符”==“或”!=”<br><strong>有序向量</strong>：T为可比较的基本类型，或已重载操作符”&lt;“或”&gt;”</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</span><br><span class="line">Rank Vector&lt;T&gt;::<span class="built_in">find</span>(T <span class="keyword">const</span> &amp; e, Rank lo, Rank hi) <span class="keyword">const</span>&#123;</span><br><span class="line">	<span class="keyword">while</span>((lo &lt; hi--) &amp;&amp; (e!=_elem[hi]));</span><br><span class="line">	<span class="keyword">return</span> hi;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="Question：能否反复调用remove-r-实现remove-lo-hi-呢？"><a href="#Question：能否反复调用remove-r-实现remove-lo-hi-呢？" class="headerlink" title="Question：能否反复调用remove(r)实现remove(lo,hi)呢？"></a>Question：能否反复调用remove(r)实现remove(lo,hi)呢？</h3><p>删除单元素每次循环耗时正比于删除区间的后缀长度 = n - hi = O(n)，循环次数等于区间宽度=hi - lo = O(n)，如此将导致O(n^2)的复杂度。</p>
-]]></content>
-      <categories>
-        <category>NEEP</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-        <tag>912</tag>
-        <tag>DS</tag>
       </tags>
   </entry>
 </search>
