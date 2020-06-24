@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanherebrt.github.io/"/>
-  <updated>2020-06-22T16:35:44.124Z</updated>
+  <updated>2020-06-24T15:32:31.110Z</updated>
   <id>http://hanherebrt.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>时间随想</title>
+    <link href="http://hanherebrt.github.io/%E6%97%B6%E9%97%B4/"/>
+    <id>http://hanherebrt.github.io/%E6%97%B6%E9%97%B4/</id>
+    <published>2020-06-24T15:17:33.000Z</published>
+    <updated>2020-06-24T15:32:31.110Z</updated>
+    
+    <content type="html"><![CDATA[<p>New York is 3 hours ahead of California, but it does not make California slow.</p><p>Someone graduated at the age of 22, but waited 5 years before securing a good job!</p><p>Someone became a CEO at 25, and died at 50.</p><p>While another became a CEO at 50, and lived to 90 years.</p><p>Someone is still single, while someone else got married.</p><p>Absolutely everyone in this world works based on their Time Zone.</p><p>People around you might seem to go ahead of you, some might seem to be behind you.</p><p>But everyone is running their own RACE, in their own TIME. Don’t envy them or mock them.</p><p>They are in their TIME ZONE, and you are in yours!</p><p>Life is about waiting for the right moment to act.</p><p>So, RELAX.</p><p>You’re not LATE.</p><p>You’re not EARLY.</p><p>You are very much ON TIME, and in your TIME ZONE Destiny set up for you. </p><p>人生没有太晚的开始，哪怕你白发苍苍，一切都还来得及。</p><p>除了生和死的时间是固定的，其他事情，并没有一个固定的时间表要去遵循。</p><p>活得自在一点.s</p>]]></content>
+    
+    <summary type="html">
+    
+      每个人都在自己的时区里
+    
+    </summary>
+    
+    
+      <category term="Mind" scheme="http://hanherebrt.github.io/categories/Mind/"/>
+    
+    
+      <category term="随想" scheme="http://hanherebrt.github.io/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>西南交通大学茅以升学院2016级陈玉钰</title>
@@ -60,9 +83,9 @@
     
       <category term="912" scheme="http://hanherebrt.github.io/tags/912/"/>
     
-      <category term="Notes" scheme="http://hanherebrt.github.io/tags/Notes/"/>
-    
       <category term="DS" scheme="http://hanherebrt.github.io/tags/DS/"/>
+    
+      <category term="Notes" scheme="http://hanherebrt.github.io/tags/Notes/"/>
     
   </entry>
   
