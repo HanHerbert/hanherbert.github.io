@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanherebrt.github.io/"/>
-  <updated>2020-07-08T03:31:59.149Z</updated>
+  <updated>2020-07-08T05:58:29.673Z</updated>
   <id>http://hanherebrt.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://hanherebrt.github.io/CM/"/>
     <id>http://hanherebrt.github.io/CM/</id>
     <published>2020-07-08T02:00:19.000Z</published>
-    <updated>2020-07-08T03:31:59.149Z</updated>
+    <updated>2020-07-08T05:58:29.673Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="第-1-章-递归问题"><a href="#第-1-章-递归问题" class="headerlink" title="第 1 章 递归问题"></a>第 1 章 递归问题</h2><h3 id="1-1-汉诺塔"><a href="#1-1-汉诺塔" class="headerlink" title="1.1 汉诺塔"></a>1.1 汉诺塔</h3><ul><li><p>确定递归式</p><ul><li><strong>命名并求解</strong>。记$T_n$为$n$个圆盘从一根柱子移动到另一根柱子所需要的最少移动次数。</li><li>$T_n\leq2T_{n-1}+1, n&gt;0$, 移动$n$个圆盘，至多需要$T_{n-1}$次。</li><li>$T_{n}\geq2T_{n-1}+1$,  移动上面n-1个圆盘到中转盘需要$T_{n-1}$次, 移动最大的圆盘需要1次，将n-1个圆盘移动到目标盘需要$T_{n-1}$次，共最少需要$2T_{n-1}+1$次。</li><li>故得出递归式：$T_n=2T_{n-1}+1,n&gt;0$</li></ul></li><li><p>求出封闭形式</p><ul><li>观察前几项，由数学归纳法，假设$T_n=2^n-1,n\geq0$,证明正确。</li><li>平凡求解。$T_n+1=2T_{n-1}+2$, 记$U_n=T_n+1$, 得$U_n=2U_{n-1}$, $U_n$是等比数列，得出$T_n=2^n-1$。 </li></ul></li></ul><h3 id="1-2-平面上的直线"><a href="#1-2-平面上的直线" class="headerlink" title="1.2 平面上的直线"></a>1.2 平面上的直线</h3>]]></content>
+    <content type="html"><![CDATA[<h2 id="第-1-章-递归问题"><a href="#第-1-章-递归问题" class="headerlink" title="第 1 章 递归问题"></a>第 1 章 递归问题</h2><h3 id="1-1-汉诺塔"><a href="#1-1-汉诺塔" class="headerlink" title="1.1 汉诺塔"></a>1.1 汉诺塔</h3><ul><li><p>确定递归式</p><ul><li><strong>命名并求解</strong>。记$T_n$为$n$个圆盘从一根柱子移动到另一根柱子所需要的最少移动次数。</li><li>$T_n\leq2T_{n-1}+1, n&gt;0$, 移动$n$个圆盘，至多需要$T_{n-1}$次。</li><li>$T_{n}\geq2T_{n-1}+1$,  移动上面n-1个圆盘到中转盘需要$T_{n-1}$次, 移动最大的圆盘需要1次，将n-1个圆盘移动到目标盘需要$T_{n-1}$次，共最少需要$2T_{n-1}+1$次。</li><li>故得出递归式：$T_n=2T_{n-1}+1,n&gt;0$</li></ul></li><li><p>求出封闭形式</p><ul><li>观察前几项，由数学归纳法，假设$T_n=2^n-1,n\geq0$,证明正确。</li><li>平凡求解。$T_n+1=2T_{n-1}+2$, 记$U_n=T_n+1$, 得$U_n=2U_{n-1}$, $U_n$是等比数列，得出$T_n=2^n-1$。 </li></ul></li></ul><h3 id="1-2-平面上的直线"><a href="#1-2-平面上的直线" class="headerlink" title="1.2 平面上的直线"></a>1.2 平面上的直线</h3><p>问：平面上的$n$条直线是的</p>]]></content>
     
     <summary type="html">
     
@@ -129,9 +129,9 @@
       <category term="NEEP" scheme="http://hanherebrt.github.io/categories/NEEP/"/>
     
     
-      <category term="Notes" scheme="http://hanherebrt.github.io/tags/Notes/"/>
-    
       <category term="912" scheme="http://hanherebrt.github.io/tags/912/"/>
+    
+      <category term="Notes" scheme="http://hanherebrt.github.io/tags/Notes/"/>
     
       <category term="DS" scheme="http://hanherebrt.github.io/tags/DS/"/>
     
@@ -204,9 +204,9 @@
       <category term="NEEP" scheme="http://hanherebrt.github.io/categories/NEEP/"/>
     
     
-      <category term="Notes" scheme="http://hanherebrt.github.io/tags/Notes/"/>
-    
       <category term="912" scheme="http://hanherebrt.github.io/tags/912/"/>
+    
+      <category term="Notes" scheme="http://hanherebrt.github.io/tags/Notes/"/>
     
   </entry>
   
