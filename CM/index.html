@@ -30,7 +30,7 @@
 <meta property="og:description" content="计算机科学基础">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2020-07-08T02:00:19.000Z">
-<meta property="article:modified_time" content="2020-07-08T06:05:18.447Z">
+<meta property="article:modified_time" content="2020-07-08T07:33:18.118Z">
 <meta property="article:author" content="少青">
 <meta property="article:tag" content="Notes">
 <meta property="article:tag" content="具体数学">
@@ -237,7 +237,7 @@
               <span class="post-meta-item-icon">
                 <i class="far fa-file-word"></i>
               </span>
-              <span>394</span>
+              <span>1.4k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
@@ -256,10 +256,12 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <h2 id="第-1-章-递归问题"><a href="#第-1-章-递归问题" class="headerlink" title="第 1 章 递归问题"></a>第 1 章 递归问题</h2><h3 id="1-1-汉诺塔"><a href="#1-1-汉诺塔" class="headerlink" title="1.1 汉诺塔"></a>1.1 汉诺塔</h3><ul>
+        <p><strong>封闭形式</strong>：利用至多固定次数且仅仅显式地包含加法、减法、乘法、除法和幂指运算的表达式。</p>
+<p>递归式不是封闭形式，它们用其自身来表示一个量。</p>
+<h2 id="第-1-章-递归问题"><a href="#第-1-章-递归问题" class="headerlink" title="第 1 章 递归问题"></a>第 1 章 递归问题</h2><h3 id="1-1-汉诺塔-THETOWER-OF-HANOI"><a href="#1-1-汉诺塔-THETOWER-OF-HANOI" class="headerlink" title="1.1 汉诺塔 THETOWER OF HANOI"></a>1.1 汉诺塔 THETOWER OF HANOI</h3><p>问; 记$T_n$为$n$个圆盘从一根柱子移动到另一根柱子所需要的最少移动次数。</p>
+<ul>
 <li><p>确定递归式</p>
 <ul>
-<li><strong>命名并求解</strong>。记$T_n$为$n$个圆盘从一根柱子移动到另一根柱子所需要的最少移动次数。</li>
 <li>$T_n\leq2T_{n-1}+1, n&gt;0$, 移动$n$个圆盘，至多需要$T_{n-1}$次。</li>
 <li>$T_{n}\geq2T_{n-1}+1$,  移动上面n-1个圆盘到中转盘需要$T_{n-1}$次, 移动最大的圆盘需要1次，将n-1个圆盘移动到目标盘需要$T_{n-1}$次，共最少需要$2T_{n-1}+1$次。</li>
 <li>故得出递归式：$T_n=2T_{n-1}+1,n&gt;0$</li>
@@ -272,7 +274,35 @@
 </ul>
 </li>
 </ul>
-<h3 id="1-2-平面上的直线"><a href="#1-2-平面上的直线" class="headerlink" title="1.2 平面上的直线"></a>1.2 平面上的直线</h3><p>问：平面上的$n$条直线是的</p>
+<h3 id="1-2-平面上的直线-LINES-IN-THE-PLANE"><a href="#1-2-平面上的直线-LINES-IN-THE-PLANE" class="headerlink" title="1.2 平面上的直线 LINES IN THE PLANE"></a>1.2 平面上的直线 LINES IN THE PLANE</h3><h4 id="问：平面上的-n-条直线所界定的区域的最大个数-L-n-是多少？"><a href="#问：平面上的-n-条直线所界定的区域的最大个数-L-n-是多少？" class="headerlink" title="问：平面上的$n$条直线所界定的区域的最大个数$L_n$是多少？"></a>问：平面上的$n$条直线所界定的区域的最大个数$L_n$是多少？</h4><ul>
+<li><p>再一次，从小的情形开始研究。没有直线的平面有1个区域，有一条直线的平面有2个区域，有两条直线的平面有4个区域，有三条直线的平面有7个区域<br>$$<br>L_0=1;\<br>L_1=2;\<br>L_2=4;\<br>L_3=7;<br>$$</p>
+</li>
+<li><p>第n条直线与前面n-1条直线在不同的点相交，得：$L_n=L_{n-1}+n,n&gt;0$</p>
+</li>
+<li><p>由递推式得到封闭形式$L_n=\cfrac{n(n+1)}{2}+1,n\geq0$</p>
+</li>
+</ul>
+<h4 id="问：用折线代替直线美平面上由-n-条这样的折现所界定的区域的最大个数-Z-n-是多少？"><a href="#问：用折线代替直线美平面上由-n-条这样的折现所界定的区域的最大个数-Z-n-是多少？" class="headerlink" title="问：用折线代替直线美平面上由$n$条这样的折现所界定的区域的最大个数$Z_n$是多少？"></a>问：用折线代替直线美平面上由$n$条这样的折现所界定的区域的最大个数$Z_n$是多少？</h4><ul>
+<li>每条折线我们仅仅损失两个区域，从而<br>$$<br>Z_n=L_{2n}-2n=\cfrac{2n(2n+1)}{2}+1-2n=2n^2-n+1,n\geq0<br>$$</li>
+</ul>
+<h4 id="问：若改为120°三叉呢？用-Q-n-表示"><a href="#问：若改为120°三叉呢？用-Q-n-表示" class="headerlink" title="问：若改为120°三叉呢？用$Q_n$表示"></a>问：若改为120°三叉呢？用$Q_n$表示</h4><ul>
+<li>每条三折线我们仅仅损失三个区域，从而<br>$$<br>Q_n=L_{3n}-3n=\<br>\cfrac{3n(3n+1)}{2}+1-3n\<br>=\cfrac{3n(3n-1)}{2}+1<br>$$</li>
+</ul>
+<h3 id="1-3-约瑟夫问题-THE-JOSEPHUS-PROBLEM"><a href="#1-3-约瑟夫问题-THE-JOSEPHUS-PROBLEM" class="headerlink" title="1.3 约瑟夫问题 THE JOSEPHUS PROBLEM"></a>1.3 约瑟夫问题 THE JOSEPHUS PROBLEM</h3><p>问：n个人围成一圈，每隔一个删除一个，只幸存一人。确定幸存者的号码$J(n)$.</p>
+<ul>
+<li><p>递归式：<br>$$<br>J(2n)=2J(n)-1,n\geq1\<br>J(2n+1)=2J(n)+1,n\geq1.<br>$$</p>
+</li>
+<li><p>封闭形式：<br>$$<br>J(2^m+l)=2l+1,m\geq0,0\leq l&lt;2^m<br>$$</p>
+</li>
+<li><p>n的二进制展开式：$n=(b_mb_{m-1}…b_1b_0)$</p>
+</li>
+<li><p>首位数字$b_m$是1，其他$b_i$为0或1.又$n=2^m+l$，依次有：</p>
+</li>
+<li><p>$$<br>n=(1b_{m-1}b_{m-2}…b_2b_1)<em>2,\<br>l=(0b</em>{m-1}b_{m-2}…b_2b_1)<em>2,\<br>2l=(b</em>{m-1}b_{m-1}…b_2b_10)<em>2,\<br>2l+1=(b</em>{m-1}b_{m-2}…b_2b_11)=(b_{m-1}b_{m-2}…b_2b_1b_m)<em>2,\<br>J(n)=(b</em>{m-1}b_{m-2}…b_2b_1b_m)<em>2,\<br>J((b_mb</em>{m-1}b_{m-2}…b_2b_1)<em>2)=(b</em>{m-1}b_{m-2}…b_2b_1b_m)_2,其中b_m=1<br>$$</p>
+</li>
+<li><p>即：n向左循环移位得到了$J(n)$<br>$$<br>J(n)=n_2\quad left\quad rotate<br>$$</p>
+</li>
+</ul>
 
     </div>
 
@@ -371,7 +401,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#第-1-章-递归问题"><span class="nav-text">第 1 章 递归问题</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-1-汉诺塔"><span class="nav-text">1.1 汉诺塔</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-2-平面上的直线"><span class="nav-text">1.2 平面上的直线</span></a></li></ol></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#第-1-章-递归问题"><span class="nav-text">第 1 章 递归问题</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-1-汉诺塔-THETOWER-OF-HANOI"><span class="nav-text">1.1 汉诺塔 THETOWER OF HANOI</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-2-平面上的直线-LINES-IN-THE-PLANE"><span class="nav-text">1.2 平面上的直线 LINES IN THE PLANE</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#问：平面上的-n-条直线所界定的区域的最大个数-L-n-是多少？"><span class="nav-text">问：平面上的$n$条直线所界定的区域的最大个数$L_n$是多少？</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#问：用折线代替直线美平面上由-n-条这样的折现所界定的区域的最大个数-Z-n-是多少？"><span class="nav-text">问：用折线代替直线美平面上由$n$条这样的折现所界定的区域的最大个数$Z_n$是多少？</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#问：若改为120°三叉呢？用-Q-n-表示"><span class="nav-text">问：若改为120°三叉呢？用$Q_n$表示</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#1-3-约瑟夫问题-THE-JOSEPHUS-PROBLEM"><span class="nav-text">1.3 约瑟夫问题 THE JOSEPHUS PROBLEM</span></a></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -461,7 +491,7 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-area"></i>
     </span>
-    <span title="Symbols count total">17k</span>
+    <span title="Symbols count total">18k</span>
 </div>
 
 
