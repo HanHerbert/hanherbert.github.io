@@ -30,7 +30,7 @@
 <meta property="og:description" content="LaTeX是一种基于TeX的文档排版系统,把大片排版的格式细节隐藏在若干样式之后，以内容的逻辑结构统帅纷繁的格式，遂成为现在最流行的科技写作——尤其是数学写作的工具之一.">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2020-05-19T08:20:13.000Z">
-<meta property="article:modified_time" content="2020-07-15T10:09:56.965Z">
+<meta property="article:modified_time" content="2020-07-16T01:53:01.526Z">
 <meta property="article:author" content="少青">
 <meta property="article:tag" content="Notes">
 <meta property="article:tag" content="LaTeX">
@@ -252,13 +252,13 @@
               <span class="post-meta-item-icon">
                 <i class="far fa-file-word"></i>
               </span>
-              <span>1.8k</span>
+              <span>3.6k</span>
             </span>
             <span class="post-meta-item" title="Reading time">
               <span class="post-meta-item-icon">
                 <i class="far fa-clock"></i>
               </span>
-              <span>2 mins.</span>
+              <span>3 mins.</span>
             </span>
 
         </div>
@@ -326,6 +326,16 @@
 <td>换行</td>
 <td><code>$\\$</code></td>
 <td></td>
+</tr>
+<tr>
+<td>矩阵</td>
+<td><code>\begin{bmatrix} 1 &amp; 2 \\ 3 &amp; 4 \end{bmatrix}</code></td>
+<td>$\begin{bmatrix} 1 &amp; 2 \ 3 &amp; 4 \end{bmatrix}$</td>
+</tr>
+<tr>
+<td>大括号</td>
+<td><code>y=\begin{cases}x,x\le1 \\ 2x-1,x&gt;1\end{cases}</code></td>
+<td>$y=\begin{cases}x,x\le1 \ 2x-1,x&gt;1\end{cases}$</td>
 </tr>
 </tbody></table>
 <h2 id="其他字符"><a href="#其他字符" class="headerlink" title="其他字符"></a>其他字符</h2><h3 id="关系运算符"><a href="#关系运算符" class="headerlink" title="关系运算符"></a>关系运算符</h3><table>
@@ -722,8 +732,20 @@
 <td>$\omega$</td>
 </tr>
 </tbody></table>
+<h3 id="颜色"><a href="#颜色" class="headerlink" title="颜色"></a>颜色</h3><p>字体颜色：{\color{色调}表达式}<br>背景颜色：{\color{文字色调}\colorbox{背景色调}{表达式(可以打中文)}}</p>
+<p>${\color{Aquamarine}Aquamarine}$<br>${\color{Black}Black}$<br>${\color{Blue}Blue}$<br>${\color{BlueViolet}BlueViolet}$<br>${\color{Brown}Brown}$<br>${\color{CadetBlue}CadetBlue}$<br>${\color{CornflowerBlue}CornflowerBlue}$<br>${\color{Cyan}Cyan}$<br>${\color{DarkOrchid}DarkOrchid}$<br>${\color{ForestGreen}ForestGreen}$<br>${\color{Fuchsia}Fuchsia}$<br>${\color{Goldenrod}Goldenrod}$<br>${\color{Gold}Gold}$<br>${\color{Gray}Gray}$<br>${\color{CadetBlue}CadetBlue}$<br>${\color{Green}Green}$<br>${\color{GreenYellow}GreenYellow}$<br>${\color{Lavender}Lavender}$<br>${\color{LimeGreen}LimeGreen}$<br>${\color{Magenta}Magenta}$<br>${\color{Maroon}Maroon}$<br>${\color{Orange}Orange}$<br>${\color{OrangeRed}OrangeRed}$<br>${\color{Orchid}Orchid}$<br>${\color{Plum}Plum}$<br>${\color{Purple}Purple}$<br>${\color{Red}Red}$<br>${\color{RoyalBlue}RoyalBlue}$<br>${\color{Salmon}Salmon}$<br>${\color{SeaGreen}SeaGreen}$<br>${\color{SkyBlue}SkyBlue}$<br>${\color{SpringGreen}SpringGreen}$<br>${\color{Tan}Tan}$<br>${\color{Thistle}Thistle}$<br>${\color{Turquoise}Turquoise }$<br>${\color{Violet}Violet}$<br>${\color{White}White}$← 这是白= =<br>${\color{Yellow}Yellow}$<br>${\color{YellowGreen}YellowGreen}$<br>随便举个例子：</p>
+<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$x=\dfrac&#123;-b\pm\<span class="built_in">sqrt</span>&#123;\color&#123;Red&#125;b^<span class="number">2</span><span class="number">-4</span>ac&#125;&#125;&#123;\color&#123;Blue&#125;<span class="number">2</span>a&#125;$</span><br></pre></td></tr></table></figure>
+
+<p>$\quad x=\dfrac{-b\pm\sqrt{\color{Red}b^2-4ac}}{\color{Blue}2a}$</p>
+<figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$\color&#123;Blue&#125;\colorbox&#123;Yellow&#125;&#123;LaTeX公式大全&#125;$</span><br></pre></td></tr></table></figure>
+
+<p>$\quad\color{Blue}\colorbox{Yellow}{LaTeX公式大全}$</p>
+<h3 id="把数学公式框起来"><a href="#把数学公式框起来" class="headerlink" title="把数学公式框起来"></a>把数学公式框起来</h3><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$$\boxed&#123;\sum\limits_&#123;i = <span class="number">1</span>&#125;^&#123;n&#125; i = \dfrac&#123;n(n - <span class="number">1</span>)&#125;&#123;<span class="number">2</span>&#125;&#125;$$ </span><br><span class="line"></span><br><span class="line">ps:对于行内模式同样有效，不过大多情况用于独立模式。</span><br></pre></td></tr></table></figure>
+
+<p>$$<br>\boxed{\sum\limits_{i = 1}^{n} i = \dfrac{n(n - 1)}{2}}<br>$$</p>
 <h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p><a href="http://www.ctex.org/TeX" target="_blank" rel="noopener">TeX</a></p>
 <p><a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener">MATHEMATICS</a></p>
+<p><a href="https://www.luogu.com.cn/blog/IowaBattleship/latex-gong-shi-tai-quan" target="_blank" rel="noopener">LaTeX数学公式大全</a></p>
 
     </div>
 
@@ -825,7 +847,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#行内公式"><span class="nav-text">行内公式</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#常用符号"><span class="nav-text">常用符号</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#其他字符"><span class="nav-text">其他字符</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#关系运算符"><span class="nav-text">关系运算符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#对数运算符"><span class="nav-text">对数运算符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#三角运算符"><span class="nav-text">三角运算符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#微积分运算符"><span class="nav-text">微积分运算符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#集合运算符"><span class="nav-text">集合运算符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#希腊字母"><span class="nav-text">希腊字母</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#引用"><span class="nav-text">引用</span></a></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#行内公式"><span class="nav-text">行内公式</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#常用符号"><span class="nav-text">常用符号</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#其他字符"><span class="nav-text">其他字符</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#关系运算符"><span class="nav-text">关系运算符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#对数运算符"><span class="nav-text">对数运算符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#三角运算符"><span class="nav-text">三角运算符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#微积分运算符"><span class="nav-text">微积分运算符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#集合运算符"><span class="nav-text">集合运算符</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#希腊字母"><span class="nav-text">希腊字母</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#颜色"><span class="nav-text">颜色</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#把数学公式框起来"><span class="nav-text">把数学公式框起来</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#引用"><span class="nav-text">引用</span></a></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -841,7 +863,7 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">11</span>
+          <span class="site-state-item-count">12</span>
           <span class="site-state-item-name">posts</span>
         </a>
       </div>
@@ -917,7 +939,7 @@
     <span class="post-meta-item-icon">
       <i class="fa fa-chart-area"></i>
     </span>
-    <span title="Symbols count total">20k</span>
+    <span title="Symbols count total">22k</span>
 </div>
 
 
