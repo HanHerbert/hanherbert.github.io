@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的学习观</title>
+    <url>/%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%A7%82/</url>
+    <content><![CDATA[<p>通过实践而发现真理，又通过实践而证实真理和发展真理。从感性认识而能动地发展到理性认识，又从理性认识而能动地指导革命实践，改造主观世界和客观世界。实践、认识、再实践、再认识，这种形式，循环往复以至无穷，而实践和认识之每一循环的内容，都比较地进到了高一级的程度。这就是辩证唯物论的全部认识论，这就是辩证唯物论的知行统一观。</p>
+<p>检验所学，能否有条理的复述是一条重要的标准。例如，读了某本书或者学到某些科学知识，若能用文字将自己的所学所悟记录下来，对接下来的学习有积极的影响。</p>
+<h3 id="做以下尝试："><a href="#做以下尝试：" class="headerlink" title="做以下尝试："></a>做以下尝试：</h3><h4 id="第一，复述所学"><a href="#第一，复述所学" class="headerlink" title="第一，复述所学"></a>第一，复述所学</h4><p>复述的方式有两种，口语复述和文字复述。</p>
+<h4 id="第二，保持专注"><a href="#第二，保持专注" class="headerlink" title="第二，保持专注"></a>第二，保持专注</h4><p>远离任何会打断复述过程的事物，思维本就碎片化，不要打断复述过程。这些事物包括但不限于论坛、短视频等各种短时反馈的东西。走出舒适区才能进步。</p>
+<h4 id="第三，抛弃形式主义"><a href="#第三，抛弃形式主义" class="headerlink" title="第三，抛弃形式主义"></a>第三，抛弃形式主义</h4><p>很多人进入过自我感动的怪圈，这和自小接受的苦难教育有关。</p>
+<p>如苏东坡言：古之成大事者，不惟有超世之才，亦必有坚韧不拔之志。</p>
+<p>按照科学的方法，减少学习时长带来的感动，增多睡眠时间，经常锻炼身体，把精力投入到学习中。</p>
+<h4 id="第四，坦荡从容，是自己给的"><a href="#第四，坦荡从容，是自己给的" class="headerlink" title="第四，坦荡从容，是自己给的"></a>第四，坦荡从容，是自己给的</h4><p>大多数人，尤其是同龄人，看到我们不断变得优秀，涌上心头的，不是替我们感到开心，而是羞耻，进而郁郁寡欢。</p>
+<p>因为在成长的过程中，我们经年累月被灌输一种思维方式，那就是需要借助一个参照物，来知道自己的位置。</p>
+<p>隔壁邻居的张三，班里的李四，职场中的王五，都是参照物。</p>
+<p>远离这种参照物思维，不要被别人贩卖的焦虑情绪感染，去追寻比过去的自己更优秀的自己。</p>
+<p><strong>自己比过去的自己优秀，是要给自己赞美的。</strong></p>
+<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p><strong>学习时的思维如流一般，沉浸其中是极致的乐趣。</strong></p>
+]]></content>
+      <categories>
+        <category>Mind</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+        <tag>学习方法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2020年清华大学计算机系学硕录取分析</title>
     <url>/2020%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E5%AD%A6%E7%A1%95%E6%8B%9F%E5%BD%95%E5%8F%96%E5%88%86%E6%9E%90/</url>
     <content><![CDATA[<h2 id="2020年被录取计算机学硕（非强军计划）的14位同学情况"><a href="#2020年被录取计算机学硕（非强军计划）的14位同学情况" class="headerlink" title="2020年被录取计算机学硕（非强军计划）的14位同学情况"></a>2020年被录取计算机学硕（非强军计划）的14位同学情况</h2><p>2020年清华大学计算机系学硕初试线：<strong>359</strong>。</p>
@@ -46,764 +71,6 @@
       </categories>
       <tags>
         <tag>912</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>具体数学(Concrete Math)笔记</title>
-    <url>/CM/</url>
-    <content><![CDATA[<p><strong>封闭形式</strong>：利用至多固定次数且仅仅显式地包含加法、减法、乘法、除法和幂指运算的表达式。</p>
-<p>递归式不是封闭形式，它们用其自身来表示一个量。</p>
-<h2 id="第-1-章-递归问题"><a href="#第-1-章-递归问题" class="headerlink" title="第 1 章 递归问题"></a>第 1 章 递归问题</h2><h3 id="1-1-汉诺塔-THETOWER-OF-HANOI"><a href="#1-1-汉诺塔-THETOWER-OF-HANOI" class="headerlink" title="1.1 汉诺塔 THETOWER OF HANOI"></a>1.1 汉诺塔 THETOWER OF HANOI</h3><p>问; 记$T_n$为$n$个圆盘从一根柱子移动到另一根柱子所需要的最少移动次数。</p>
-<ul>
-<li><p>确定递归式</p>
-<ul>
-<li>$T_n\leq2T_{n-1}+1, n&gt;0$, 移动$n$个圆盘，至多需要$T_{n-1}$次。</li>
-<li>$T_{n}\geq2T_{n-1}+1$,  移动上面n-1个圆盘到中转盘需要$T_{n-1}$次, 移动最大的圆盘需要1次，将n-1个圆盘移动到目标盘需要$T_{n-1}$次，共最少需要$2T_{n-1}+1$次。</li>
-<li>故得出递归式：$T_n=2T_{n-1}+1,n&gt;0$</li>
-</ul>
-</li>
-<li><p>求出封闭形式</p>
-<ul>
-<li>观察前几项，由数学归纳法，假设$T_n=2^n-1,n\geq0$,证明正确。</li>
-<li>平凡求解。$T_n+1=2T_{n-1}+2$, 记$U_n=T_n+1$, 得$U_n=2U_{n-1}$, $U_n$是等比数列，得出$T_n=2^n-1$。 </li>
-</ul>
-</li>
-</ul>
-<h3 id="1-2-平面上的直线-LINES-IN-THE-PLANE"><a href="#1-2-平面上的直线-LINES-IN-THE-PLANE" class="headerlink" title="1.2 平面上的直线 LINES IN THE PLANE"></a>1.2 平面上的直线 LINES IN THE PLANE</h3><h4 id="问：平面上的-n-条直线所界定的区域的最大个数-L-n-是多少？"><a href="#问：平面上的-n-条直线所界定的区域的最大个数-L-n-是多少？" class="headerlink" title="问：平面上的$n$条直线所界定的区域的最大个数$L_n$是多少？"></a>问：平面上的$n$条直线所界定的区域的最大个数$L_n$是多少？</h4><ul>
-<li><p>再一次，从小的情形开始研究。没有直线的平面有1个区域，有一条直线的平面有2个区域，有两条直线的平面有4个区域，有三条直线的平面有7个区域<br>$$<br>L_0=1;\<br>L_1=2;\<br>L_2=4;\<br>L_3=7;<br>$$</p>
-</li>
-<li><p>第n条直线与前面n-1条直线在不同的点相交，得：$L_n=L_{n-1}+n,n&gt;0$</p>
-</li>
-<li><p>由递推式得到封闭形式$L_n=\cfrac{n(n+1)}{2}+1,n\geq0$</p>
-</li>
-</ul>
-<h4 id="问：用折线代替直线美平面上由-n-条这样的折现所界定的区域的最大个数-Z-n-是多少？"><a href="#问：用折线代替直线美平面上由-n-条这样的折现所界定的区域的最大个数-Z-n-是多少？" class="headerlink" title="问：用折线代替直线美平面上由$n$条这样的折现所界定的区域的最大个数$Z_n$是多少？"></a>问：用折线代替直线美平面上由$n$条这样的折现所界定的区域的最大个数$Z_n$是多少？</h4><ul>
-<li>每条折线我们仅仅损失两个区域，从而<br>$$<br>Z_n=L_{2n}-2n=\cfrac{2n(2n+1)}{2}+1-2n=2n^2-n+1,n\geq0<br>$$</li>
-</ul>
-<h4 id="问：若改为120°三叉呢？用-Q-n-表示"><a href="#问：若改为120°三叉呢？用-Q-n-表示" class="headerlink" title="问：若改为120°三叉呢？用$Q_n$表示"></a>问：若改为120°三叉呢？用$Q_n$表示</h4><ul>
-<li>每条三折线我们仅仅损失三个区域，从而<br>$$<br>Q_n=L_{3n}-3n=\<br>\cfrac{3n(3n+1)}{2}+1-3n\<br>=\cfrac{3n(3n-1)}{2}+1<br>$$</li>
-</ul>
-<h3 id="1-3-约瑟夫问题-THE-JOSEPHUS-PROBLEM"><a href="#1-3-约瑟夫问题-THE-JOSEPHUS-PROBLEM" class="headerlink" title="1.3 约瑟夫问题 THE JOSEPHUS PROBLEM"></a>1.3 约瑟夫问题 THE JOSEPHUS PROBLEM</h3><h4 id="问：n个人围成一圈，每隔一个删除一个，只幸存一人。确定幸存者的号码-J-n"><a href="#问：n个人围成一圈，每隔一个删除一个，只幸存一人。确定幸存者的号码-J-n" class="headerlink" title="问：n个人围成一圈，每隔一个删除一个，只幸存一人。确定幸存者的号码$J(n)$."></a>问：n个人围成一圈，每隔一个删除一个，只幸存一人。确定幸存者的号码$J(n)$.</h4><ul>
-<li><p>递归式：<br>$$<br>J(2n)=2J(n)-1,n\geq1\<br>J(2n+1)=2J(n)+1,n\geq1.<br>$$</p>
-</li>
-<li><p>对递归式打表、数学归纳得到封闭形式：<br>$$<br>J(2^m+l)=2l+1,m\geq0,0\leq l&lt;2^m<br>$$</p>
-</li>
-<li><p>n的二进制展开式：$n=(b_mb_{m-1}…b_1b_0)$</p>
-</li>
-<li><p>首位数字$b_m$是1，其他$b_i$为0或1.又$n=2^m+l$，依次有：</p>
-</li>
-<li><p>$$<br>n=(1b_{m-1}b_{m-2}…b_2b_1)<em>2,\<br>l=(0b</em>{m-1}b_{m-2}…b_2b_1)<em>2,\<br>2l=(b</em>{m-1}b_{m-1}…b_2b_10)<em>2,\<br>2l+1=(b</em>{m-1}b_{m-2}…b_2b_11)=(b_{m-1}b_{m-2}…b_2b_1b_m)<em>2,\<br>J(n)=(b</em>{m-1}b_{m-2}…b_2b_1b_m)<em>2,\<br>J((b_mb</em>{m-1}b_{m-2}…b_2b_1)<em>2)=(b</em>{m-1}b_{m-2}…b_2b_1b_m)_2,其中b_m=1<br>$$</p>
-</li>
-<li><p>即：n向左循环移位一位得到了$J(n)$<br>$$<br>J(n)=n_2\quad left\quad rotate<br>$$</p>
-</li>
-<li><p>不动点性质：$J(J(J(…J(n))))$最后会停在不动点–二进制下全是1的数。</p>
-</li>
-</ul>
-<h4 id="拓展递归式"><a href="#拓展递归式" class="headerlink" title="拓展递归式"></a>拓展递归式</h4><p>待定系数法+特殊值代入，我们解题的方向就是先把唯一确定的值求出来，然后把其余值通过确定的值表示出来，即可得到最终的递归表达式。</p>
-<ul>
-<li>$f(1)=\alpha;f(2n)=2f(n)+\beta;f(2n+1)=2f(n)+\gamma.$</li>
-<li>显然$f(n)=A(n)\alpha+B(n)\beta+C(n)\gamma.$<ul>
-<li>方法一：打表、归纳</li>
-<li>方法二：代入$f(n)=1,f(n)=n.$解出$A(n),B(n),C(n).$</li>
-</ul>
-</li>
-</ul>
-<h4 id="拓展到一般形式"><a href="#拓展到一般形式" class="headerlink" title="拓展到一般形式"></a>拓展到一般形式</h4><ul>
-<li><p>递归式：<br>$$<br>f(j)=\alpha_j,\quad 1\leq j&lt;d;\<br>f(dn+j)=cf(n)+\beta_j<br>$$</p>
-</li>
-<li><p>从基数为d的数着手，产生的值是用基数为c的数表示：<br>$$<br>f((b_mb_{m-1}…b_1b_0)<em>d)=(\alpha</em>{b_{m}}\beta_{b_{m-1}}\beta_{b_{m-2}}…\beta_{b_1}\beta_{b_0})_c<br>$$</p>
-</li>
-</ul>
-<h2 id="第-1-章-习题"><a href="#第-1-章-习题" class="headerlink" title="第 1 章 习题"></a>第 1 章 习题</h2><h3 id="热身题"><a href="#热身题" class="headerlink" title="热身题"></a>热身题</h3><h4 id="1-马的颜色"><a href="#1-马的颜色" class="headerlink" title="1 马的颜色"></a>1 马的颜色</h4><h4 id="2-限制的Hanoi-Tower"><a href="#2-限制的Hanoi-Tower" class="headerlink" title="2 限制的Hanoi Tower"></a>2 限制的Hanoi Tower</h4><p>n个圆盘的移动序列记为$T_n$，列表：</p>
-<table>
-<thead>
-<tr>
-<th>$T_1$</th>
-<th>$T_2$</th>
-<th>$T_3$</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>2</td>
-<td>8</td>
-<td>26</td>
-</tr>
-</tbody></table>
-<ul>
-<li><p>递推方程：$T_n=T_{n-1}+2$</p>
-</li>
-<li><p>封闭形式：$T_n=3^n-1$</p>
-</li>
-</ul>
-<h4 id="5-韦恩图"><a href="#5-韦恩图" class="headerlink" title="5 韦恩图"></a>5 韦恩图</h4><ul>
-<li><p>每增加一个圆圈，最多与前面所有圆圈有两个交点（所有交点均不相同），增加的区域恰好与增加的交点数相同。</p>
-</li>
-<li><p>n个圆圈代表n个给定集合，$T_n$代表n个集合的子集数目</p>
-</li>
-<li><p>递推式：$T_n=T_{n-1}+2*(n-1),n\geq 2,T_1=1$</p>
-</li>
-<li><p>封闭形式：$T_n=n(n-1)+1$</p>
-</li>
-<li><p>得：$T_4=13$</p>
-</li>
-</ul>
-<h4 id="6-有界区域的最大个数"><a href="#6-有界区域的最大个数" class="headerlink" title="6 有界区域的最大个数"></a>6 有界区域的最大个数</h4><ul>
-<li>记n条直线的有界区域的最大个数为$T_n$</li>
-</ul>
-<p>打表：</p>
-<table>
-<thead>
-<tr>
-<th>$T_1$</th>
-<th>$T_2$</th>
-<th>$T_3$</th>
-<th>$T_4$</th>
-<th>$T_5$</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>3</td>
-<td>6</td>
-</tr>
-</tbody></table>
-<ul>
-<li>递推式：$T_n=T_{n-1}+n-2,n\geq2,T_1=0$</li>
-<li>封闭形式：$T_n=\cfrac{(n-1)(n-2)}{2},n\geq1$</li>
-</ul>
-<h3 id="作业题"><a href="#作业题" class="headerlink" title="作业题"></a>作业题</h3><h4 id="8-解递归式"><a href="#8-解递归式" class="headerlink" title="8 解递归式"></a>8 解递归式</h4><p>打表:</p>
-<table>
-<thead>
-<tr>
-<th>$Q_0$</th>
-<th>$Q_1$</th>
-<th>$Q_2$</th>
-<th>$Q_3$</th>
-<th>$Q_4$</th>
-<th>$Q_5$</th>
-<th>$Q_6$</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>$\alpha$</td>
-<td>$\beta$</td>
-<td>$\cfrac{1+\beta}{\alpha}$</td>
-<td>$\cfrac{1+\alpha+\beta}{\alpha\beta}$</td>
-<td>$\cfrac{1+\alpha}{\beta}$</td>
-<td>$\alpha$</td>
-<td>$\beta$</td>
-</tr>
-</tbody></table>
-<p>由上表可以推测，$Q_n$是以5为周期的周期函数。</p>
-<p>使用数学归纳法证明，假设<br>$$<br>Q_{5n}=\alpha;\<br>Q_{5n+1}=\beta;\<br>Q_{5n+2}=\cfrac{1+\beta}{\alpha};\<br>Q_{5n+3}=\cfrac{1+\alpha}{\beta};\<br>Q_{5n+4}=\cfrac{1+\alpha}{\beta};<br>$$<br>可证明$Q_{5n+5},Q_{5n+6},Q_{5n+7},Q_{5n+8},Q_{5n+9}$的值均符合公式$Q_n$.</p>
-<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p><a href="https://www.cnblogs.com/sunyaofeng/p/10048859.html" target="_blank" rel="noopener">具体数学(Concrete Math) 读书笔记</a></p>
-<p><a href="https://www.jianshu.com/p/e317ddb5bd70" target="_blank" rel="noopener">具体数学第一章笔记及习题解答</a></p>
-<p><a href="https://doray.me/2019/01/repertoire-method-for-solving-recurrences/" target="_blank" rel="noopener">Repertoire Method for Solving Recurrences</a></p>
-]]></content>
-      <categories>
-        <category>Math</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-        <tag>具体数学</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>408院校整理及资料分享</title>
-    <url>/408/</url>
-    <content><![CDATA[<p>408笔记：链接：<a href="https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g" target="_blank" rel="noopener">https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g</a><br>提取码：04to<br></p>
-<p>408真题：链接：<a href="https://pan.baidu.com/s/1U9n4NkGjO4eY9NiVAKG1ew" target="_blank" rel="noopener">https://pan.baidu.com/s/1U9n4NkGjO4eY9NiVAKG1ew</a><br>提取码：3mvr </br></p>
-<p>数据结构（严蔚敏）代码实现及课本知识点：链接：<a href="https://pan.baidu.com/s/1kR3KlrUwqtNkbXpn28qJ4g" target="_blank" rel="noopener">https://pan.baidu.com/s/1kR3KlrUwqtNkbXpn28qJ4g</a><br>提取码：mq2o</br></p>
-<p>计算机考研408是全国统考的科目，专业课综合考试内容：数据结构、计算机组成原理、操作系统和计算机网络。</p>
-<h2 id="1-初试考察408的院校简单介绍（欢迎在评论区补充）："><a href="#1-初试考察408的院校简单介绍（欢迎在评论区补充）：" class="headerlink" title="1. 初试考察408的院校简单介绍（欢迎在评论区补充）："></a>1. 初试考察408的院校简单介绍（欢迎在评论区补充）：</h2><p><strong>985院校：</strong></p>
-<p>​    浙江大学，中国科学技术大学，上海交通大学，复旦大学；</p>
-<p>​    同济大学，武汉大学，中山大学，南开大学，华南理工大学，华东师范大学；</p>
-<p>​    中国人民大学（网传21会统考408），华中科技大学（网传21会统考408）</p>
-<p><strong>211院校：</strong></p>
-<p>​    武汉理工大学，上海大学，郑州大学，云南大学，西南财经大学</p>
-<p>​    上海财经大学，海南大学，广西大学，贵州大学，宁夏大学</p>
-<p>​    华中农业大学，青海大学，河北工业大学（在天津）</p>
-<p><strong>非985/211院校：</strong></p>
-<p>​    上海科技大学，深圳大学，宁波大学，深圳大学，河北大学</p>
-<p>​    南方科技大学，广州大学，中国民航大学，安徽农业大学，辽宁工业大学</p>
-<p>​    辽宁石油化工大学，上海海洋大学，长江大学，南方医科大学，广西民族大学</p>
-<p>​    西安工程大学，解放军信息工程大学，东莞理工学院，桂林电子科技大学，昆明理工大学</p>
-<p>​    杭州师范大学，湖南工商大学，上海师范大学，温州医科大学，武汉纺织大学 </p>
-<p>​    湖南中医药大学</p>
-<p><strong>研究所</strong></p>
-<p>​    上海市计算技术研究所，武汉数字工程研究所，西南自动化研究所</p>
-<p>​    西安微电子技术研究所，航天771所，中国航空研究院631所</p>
-<p>​    华东计算机技术研究所，中国电子科技集团第三十二研究所</p>
-<h2 id="2-备考资料，笔记"><a href="#2-备考资料，笔记" class="headerlink" title="2. 备考资料，笔记"></a>2. 备考资料，笔记</h2><p><strong>参考书</strong></p>
-<p>​    数据结构：王道+天勤</p>
-<p>​    计算机组成原理：计算机组成-软硬件接口+天勤+王道</p>
-<p>​    操作系统：天勤+王道+现代操作系统</p>
-<p>​    计算机网络：计算机网络-自顶向下 +天勤+王道</p>
-<p>资料分享在顶部：</p>
-]]></content>
-      <categories>
-        <category>NEEP</category>
-      </categories>
-      <tags>
-        <tag>408</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>入宝山而空回</title>
-    <url>/%E5%85%A5%E5%AE%9D%E5%B1%B1%E4%B8%8D%E8%83%BD%E7%A9%BA%E8%BF%94/</url>
-    <content><![CDATA[<blockquote>
-<p>挟泰山以超北，在婿固不敢厚望；</p>
-<p>入宝山而空回，想岳亦不能忘情也。</p>
-<p>​                                                            –文秉《先拨志始》</p>
-</blockquote>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>如今，对普通人而言，获取优质学习资源比以往任何时候都要容易。</p>
-<p>许多时候恰恰因为获取资源非常容易，而导致在学习之前，准备工作做得过于“充足”。  </p>
-<blockquote>
-<p>学习数据结构：</p>
-<ul>
-<li>搜索“如何学习数据结构”，读完大部分的文章</li>
-<li>根据文章的提示开始找书、慕课，再看书评及慕课评价</li>
-<li>下载电子书，是否中英文都有，排版清晰否，要不要买纸质书</li>
-<li>下载或收藏课程，是否中英文都有，是否完整，清晰度如何</li>
-<li>……</li>
-</ul>
-</blockquote>
-<p>除了“学“，其他的事情都做了。</p>
-<p>这就是过度准备，会让人对将要学的知识有很强的的困难感。完全将自己陷在了一个还未开始就沮丧的心理泥潭。</p>
-<h2 id="经验教训"><a href="#经验教训" class="headerlink" title="经验教训"></a>经验教训</h2><p>再一次，我重新学习数据结构：</p>
-<ul>
-<li>买了邓公的数据结构和习题集。</li>
-<li>在bilibili上找到讲课视频</li>
-<li>下载好书中代码和ppt</li>
-<li>开始学习，调代码</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Mind</category>
-      </categories>
-      <tags>
-        <tag>随想</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LaTeX+Typora使用Markdown编辑数学公式 | Typora使用文档</title>
-    <url>/LaTeX-Typora%E4%BD%BF%E7%94%A8Markdown%E7%BC%96%E8%BE%91%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
-    <content><![CDATA[<p><a href="https://baike.baidu.com/item/LaTeX/1212106" target="_blank" rel="noopener">LaTeX</a>是一种基于<a href="https://baike.baidu.com/item/TeX/3794463?fr=aladdin" target="_blank" rel="noopener">TeX</a>的文档排版系统,把大片排版的格式细节隐藏在若干样式之后，以内容的逻辑结构统帅纷繁的格式，遂成为现在最流行的科技写作——尤其是数学写作的工具之一.<a id="more"></a><br> 在Markdown中插入数学公式的语法是 <code>$数学公式$</code> 和 <code>$$数学公式$$</code>.</p>
-<h2 id="行内公式"><a href="#行内公式" class="headerlink" title="行内公式"></a>行内公式</h2><p>行内公式是可以让公式在文中与文字或其他东西混编，不独占一行.在数学模式下,符号会使用单独的字体,字母通常是倾斜的意大利体,数字和符号则是直立体.而且,数学符号之间的距离也与一般的水平模式不同:</p>
-<table>
-<thead>
-<tr>
-<th>示例</th>
-<th>显示</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><code>$2x+3y=34$</code></td>
-<td>$2x+3y=34$</td>
-</tr>
-<tr>
-<td><code>2x+3y=34</code></td>
-<td>2x+3y=34</td>
-</tr>
-</tbody></table>
-<p>因此,在排版数学公式时,即使没有特殊符号的算式如1+1=2,或者简单的一个字母变量$x$,也要进入数学模式,使用<code>$1+1=2$</code>,<code>$x$</code>,而不是使用排版普通文字的方式</p>
-<h2 id="常用符号"><a href="#常用符号" class="headerlink" title="常用符号"></a>常用符号</h2><table>
-<thead>
-<tr>
-<th>符号</th>
-<th>示例</th>
-<th>显示</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>上下标</td>
-<td><code>$S=a_{1}^2+a_{2}^2+a_{3}^2$</code></td>
-<td>$S=a_{1}^2+a_{2}^2+a_{3}^2$</td>
-</tr>
-<tr>
-<td>括号</td>
-<td><code>$f(x, y) = 100 * \lbrace[(x + y) * 3] - 5\rbrace$</code></td>
-<td>$f(x, y) = 100 * \lbrace[(x + y) * 3] - 5\rbrace$</td>
-</tr>
-<tr>
-<td>分数</td>
-<td><code>$\frac{1}{3} 与 \cfrac{1}{3}$</code></td>
-<td>$\frac{1}{3} 与 \cfrac{1}{3}$</td>
-</tr>
-<tr>
-<td>开方</td>
-<td><code>$\sqrt[3]{X}$</code>和<code>$\sqrt{5 - x}$</code></td>
-<td>$\sqrt[3]{X}$<code>和</code>$\sqrt{5 - x}$</td>
-</tr>
-<tr>
-<td>空格</td>
-<td><code>$\quad$</code></td>
-<td></td>
-</tr>
-<tr>
-<td>换行</td>
-<td><code>$\\$</code></td>
-<td></td>
-</tr>
-<tr>
-<td>矩阵</td>
-<td><code>\begin{bmatrix} 1 &amp; 2 \\ 3 &amp; 4 \end{bmatrix}</code></td>
-<td>$\begin{bmatrix} 1 &amp; 2 \ 3 &amp; 4 \end{bmatrix}$</td>
-</tr>
-<tr>
-<td>大括号</td>
-<td><code>y=\begin{cases}x,x\le1 \\ 2x-1,x&gt;1\end{cases}</code></td>
-<td>$y=\begin{cases}x,x\le1 \ 2x-1,x&gt;1\end{cases}$</td>
-</tr>
-</tbody></table>
-<h2 id="其他字符"><a href="#其他字符" class="headerlink" title="其他字符"></a>其他字符</h2><h3 id="关系运算符"><a href="#关系运算符" class="headerlink" title="关系运算符"></a>关系运算符</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>符号</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>\pm</td>
-<td>$\pm$</td>
-</tr>
-<tr>
-<td>\times</td>
-<td>$\times$</td>
-</tr>
-<tr>
-<td>\div</td>
-<td>$\div$</td>
-</tr>
-<tr>
-<td>\mid</td>
-<td>$\mid$</td>
-</tr>
-<tr>
-<td>\nmid</td>
-<td>$\nmid$</td>
-</tr>
-<tr>
-<td>\cdot</td>
-<td>$\cdot$</td>
-</tr>
-<tr>
-<td>\circ</td>
-<td>$\circ$</td>
-</tr>
-<tr>
-<td>\ast</td>
-<td>$\ast$</td>
-</tr>
-<tr>
-<td>\bigodot</td>
-<td>$\bigodot$</td>
-</tr>
-<tr>
-<td>\bigotimes</td>
-<td>$\bigotimes$</td>
-</tr>
-<tr>
-<td>\bigoplus</td>
-<td>$\bigoplus$</td>
-</tr>
-<tr>
-<td>\leq</td>
-<td>$\leq$</td>
-</tr>
-<tr>
-<td>\geq</td>
-<td>$\geq$</td>
-</tr>
-<tr>
-<td>\neq</td>
-<td>$\neq$</td>
-</tr>
-<tr>
-<td>\approx</td>
-<td>$\approx$</td>
-</tr>
-<tr>
-<td>\equiv</td>
-<td>$\equiv$</td>
-</tr>
-<tr>
-<td>\sum</td>
-<td>$\sum$</td>
-</tr>
-<tr>
-<td>\prod</td>
-<td>$\prod$</td>
-</tr>
-</tbody></table>
-<h3 id="对数运算符"><a href="#对数运算符" class="headerlink" title="对数运算符"></a>对数运算符</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>符号</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>\log</td>
-<td>$\log$</td>
-</tr>
-<tr>
-<td>\lg</td>
-<td>$\lg$</td>
-</tr>
-<tr>
-<td>\ln</td>
-<td>$\ln$</td>
-</tr>
-</tbody></table>
-<h3 id="三角运算符"><a href="#三角运算符" class="headerlink" title="三角运算符"></a>三角运算符</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>符号</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>\bot</td>
-<td>$\bot$</td>
-</tr>
-<tr>
-<td>\angle</td>
-<td>$\angle$</td>
-</tr>
-<tr>
-<td>\sin</td>
-<td>$\sin$</td>
-</tr>
-<tr>
-<td>\cos</td>
-<td>$\cos$</td>
-</tr>
-<tr>
-<td>\tan</td>
-<td>$\tan$</td>
-</tr>
-<tr>
-<td>\cot</td>
-<td>$\cot$</td>
-</tr>
-<tr>
-<td>\sec</td>
-<td>$\sec$</td>
-</tr>
-<tr>
-<td>\csc</td>
-<td>$\csc$</td>
-</tr>
-</tbody></table>
-<h3 id="微积分运算符"><a href="#微积分运算符" class="headerlink" title="微积分运算符"></a>微积分运算符</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>符号</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>\prime</td>
-<td>$\prime$</td>
-</tr>
-<tr>
-<td>\int</td>
-<td>$\int$</td>
-</tr>
-<tr>
-<td>\iint</td>
-<td>$\iint$</td>
-</tr>
-<tr>
-<td>\iiint</td>
-<td>$\iiint$</td>
-</tr>
-<tr>
-<td>\oint</td>
-<td>$\oint$</td>
-</tr>
-<tr>
-<td>\lim</td>
-<td>$\lim$</td>
-</tr>
-<tr>
-<td>\infty</td>
-<td>$\infty$</td>
-</tr>
-<tr>
-<td>\nabla</td>
-<td>$\nabla$</td>
-</tr>
-<tr>
-<td>\mathrm{d}</td>
-<td>$\mathrm{d}$</td>
-</tr>
-</tbody></table>
-<h3 id="集合运算符"><a href="#集合运算符" class="headerlink" title="集合运算符"></a>集合运算符</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>符号</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>\emptyset</td>
-<td>$\emptyset$</td>
-</tr>
-<tr>
-<td>\in</td>
-<td>$\in$</td>
-</tr>
-<tr>
-<td>\notin</td>
-<td>$\notin$</td>
-</tr>
-<tr>
-<td>\subset</td>
-<td>$\subset$</td>
-</tr>
-<tr>
-<td>\subseteq</td>
-<td>$\subseteq$</td>
-</tr>
-<tr>
-<td>\supseteq</td>
-<td>$\supseteq$</td>
-</tr>
-<tr>
-<td>\bigcap</td>
-<td>$\bigcap$</td>
-</tr>
-<tr>
-<td>\bigcup</td>
-<td>$\bigcup$</td>
-</tr>
-<tr>
-<td>\bigvee</td>
-<td>$\bigvee$</td>
-</tr>
-<tr>
-<td>\bigwedge</td>
-<td>$\bigwedge$</td>
-</tr>
-<tr>
-<td>\biguplus</td>
-<td>$\biguplus$</td>
-</tr>
-<tr>
-<td>\bigsqcup</td>
-<td>$\bigsqcup$</td>
-</tr>
-</tbody></table>
-<h3 id="希腊字母"><a href="#希腊字母" class="headerlink" title="希腊字母"></a>希腊字母</h3><table>
-<thead>
-<tr>
-<th>代码</th>
-<th>大写</th>
-<th>代码</th>
-<th>小写</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>A</td>
-<td>$A$</td>
-<td>\alpha</td>
-<td>$\alpha$</td>
-</tr>
-<tr>
-<td>B</td>
-<td>$B$</td>
-<td>\beta</td>
-<td>$\beta$</td>
-</tr>
-<tr>
-<td>\Gamma</td>
-<td>$\Gamma$</td>
-<td>\gamma</td>
-<td>$\gamma$</td>
-</tr>
-<tr>
-<td>\Delta</td>
-<td>$\Delta$</td>
-<td>\delta</td>
-<td>$\delta$</td>
-</tr>
-<tr>
-<td>E</td>
-<td>$E$</td>
-<td>\epsilon</td>
-<td>$\epsilon$</td>
-</tr>
-<tr>
-<td>Z</td>
-<td>$Z$</td>
-<td>\zeta</td>
-<td>$\zeta$</td>
-</tr>
-<tr>
-<td>H</td>
-<td>$H$</td>
-<td>\eta</td>
-<td>$\eta$</td>
-</tr>
-<tr>
-<td>\Theta</td>
-<td>$\Theta$</td>
-<td>\theta</td>
-<td>$\theta$</td>
-</tr>
-<tr>
-<td>I</td>
-<td>$I$</td>
-<td>\iota</td>
-<td>$\iota$</td>
-</tr>
-<tr>
-<td>K</td>
-<td>$K$</td>
-<td>\kappa</td>
-<td>$\kappa$</td>
-</tr>
-<tr>
-<td>Lambda</td>
-<td>$\Lambda$</td>
-<td>\lambda</td>
-<td>$\lambda$</td>
-</tr>
-<tr>
-<td>M</td>
-<td>$M$</td>
-<td>\mu</td>
-<td>$\mu$</td>
-</tr>
-<tr>
-<td>N</td>
-<td>$N$</td>
-<td>\nu</td>
-<td>$\nu$</td>
-</tr>
-<tr>
-<td>Xi</td>
-<td>$Xi$</td>
-<td>\xi</td>
-<td>$\xi$</td>
-</tr>
-<tr>
-<td>O</td>
-<td>$O$</td>
-<td>\omicron</td>
-<td>$\omicron$</td>
-</tr>
-<tr>
-<td>\Pi</td>
-<td>$\Pi$</td>
-<td>\pi</td>
-<td>$\pi$</td>
-</tr>
-<tr>
-<td>P</td>
-<td>$P$</td>
-<td>\rho</td>
-<td>$\rho$</td>
-</tr>
-<tr>
-<td>\Sigma</td>
-<td>$\Sigma$</td>
-<td>\sigma</td>
-<td>$\sigma$</td>
-</tr>
-<tr>
-<td>T</td>
-<td>$T$</td>
-<td>\tau</td>
-<td>$\tau$</td>
-</tr>
-<tr>
-<td>\Upsilon</td>
-<td>$\Upsilon$</td>
-<td>\upsilon</td>
-<td>$\upsilon$</td>
-</tr>
-<tr>
-<td>\Phi</td>
-<td>$\Phi$</td>
-<td>\phi</td>
-<td>$\phi$</td>
-</tr>
-<tr>
-<td>X</td>
-<td>$X$</td>
-<td>\chi</td>
-<td>$\chi$</td>
-</tr>
-<tr>
-<td>\Psi</td>
-<td>$\Psi$</td>
-<td>\psi</td>
-<td>$\psi$</td>
-</tr>
-<tr>
-<td>\Omega</td>
-<td>$\Omega$</td>
-<td>\omega</td>
-<td>$\omega$</td>
-</tr>
-</tbody></table>
-<h3 id="颜色"><a href="#颜色" class="headerlink" title="颜色"></a>颜色</h3><p>字体颜色：{\color{色调}表达式}<br>背景颜色：{\color{文字色调}\colorbox{背景色调}{表达式(可以打中文)}}</p>
-<p>${\color{Aquamarine}Aquamarine}$<br>${\color{Black}Black}$<br>${\color{Blue}Blue}$<br>${\color{BlueViolet}BlueViolet}$<br>${\color{Brown}Brown}$<br>${\color{CadetBlue}CadetBlue}$<br>${\color{CornflowerBlue}CornflowerBlue}$<br>${\color{Cyan}Cyan}$<br>${\color{DarkOrchid}DarkOrchid}$<br>${\color{ForestGreen}ForestGreen}$<br>${\color{Fuchsia}Fuchsia}$<br>${\color{Goldenrod}Goldenrod}$<br>${\color{Gold}Gold}$<br>${\color{Gray}Gray}$<br>${\color{CadetBlue}CadetBlue}$<br>${\color{Green}Green}$<br>${\color{GreenYellow}GreenYellow}$<br>${\color{Lavender}Lavender}$<br>${\color{LimeGreen}LimeGreen}$<br>${\color{Magenta}Magenta}$<br>${\color{Maroon}Maroon}$<br>${\color{Orange}Orange}$<br>${\color{OrangeRed}OrangeRed}$<br>${\color{Orchid}Orchid}$<br>${\color{Plum}Plum}$<br>${\color{Purple}Purple}$<br>${\color{Red}Red}$<br>${\color{RoyalBlue}RoyalBlue}$<br>${\color{Salmon}Salmon}$<br>${\color{SeaGreen}SeaGreen}$<br>${\color{SkyBlue}SkyBlue}$<br>${\color{SpringGreen}SpringGreen}$<br>${\color{Tan}Tan}$<br>${\color{Thistle}Thistle}$<br>${\color{Turquoise}Turquoise }$<br>${\color{Violet}Violet}$<br>${\color{White}White}$← 这是白= =<br>${\color{Yellow}Yellow}$<br>${\color{YellowGreen}YellowGreen}$<br>随便举个例子：</p>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">$x=\dfrac&#123;-b\pm\<span class="built_in">sqrt</span>&#123;\color&#123;Red&#125;b^<span class="number">2</span><span class="number">-4</span>ac&#125;&#125;&#123;\color&#123;Blue&#125;<span class="number">2</span>a&#125;$</span><br></pre></td></tr></table></figure>
-
-<p>$\quad x=\dfrac{-b\pm\sqrt{\color{Red}b^2-4ac}}{\color{Blue}2a}$</p>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">$\color&#123;Blue&#125;\colorbox&#123;Yellow&#125;&#123;LaTeX公式大全&#125;$</span><br></pre></td></tr></table></figure>
-
-<p>$\quad\color{Blue}\colorbox{Yellow}{LaTeX公式大全}$</p>
-<h3 id="把数学公式框起来"><a href="#把数学公式框起来" class="headerlink" title="把数学公式框起来"></a>把数学公式框起来</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">$$\boxed&#123;\sum\limits_&#123;i = <span class="number">1</span>&#125;^&#123;n&#125; i = \dfrac&#123;n(n - <span class="number">1</span>)&#125;&#123;<span class="number">2</span>&#125;&#125;$$ </span><br><span class="line"></span><br><span class="line">ps:对于行内模式同样有效，不过大多情况用于独立模式。</span><br></pre></td></tr></table></figure>
-
-<p>$$<br>\boxed{\sum\limits_{i = 1}^{n} i = \dfrac{n(n - 1)}{2}}<br>$$</p>
-<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p><a href="http://www.ctex.org/TeX" target="_blank" rel="noopener">TeX</a></p>
-<p><a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener">MATHEMATICS</a></p>
-<p><a href="https://www.luogu.com.cn/blog/IowaBattleship/latex-gong-shi-tai-quan" target="_blank" rel="noopener">LaTeX数学公式大全</a></p>
-]]></content>
-      <categories>
-        <category>Tools</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-        <tag>LaTeX</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
-    <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
-    <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
-
-<p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>部署博客，发布文章。</p>
-<h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">标题：#~######，一至六级标题</span><br><span class="line">强调：Ctrl+B</span><br><span class="line">下划线： Ctrl+U</span><br><span class="line">删除：Alt+Shift+<span class="number">5</span></span><br></pre></td></tr></table></figure>
-
-
-
-
-
-<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p>
-<p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p>
-<p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p>
-<p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p>
-<p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p>
-<p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>
-<p><a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT 使用文档</a></p>
-<p><a href="https://vel.life/Markdown-%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener">Markdown-语法笔记</a></p>
-]]></content>
-      <categories>
-        <category>Tools</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
       </tags>
   </entry>
   <entry>
@@ -1473,12 +740,44 @@
 <td>求求你专注。</td>
 </tr>
 </tbody></table>
+<h4 id="7-16-Thu-晴"><a href="#7-16-Thu-晴" class="headerlink" title="7.16 Thu 晴"></a>7.16 Thu 晴</h4><p>感冒了。</p>
+<p>身体不舒服，可以休息，但请自律</p>
 ]]></content>
       <categories>
         <category>NEEP</category>
       </categories>
       <tags>
         <tag>912</tag>
+        <tag>Notes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>算法竞赛入门经典</title>
+    <url>/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8/</url>
+    <content><![CDATA[<h3 id="第2章-循环结构程序设计"><a href="#第2章-循环结构程序设计" class="headerlink" title="第2章 循环结构程序设计"></a>第2章 循环结构程序设计</h3><h4 id="2-1-水仙花数-daffodil"><a href="#2-1-水仙花数-daffodil" class="headerlink" title="2-1 水仙花数(daffodil)"></a>2-1 水仙花数(daffodil)</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;math.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    FILE *fout;</span><br><span class="line">    fout = fopen(<span class="string">"output.txt"</span>, <span class="string">"wb"</span>);</span><br><span class="line">    <span class="keyword">int</span> a, b, c;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">100</span>;i &lt; <span class="number">1000</span>; ++i)&#123;</span><br><span class="line">        a = i/<span class="number">100</span>;</span><br><span class="line">        b = (i/<span class="number">10</span>)%<span class="number">10</span>;</span><br><span class="line">        c = i%<span class="number">10</span>;</span><br><span class="line">        <span class="keyword">if</span>(i != (<span class="built_in">pow</span>(a,<span class="number">3</span>)+<span class="built_in">pow</span>(b,<span class="number">3</span>)+<span class="built_in">pow</span>(c,<span class="number">3</span>)))</span><br><span class="line">           <span class="keyword">continue</span>;</span><br><span class="line">        <span class="built_in">fprintf</span>(fout, <span class="string">"%d\n"</span>, i);</span><br><span class="line">    &#125;</span><br><span class="line">    fclose(fout);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-2-韩信点兵-hanxin"><a href="#2-2-韩信点兵-hanxin" class="headerlink" title="2-2 韩信点兵(hanxin)"></a>2-2 韩信点兵(hanxin)</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    FILE *fin, *fout;</span><br><span class="line">    fin = fopen(<span class="string">"input.txt"</span>, <span class="string">"rb"</span>);</span><br><span class="line">    fout = fopen(<span class="string">"output.txt"</span>, <span class="string">"wb"</span>);</span><br><span class="line">    <span class="keyword">int</span> a, b, c;<span class="comment">//每排人数</span></span><br><span class="line">    <span class="built_in">fscanf</span>(fin, <span class="string">"%d %d %d"</span>, &amp;a, &amp;b, &amp;c);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">10</span>; i &lt; <span class="number">101</span>; ++i)&#123;</span><br><span class="line">        <span class="keyword">if</span>(!(i % <span class="number">3</span> == a &amp;&amp; i % <span class="number">5</span> == b &amp;&amp; i % <span class="number">7</span> == c))</span><br><span class="line">            <span class="keyword">continue</span>;</span><br><span class="line">        <span class="built_in">fprintf</span>(fout, <span class="string">"%d\n"</span>, i);</span><br><span class="line">    &#125;</span><br><span class="line">    fclose(fin);</span><br><span class="line">    fclose(fout);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-3-倒三角形"><a href="#2-3-倒三角形" class="headerlink" title="2-3 倒三角形"></a>2-3 倒三角形</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    FILE *fin, *fout;</span><br><span class="line">    fin = fopen(<span class="string">"input.txt"</span>, <span class="string">"rb"</span>);</span><br><span class="line">    fout = fopen(<span class="string">"output.txt"</span>, <span class="string">"wb"</span>);</span><br><span class="line">    <span class="keyword">int</span> n;<span class="comment">//n层三角形</span></span><br><span class="line">    <span class="built_in">fscanf</span>(fin, <span class="string">"%d"</span>, &amp;n);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i = n; i &gt; <span class="number">0</span>; --i)&#123;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> k = n-i; k &gt; <span class="number">0</span>; --k)</span><br><span class="line">            <span class="built_in">fprintf</span>(fout,<span class="string">" "</span>);<span class="comment">//空格</span></span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> j = <span class="number">2</span>*i<span class="number">-1</span>; j &gt; <span class="number">0</span>; --j)</span><br><span class="line">            <span class="built_in">fprintf</span>(fout, <span class="string">"#"</span>);</span><br><span class="line">        <span class="built_in">fprintf</span>(fout, <span class="string">"\n"</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    fclose(fin);</span><br><span class="line">    fclose(fout);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-4-子序列的和-subsequence"><a href="#2-4-子序列的和-subsequence" class="headerlink" title="2-4 子序列的和(subsequence)"></a>2-4 子序列的和(subsequence)</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;math.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    FILE *fin, *fout;</span><br><span class="line">    fin = fopen(<span class="string">"input.txt"</span>, <span class="string">"rb"</span>);</span><br><span class="line">    fout = fopen(<span class="string">"output.txt"</span>, <span class="string">"wb"</span>);</span><br><span class="line">    <span class="keyword">int</span> m, n;</span><br><span class="line">    <span class="keyword">while</span>(<span class="built_in">fscanf</span>(fin, <span class="string">"%d%d"</span>, &amp;m, &amp;n) == <span class="number">2</span> &amp;&amp; m != <span class="number">0</span> &amp;&amp; n !=<span class="number">0</span>)&#123;</span><br><span class="line">        <span class="keyword">double</span> sum = <span class="number">0.0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i = m; i &lt; n+<span class="number">1</span>; ++i)&#123;</span><br><span class="line">            sum += (<span class="keyword">double</span>)<span class="number">1</span>/<span class="built_in">pow</span>(i, <span class="number">2</span>);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="built_in">fprintf</span>(fout, <span class="string">"%.5f\n"</span>, sum);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    fclose(fin);</span><br><span class="line">    fclose(fout);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-5-分数化小数"><a href="#2-5-分数化小数" class="headerlink" title="2-5 分数化小数"></a>2-5 分数化小数</h4><p>本题的难点在于如何精确到小数点后c位。</p>
+<p>以2/5为例。</p>
+<p>2/5的整数位为0；2%5 = 2;余数为2，2*10=20；20/5整数位为4；20%5 = 0；……</p>
+<p>那么，</p>
+<p>m = a/b；//保存整数</p>
+<p>n = a%b; //保存余数</p>
+<p>n = n *10; //余数进位</p>
+<p>m = n / b;</p>
+<p>n = n % b;</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;math.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    FILE *fin, *fout;</span><br><span class="line">    fin = fopen(<span class="string">"input.txt"</span>, <span class="string">"rb"</span>);</span><br><span class="line">    fout = fopen(<span class="string">"output.txt"</span>, <span class="string">"wb"</span>);</span><br><span class="line">    <span class="keyword">int</span> a, b, c;</span><br><span class="line">    <span class="keyword">while</span>(<span class="built_in">fscanf</span>(fin, <span class="string">"%d%d%d"</span>, &amp;a, &amp;b, &amp;c) == <span class="number">3</span> &amp;&amp; a != <span class="number">0</span> &amp;&amp; b != <span class="number">0</span> &amp;&amp; c != <span class="number">0</span>)&#123;</span><br><span class="line">        <span class="keyword">int</span> m, n; <span class="comment">// m存整数， n存余数</span></span><br><span class="line">        m = a/b;</span><br><span class="line">        n = a%b;</span><br><span class="line">        <span class="built_in">fprintf</span>(fout, <span class="string">"%d."</span>, m);</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>; i &lt; c; ++i)&#123;</span><br><span class="line">            n *= <span class="number">10</span>;</span><br><span class="line">            m = n / b;</span><br><span class="line">            <span class="built_in">fprintf</span>(fout, <span class="string">"%d"</span>, m);</span><br><span class="line">            n = n % b;</span><br><span class="line">        &#125;</span><br><span class="line">        n *= <span class="number">10</span>;</span><br><span class="line">        <span class="keyword">if</span>((n%b)*<span class="number">10</span>/b &lt; <span class="number">5</span>)</span><br><span class="line">            <span class="built_in">fprintf</span>(fout, <span class="string">"%d\n"</span>, n/b);</span><br><span class="line">        <span class="keyword">else</span></span><br><span class="line">            <span class="built_in">fprintf</span>(fout, <span class="string">"%d\n"</span>, n/b+<span class="number">1</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    fclose(fin);</span><br><span class="line">    fclose(fout);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>Algorithm</category>
+      </categories>
+      <tags>
         <tag>Notes</tag>
       </tags>
   </entry>
@@ -1648,28 +947,202 @@
       </tags>
   </entry>
   <entry>
-    <title>我的学习观</title>
-    <url>/%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%A7%82/</url>
-    <content><![CDATA[<p>通过实践而发现真理，又通过实践而证实真理和发展真理。从感性认识而能动地发展到理性认识，又从理性认识而能动地指导革命实践，改造主观世界和客观世界。实践、认识、再实践、再认识，这种形式，循环往复以至无穷，而实践和认识之每一循环的内容，都比较地进到了高一级的程度。这就是辩证唯物论的全部认识论，这就是辩证唯物论的知行统一观。</p>
-<p>检验所学，能否有条理的复述是一条重要的标准。例如，读了某本书或者学到某些科学知识，若能用文字将自己的所学所悟记录下来，对接下来的学习有积极的影响。</p>
-<h3 id="做以下尝试："><a href="#做以下尝试：" class="headerlink" title="做以下尝试："></a>做以下尝试：</h3><h4 id="第一，复述所学"><a href="#第一，复述所学" class="headerlink" title="第一，复述所学"></a>第一，复述所学</h4><p>复述的方式有两种，口语复述和文字复述。</p>
-<h4 id="第二，保持专注"><a href="#第二，保持专注" class="headerlink" title="第二，保持专注"></a>第二，保持专注</h4><p>远离任何会打断复述过程的事物，思维本就碎片化，不要打断复述过程。这些事物包括但不限于论坛、短视频等各种短时反馈的东西。走出舒适区才能进步。</p>
-<h4 id="第三，抛弃形式主义"><a href="#第三，抛弃形式主义" class="headerlink" title="第三，抛弃形式主义"></a>第三，抛弃形式主义</h4><p>很多人进入过自我感动的怪圈，这和自小接受的苦难教育有关。</p>
-<p>如苏东坡言：古之成大事者，不惟有超世之才，亦必有坚韧不拔之志。</p>
-<p>按照科学的方法，减少学习时长带来的感动，增多睡眠时间，经常锻炼身体，把精力投入到学习中。</p>
-<h4 id="第四，坦荡从容，是自己给的"><a href="#第四，坦荡从容，是自己给的" class="headerlink" title="第四，坦荡从容，是自己给的"></a>第四，坦荡从容，是自己给的</h4><p>大多数人，尤其是同龄人，看到我们不断变得优秀，涌上心头的，不是替我们感到开心，而是羞耻，进而郁郁寡欢。</p>
-<p>因为在成长的过程中，我们经年累月被灌输一种思维方式，那就是需要借助一个参照物，来知道自己的位置。</p>
-<p>隔壁邻居的张三，班里的李四，职场中的王五，都是参照物。</p>
-<p>远离这种参照物思维，不要被别人贩卖的焦虑情绪感染，去追寻比过去的自己更优秀的自己。</p>
-<p><strong>自己比过去的自己优秀，是要给自己赞美的。</strong></p>
-<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p><strong>学习时的思维如流一般，沉浸其中是极致的乐趣。</strong></p>
+    <title>入宝山而空回</title>
+    <url>/%E5%85%A5%E5%AE%9D%E5%B1%B1%E4%B8%8D%E8%83%BD%E7%A9%BA%E8%BF%94/</url>
+    <content><![CDATA[<blockquote>
+<p>挟泰山以超北，在婿固不敢厚望；</p>
+<p>入宝山而空回，想岳亦不能忘情也。</p>
+<p>​                                                            –文秉《先拨志始》</p>
+</blockquote>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>如今，对普通人而言，获取优质学习资源比以往任何时候都要容易。</p>
+<p>许多时候恰恰因为获取资源非常容易，而导致在学习之前，准备工作做得过于“充足”。  </p>
+<blockquote>
+<p>学习数据结构：</p>
+<ul>
+<li>搜索“如何学习数据结构”，读完大部分的文章</li>
+<li>根据文章的提示开始找书、慕课，再看书评及慕课评价</li>
+<li>下载电子书，是否中英文都有，排版清晰否，要不要买纸质书</li>
+<li>下载或收藏课程，是否中英文都有，是否完整，清晰度如何</li>
+<li>……</li>
+</ul>
+</blockquote>
+<p>除了“学“，其他的事情都做了。</p>
+<p>这就是过度准备，会让人对将要学的知识有很强的的困难感。完全将自己陷在了一个还未开始就沮丧的心理泥潭。</p>
+<h2 id="经验教训"><a href="#经验教训" class="headerlink" title="经验教训"></a>经验教训</h2><p>再一次，我重新学习数据结构：</p>
+<ul>
+<li>买了邓公的数据结构和习题集。</li>
+<li>在bilibili上找到讲课视频</li>
+<li>下载好书中代码和ppt</li>
+<li>开始学习，调代码</li>
+</ul>
 ]]></content>
       <categories>
         <category>Mind</category>
       </categories>
       <tags>
+        <tag>随想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>具体数学(Concrete Math)笔记</title>
+    <url>/CM/</url>
+    <content><![CDATA[<p><strong>封闭形式</strong>：利用至多固定次数且仅仅显式地包含加法、减法、乘法、除法和幂指运算的表达式。</p>
+<p>递归式不是封闭形式，它们用其自身来表示一个量。</p>
+<h2 id="第-1-章-递归问题"><a href="#第-1-章-递归问题" class="headerlink" title="第 1 章 递归问题"></a>第 1 章 递归问题</h2><h3 id="1-1-汉诺塔-THETOWER-OF-HANOI"><a href="#1-1-汉诺塔-THETOWER-OF-HANOI" class="headerlink" title="1.1 汉诺塔 THETOWER OF HANOI"></a>1.1 汉诺塔 THETOWER OF HANOI</h3><p>问; 记$T_n$为$n$个圆盘从一根柱子移动到另一根柱子所需要的最少移动次数。</p>
+<ul>
+<li><p>确定递归式</p>
+<ul>
+<li>$T_n\leq2T_{n-1}+1, n&gt;0$, 移动$n$个圆盘，至多需要$T_{n-1}$次。</li>
+<li>$T_{n}\geq2T_{n-1}+1$,  移动上面n-1个圆盘到中转盘需要$T_{n-1}$次, 移动最大的圆盘需要1次，将n-1个圆盘移动到目标盘需要$T_{n-1}$次，共最少需要$2T_{n-1}+1$次。</li>
+<li>故得出递归式：$T_n=2T_{n-1}+1,n&gt;0$</li>
+</ul>
+</li>
+<li><p>求出封闭形式</p>
+<ul>
+<li>观察前几项，由数学归纳法，假设$T_n=2^n-1,n\geq0$,证明正确。</li>
+<li>平凡求解。$T_n+1=2T_{n-1}+2$, 记$U_n=T_n+1$, 得$U_n=2U_{n-1}$, $U_n$是等比数列，得出$T_n=2^n-1$。 </li>
+</ul>
+</li>
+</ul>
+<h3 id="1-2-平面上的直线-LINES-IN-THE-PLANE"><a href="#1-2-平面上的直线-LINES-IN-THE-PLANE" class="headerlink" title="1.2 平面上的直线 LINES IN THE PLANE"></a>1.2 平面上的直线 LINES IN THE PLANE</h3><h4 id="问：平面上的-n-条直线所界定的区域的最大个数-L-n-是多少？"><a href="#问：平面上的-n-条直线所界定的区域的最大个数-L-n-是多少？" class="headerlink" title="问：平面上的$n$条直线所界定的区域的最大个数$L_n$是多少？"></a>问：平面上的$n$条直线所界定的区域的最大个数$L_n$是多少？</h4><ul>
+<li><p>再一次，从小的情形开始研究。没有直线的平面有1个区域，有一条直线的平面有2个区域，有两条直线的平面有4个区域，有三条直线的平面有7个区域<br>$$<br>L_0=1;\<br>L_1=2;\<br>L_2=4;\<br>L_3=7;<br>$$</p>
+</li>
+<li><p>第n条直线与前面n-1条直线在不同的点相交，得：$L_n=L_{n-1}+n,n&gt;0$</p>
+</li>
+<li><p>由递推式得到封闭形式$L_n=\cfrac{n(n+1)}{2}+1,n\geq0$</p>
+</li>
+</ul>
+<h4 id="问：用折线代替直线美平面上由-n-条这样的折现所界定的区域的最大个数-Z-n-是多少？"><a href="#问：用折线代替直线美平面上由-n-条这样的折现所界定的区域的最大个数-Z-n-是多少？" class="headerlink" title="问：用折线代替直线美平面上由$n$条这样的折现所界定的区域的最大个数$Z_n$是多少？"></a>问：用折线代替直线美平面上由$n$条这样的折现所界定的区域的最大个数$Z_n$是多少？</h4><ul>
+<li>每条折线我们仅仅损失两个区域，从而<br>$$<br>Z_n=L_{2n}-2n=\cfrac{2n(2n+1)}{2}+1-2n=2n^2-n+1,n\geq0<br>$$</li>
+</ul>
+<h4 id="问：若改为120°三叉呢？用-Q-n-表示"><a href="#问：若改为120°三叉呢？用-Q-n-表示" class="headerlink" title="问：若改为120°三叉呢？用$Q_n$表示"></a>问：若改为120°三叉呢？用$Q_n$表示</h4><ul>
+<li>每条三折线我们仅仅损失三个区域，从而<br>$$<br>Q_n=L_{3n}-3n=\<br>\cfrac{3n(3n+1)}{2}+1-3n\<br>=\cfrac{3n(3n-1)}{2}+1<br>$$</li>
+</ul>
+<h3 id="1-3-约瑟夫问题-THE-JOSEPHUS-PROBLEM"><a href="#1-3-约瑟夫问题-THE-JOSEPHUS-PROBLEM" class="headerlink" title="1.3 约瑟夫问题 THE JOSEPHUS PROBLEM"></a>1.3 约瑟夫问题 THE JOSEPHUS PROBLEM</h3><h4 id="问：n个人围成一圈，每隔一个删除一个，只幸存一人。确定幸存者的号码-J-n"><a href="#问：n个人围成一圈，每隔一个删除一个，只幸存一人。确定幸存者的号码-J-n" class="headerlink" title="问：n个人围成一圈，每隔一个删除一个，只幸存一人。确定幸存者的号码$J(n)$."></a>问：n个人围成一圈，每隔一个删除一个，只幸存一人。确定幸存者的号码$J(n)$.</h4><ul>
+<li><p>递归式：<br>$$<br>J(2n)=2J(n)-1,n\geq1\<br>J(2n+1)=2J(n)+1,n\geq1.<br>$$</p>
+</li>
+<li><p>对递归式打表、数学归纳得到封闭形式：<br>$$<br>J(2^m+l)=2l+1,m\geq0,0\leq l&lt;2^m<br>$$</p>
+</li>
+<li><p>n的二进制展开式：$n=(b_mb_{m-1}…b_1b_0)$</p>
+</li>
+<li><p>首位数字$b_m$是1，其他$b_i$为0或1.又$n=2^m+l$，依次有：</p>
+</li>
+<li><p>$$<br>n=(1b_{m-1}b_{m-2}…b_2b_1)<em>2,\<br>l=(0b</em>{m-1}b_{m-2}…b_2b_1)<em>2,\<br>2l=(b</em>{m-1}b_{m-1}…b_2b_10)<em>2,\<br>2l+1=(b</em>{m-1}b_{m-2}…b_2b_11)=(b_{m-1}b_{m-2}…b_2b_1b_m)<em>2,\<br>J(n)=(b</em>{m-1}b_{m-2}…b_2b_1b_m)<em>2,\<br>J((b_mb</em>{m-1}b_{m-2}…b_2b_1)<em>2)=(b</em>{m-1}b_{m-2}…b_2b_1b_m)_2,其中b_m=1<br>$$</p>
+</li>
+<li><p>即：n向左循环移位一位得到了$J(n)$<br>$$<br>J(n)=n_2\quad left\quad rotate<br>$$</p>
+</li>
+<li><p>不动点性质：$J(J(J(…J(n))))$最后会停在不动点–二进制下全是1的数。</p>
+</li>
+</ul>
+<h4 id="拓展递归式"><a href="#拓展递归式" class="headerlink" title="拓展递归式"></a>拓展递归式</h4><p>待定系数法+特殊值代入，我们解题的方向就是先把唯一确定的值求出来，然后把其余值通过确定的值表示出来，即可得到最终的递归表达式。</p>
+<ul>
+<li>$f(1)=\alpha;f(2n)=2f(n)+\beta;f(2n+1)=2f(n)+\gamma.$</li>
+<li>显然$f(n)=A(n)\alpha+B(n)\beta+C(n)\gamma.$<ul>
+<li>方法一：打表、归纳</li>
+<li>方法二：代入$f(n)=1,f(n)=n.$解出$A(n),B(n),C(n).$</li>
+</ul>
+</li>
+</ul>
+<h4 id="拓展到一般形式"><a href="#拓展到一般形式" class="headerlink" title="拓展到一般形式"></a>拓展到一般形式</h4><ul>
+<li><p>递归式：<br>$$<br>f(j)=\alpha_j,\quad 1\leq j&lt;d;\<br>f(dn+j)=cf(n)+\beta_j<br>$$</p>
+</li>
+<li><p>从基数为d的数着手，产生的值是用基数为c的数表示：<br>$$<br>f((b_mb_{m-1}…b_1b_0)<em>d)=(\alpha</em>{b_{m}}\beta_{b_{m-1}}\beta_{b_{m-2}}…\beta_{b_1}\beta_{b_0})_c<br>$$</p>
+</li>
+</ul>
+<h2 id="第-1-章-习题"><a href="#第-1-章-习题" class="headerlink" title="第 1 章 习题"></a>第 1 章 习题</h2><h3 id="热身题"><a href="#热身题" class="headerlink" title="热身题"></a>热身题</h3><h4 id="1-马的颜色"><a href="#1-马的颜色" class="headerlink" title="1 马的颜色"></a>1 马的颜色</h4><h4 id="2-限制的Hanoi-Tower"><a href="#2-限制的Hanoi-Tower" class="headerlink" title="2 限制的Hanoi Tower"></a>2 限制的Hanoi Tower</h4><p>n个圆盘的移动序列记为$T_n$，列表：</p>
+<table>
+<thead>
+<tr>
+<th>$T_1$</th>
+<th>$T_2$</th>
+<th>$T_3$</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>2</td>
+<td>8</td>
+<td>26</td>
+</tr>
+</tbody></table>
+<ul>
+<li><p>递推方程：$T_n=T_{n-1}+2$</p>
+</li>
+<li><p>封闭形式：$T_n=3^n-1$</p>
+</li>
+</ul>
+<h4 id="5-韦恩图"><a href="#5-韦恩图" class="headerlink" title="5 韦恩图"></a>5 韦恩图</h4><ul>
+<li><p>每增加一个圆圈，最多与前面所有圆圈有两个交点（所有交点均不相同），增加的区域恰好与增加的交点数相同。</p>
+</li>
+<li><p>n个圆圈代表n个给定集合，$T_n$代表n个集合的子集数目</p>
+</li>
+<li><p>递推式：$T_n=T_{n-1}+2*(n-1),n\geq 2,T_1=1$</p>
+</li>
+<li><p>封闭形式：$T_n=n(n-1)+1$</p>
+</li>
+<li><p>得：$T_4=13$</p>
+</li>
+</ul>
+<h4 id="6-有界区域的最大个数"><a href="#6-有界区域的最大个数" class="headerlink" title="6 有界区域的最大个数"></a>6 有界区域的最大个数</h4><ul>
+<li>记n条直线的有界区域的最大个数为$T_n$</li>
+</ul>
+<p>打表：</p>
+<table>
+<thead>
+<tr>
+<th>$T_1$</th>
+<th>$T_2$</th>
+<th>$T_3$</th>
+<th>$T_4$</th>
+<th>$T_5$</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>3</td>
+<td>6</td>
+</tr>
+</tbody></table>
+<ul>
+<li>递推式：$T_n=T_{n-1}+n-2,n\geq2,T_1=0$</li>
+<li>封闭形式：$T_n=\cfrac{(n-1)(n-2)}{2},n\geq1$</li>
+</ul>
+<h3 id="作业题"><a href="#作业题" class="headerlink" title="作业题"></a>作业题</h3><h4 id="8-解递归式"><a href="#8-解递归式" class="headerlink" title="8 解递归式"></a>8 解递归式</h4><p>打表:</p>
+<table>
+<thead>
+<tr>
+<th>$Q_0$</th>
+<th>$Q_1$</th>
+<th>$Q_2$</th>
+<th>$Q_3$</th>
+<th>$Q_4$</th>
+<th>$Q_5$</th>
+<th>$Q_6$</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>$\alpha$</td>
+<td>$\beta$</td>
+<td>$\cfrac{1+\beta}{\alpha}$</td>
+<td>$\cfrac{1+\alpha+\beta}{\alpha\beta}$</td>
+<td>$\cfrac{1+\alpha}{\beta}$</td>
+<td>$\alpha$</td>
+<td>$\beta$</td>
+</tr>
+</tbody></table>
+<p>由上表可以推测，$Q_n$是以5为周期的周期函数。</p>
+<p>使用数学归纳法证明，假设<br>$$<br>Q_{5n}=\alpha;\<br>Q_{5n+1}=\beta;\<br>Q_{5n+2}=\cfrac{1+\beta}{\alpha};\<br>Q_{5n+3}=\cfrac{1+\alpha}{\beta};\<br>Q_{5n+4}=\cfrac{1+\alpha}{\beta};<br>$$<br>可证明$Q_{5n+5},Q_{5n+6},Q_{5n+7},Q_{5n+8},Q_{5n+9}$的值均符合公式$Q_n$.</p>
+<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p><a href="https://www.cnblogs.com/sunyaofeng/p/10048859.html" target="_blank" rel="noopener">具体数学(Concrete Math) 读书笔记</a></p>
+<p><a href="https://www.jianshu.com/p/e317ddb5bd70" target="_blank" rel="noopener">具体数学第一章笔记及习题解答</a></p>
+<p><a href="https://doray.me/2019/01/repertoire-method-for-solving-recurrences/" target="_blank" rel="noopener">Repertoire Method for Solving Recurrences</a></p>
+]]></content>
+      <categories>
+        <category>Math</category>
+      </categories>
+      <tags>
         <tag>Notes</tag>
-        <tag>学习方法</tag>
+        <tag>具体数学</tag>
       </tags>
   </entry>
   <entry>
@@ -1745,30 +1218,559 @@
       </tags>
   </entry>
   <entry>
-    <title>算法竞赛入门经典</title>
-    <url>/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8/</url>
-    <content><![CDATA[<h3 id="第2章-循环结构程序设计"><a href="#第2章-循环结构程序设计" class="headerlink" title="第2章 循环结构程序设计"></a>第2章 循环结构程序设计</h3><h4 id="2-1-水仙花数-daffodil"><a href="#2-1-水仙花数-daffodil" class="headerlink" title="2-1 水仙花数(daffodil)"></a>2-1 水仙花数(daffodil)</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;math.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    FILE *fout;</span><br><span class="line">    fout = fopen(<span class="string">"output.txt"</span>, <span class="string">"wb"</span>);</span><br><span class="line">    <span class="keyword">int</span> a, b, c;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">100</span>;i &lt; <span class="number">1000</span>; ++i)&#123;</span><br><span class="line">        a = i/<span class="number">100</span>;</span><br><span class="line">        b = (i/<span class="number">10</span>)%<span class="number">10</span>;</span><br><span class="line">        c = i%<span class="number">10</span>;</span><br><span class="line">        <span class="keyword">if</span>(i != (<span class="built_in">pow</span>(a,<span class="number">3</span>)+<span class="built_in">pow</span>(b,<span class="number">3</span>)+<span class="built_in">pow</span>(c,<span class="number">3</span>)))</span><br><span class="line">           <span class="keyword">continue</span>;</span><br><span class="line">        <span class="built_in">fprintf</span>(fout, <span class="string">"%d\n"</span>, i);</span><br><span class="line">    &#125;</span><br><span class="line">    fclose(fout);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-2-韩信点兵-hanxin"><a href="#2-2-韩信点兵-hanxin" class="headerlink" title="2-2 韩信点兵(hanxin)"></a>2-2 韩信点兵(hanxin)</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    FILE *fin, *fout;</span><br><span class="line">    fin = fopen(<span class="string">"input.txt"</span>, <span class="string">"rb"</span>);</span><br><span class="line">    fout = fopen(<span class="string">"output.txt"</span>, <span class="string">"wb"</span>);</span><br><span class="line">    <span class="keyword">int</span> a, b, c;<span class="comment">//每排人数</span></span><br><span class="line">    <span class="built_in">fscanf</span>(fin, <span class="string">"%d %d %d"</span>, &amp;a, &amp;b, &amp;c);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">10</span>; i &lt; <span class="number">101</span>; ++i)&#123;</span><br><span class="line">        <span class="keyword">if</span>(!(i % <span class="number">3</span> == a &amp;&amp; i % <span class="number">5</span> == b &amp;&amp; i % <span class="number">7</span> == c))</span><br><span class="line">            <span class="keyword">continue</span>;</span><br><span class="line">        <span class="built_in">fprintf</span>(fout, <span class="string">"%d\n"</span>, i);</span><br><span class="line">    &#125;</span><br><span class="line">    fclose(fin);</span><br><span class="line">    fclose(fout);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-3-倒三角形"><a href="#2-3-倒三角形" class="headerlink" title="2-3 倒三角形"></a>2-3 倒三角形</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    FILE *fin, *fout;</span><br><span class="line">    fin = fopen(<span class="string">"input.txt"</span>, <span class="string">"rb"</span>);</span><br><span class="line">    fout = fopen(<span class="string">"output.txt"</span>, <span class="string">"wb"</span>);</span><br><span class="line">    <span class="keyword">int</span> n;<span class="comment">//n层三角形</span></span><br><span class="line">    <span class="built_in">fscanf</span>(fin, <span class="string">"%d"</span>, &amp;n);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i = n; i &gt; <span class="number">0</span>; --i)&#123;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> k = n-i; k &gt; <span class="number">0</span>; --k)</span><br><span class="line">            <span class="built_in">fprintf</span>(fout,<span class="string">" "</span>);<span class="comment">//空格</span></span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> j = <span class="number">2</span>*i<span class="number">-1</span>; j &gt; <span class="number">0</span>; --j)</span><br><span class="line">            <span class="built_in">fprintf</span>(fout, <span class="string">"#"</span>);</span><br><span class="line">        <span class="built_in">fprintf</span>(fout, <span class="string">"\n"</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    fclose(fin);</span><br><span class="line">    fclose(fout);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-4-子序列的和-subsequence"><a href="#2-4-子序列的和-subsequence" class="headerlink" title="2-4 子序列的和(subsequence)"></a>2-4 子序列的和(subsequence)</h4><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;math.h&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    FILE *fin, *fout;</span><br><span class="line">    fin = fopen(<span class="string">"input.txt"</span>, <span class="string">"rb"</span>);</span><br><span class="line">    fout = fopen(<span class="string">"output.txt"</span>, <span class="string">"wb"</span>);</span><br><span class="line">    <span class="keyword">int</span> m, n;</span><br><span class="line">    <span class="keyword">while</span>(<span class="built_in">fscanf</span>(fin, <span class="string">"%d%d"</span>, &amp;m, &amp;n) == <span class="number">2</span> &amp;&amp; m != <span class="number">0</span> &amp;&amp; n !=<span class="number">0</span>)&#123;</span><br><span class="line">        <span class="keyword">double</span> sum = <span class="number">0.0</span>;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i = m; i &lt; n+<span class="number">1</span>; ++i)&#123;</span><br><span class="line">            sum += (<span class="keyword">double</span>)<span class="number">1</span>/<span class="built_in">pow</span>(i, <span class="number">2</span>);</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="built_in">fprintf</span>(fout, <span class="string">"%.5f\n"</span>, sum);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    fclose(fin);</span><br><span class="line">    fclose(fout);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h4 id="2-5-分数化小数"><a href="#2-5-分数化小数" class="headerlink" title="2-5 分数化小数"></a>2-5 分数化小数</h4><p>本题的难点在于如何精确到小数点后c位。</p>
-<p>以2/5为例。</p>
-<p>2/5的整数位为0；2%5 = 2;余数为2，2*10=20；20/5整数位为4；20%5 = 0；……</p>
-<p>那么，</p>
-<p>m = a/b；//保存整数</p>
-<p>n = a%b; //保存余数</p>
-<p>n = n *10; //余数进位</p>
-<p>m = n / b;</p>
-<p>n = n % b;</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;math.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    FILE *fin, *fout;</span><br><span class="line">    fin = fopen(<span class="string">"input.txt"</span>, <span class="string">"rb"</span>);</span><br><span class="line">    fout = fopen(<span class="string">"output.txt"</span>, <span class="string">"wb"</span>);</span><br><span class="line">    <span class="keyword">int</span> a, b, c;</span><br><span class="line">    <span class="keyword">while</span>(<span class="built_in">fscanf</span>(fin, <span class="string">"%d%d%d"</span>, &amp;a, &amp;b, &amp;c) == <span class="number">3</span> &amp;&amp; a != <span class="number">0</span> &amp;&amp; b != <span class="number">0</span> &amp;&amp; c != <span class="number">0</span>)&#123;</span><br><span class="line">        <span class="keyword">int</span> m, n; <span class="comment">// m存整数， n存余数</span></span><br><span class="line">        m = a/b;</span><br><span class="line">        n = a%b;</span><br><span class="line">        <span class="built_in">fprintf</span>(fout, <span class="string">"%d."</span>, m);</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> i = <span class="number">1</span>; i &lt; c; ++i)&#123;</span><br><span class="line">            n *= <span class="number">10</span>;</span><br><span class="line">            m = n / b;</span><br><span class="line">            <span class="built_in">fprintf</span>(fout, <span class="string">"%d"</span>, m);</span><br><span class="line">            n = n % b;</span><br><span class="line">        &#125;</span><br><span class="line">        n *= <span class="number">10</span>;</span><br><span class="line">        <span class="keyword">if</span>((n%b)*<span class="number">10</span>/b &lt; <span class="number">5</span>)</span><br><span class="line">            <span class="built_in">fprintf</span>(fout, <span class="string">"%d\n"</span>, n/b);</span><br><span class="line">        <span class="keyword">else</span></span><br><span class="line">            <span class="built_in">fprintf</span>(fout, <span class="string">"%d\n"</span>, n/b+<span class="number">1</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    fclose(fin);</span><br><span class="line">    fclose(fout);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
+    <title>408院校整理及资料分享</title>
+    <url>/408/</url>
+    <content><![CDATA[<p>408笔记：链接：<a href="https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g" target="_blank" rel="noopener">https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g</a><br>提取码：04to<br></p>
+<p>408真题：链接：<a href="https://pan.baidu.com/s/1U9n4NkGjO4eY9NiVAKG1ew" target="_blank" rel="noopener">https://pan.baidu.com/s/1U9n4NkGjO4eY9NiVAKG1ew</a><br>提取码：3mvr </br></p>
+<p>数据结构（严蔚敏）代码实现及课本知识点：链接：<a href="https://pan.baidu.com/s/1kR3KlrUwqtNkbXpn28qJ4g" target="_blank" rel="noopener">https://pan.baidu.com/s/1kR3KlrUwqtNkbXpn28qJ4g</a><br>提取码：mq2o</br></p>
+<p>计算机考研408是全国统考的科目，专业课综合考试内容：数据结构、计算机组成原理、操作系统和计算机网络。</p>
+<h2 id="1-初试考察408的院校简单介绍（欢迎在评论区补充）："><a href="#1-初试考察408的院校简单介绍（欢迎在评论区补充）：" class="headerlink" title="1. 初试考察408的院校简单介绍（欢迎在评论区补充）："></a>1. 初试考察408的院校简单介绍（欢迎在评论区补充）：</h2><p><strong>985院校：</strong></p>
+<p>​    浙江大学，中国科学技术大学，上海交通大学，复旦大学；</p>
+<p>​    同济大学，武汉大学，中山大学，南开大学，华南理工大学，华东师范大学；</p>
+<p>​    中国人民大学（网传21会统考408），华中科技大学（网传21会统考408）</p>
+<p><strong>211院校：</strong></p>
+<p>​    武汉理工大学，上海大学，郑州大学，云南大学，西南财经大学</p>
+<p>​    上海财经大学，海南大学，广西大学，贵州大学，宁夏大学</p>
+<p>​    华中农业大学，青海大学，河北工业大学（在天津）</p>
+<p><strong>非985/211院校：</strong></p>
+<p>​    上海科技大学，深圳大学，宁波大学，深圳大学，河北大学</p>
+<p>​    南方科技大学，广州大学，中国民航大学，安徽农业大学，辽宁工业大学</p>
+<p>​    辽宁石油化工大学，上海海洋大学，长江大学，南方医科大学，广西民族大学</p>
+<p>​    西安工程大学，解放军信息工程大学，东莞理工学院，桂林电子科技大学，昆明理工大学</p>
+<p>​    杭州师范大学，湖南工商大学，上海师范大学，温州医科大学，武汉纺织大学 </p>
+<p>​    湖南中医药大学</p>
+<p><strong>研究所</strong></p>
+<p>​    上海市计算技术研究所，武汉数字工程研究所，西南自动化研究所</p>
+<p>​    西安微电子技术研究所，航天771所，中国航空研究院631所</p>
+<p>​    华东计算机技术研究所，中国电子科技集团第三十二研究所</p>
+<h2 id="2-备考资料，笔记"><a href="#2-备考资料，笔记" class="headerlink" title="2. 备考资料，笔记"></a>2. 备考资料，笔记</h2><p><strong>参考书</strong></p>
+<p>​    数据结构：王道+天勤</p>
+<p>​    计算机组成原理：计算机组成-软硬件接口+天勤+王道</p>
+<p>​    操作系统：天勤+王道+现代操作系统</p>
+<p>​    计算机网络：计算机网络-自顶向下 +天勤+王道</p>
+<p>资料分享在顶部：</p>
 ]]></content>
       <categories>
-        <category>Algorithm</category>
+        <category>NEEP</category>
+      </categories>
+      <tags>
+        <tag>408</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LaTeX+Typora使用Markdown编辑数学公式 | Typora使用文档</title>
+    <url>/LaTeX-Typora%E4%BD%BF%E7%94%A8Markdown%E7%BC%96%E8%BE%91%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F/</url>
+    <content><![CDATA[<p><a href="https://baike.baidu.com/item/LaTeX/1212106" target="_blank" rel="noopener">LaTeX</a>是一种基于<a href="https://baike.baidu.com/item/TeX/3794463?fr=aladdin" target="_blank" rel="noopener">TeX</a>的文档排版系统,把大片排版的格式细节隐藏在若干样式之后，以内容的逻辑结构统帅纷繁的格式，遂成为现在最流行的科技写作——尤其是数学写作的工具之一.<a id="more"></a><br> 在Markdown中插入数学公式的语法是 <code>$数学公式$</code> 和 <code>$$数学公式$$</code>.</p>
+<h2 id="行内公式"><a href="#行内公式" class="headerlink" title="行内公式"></a>行内公式</h2><p>行内公式是可以让公式在文中与文字或其他东西混编，不独占一行.在数学模式下,符号会使用单独的字体,字母通常是倾斜的意大利体,数字和符号则是直立体.而且,数学符号之间的距离也与一般的水平模式不同:</p>
+<table>
+<thead>
+<tr>
+<th>示例</th>
+<th>显示</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>$2x+3y=34$</code></td>
+<td>$2x+3y=34$</td>
+</tr>
+<tr>
+<td><code>2x+3y=34</code></td>
+<td>2x+3y=34</td>
+</tr>
+</tbody></table>
+<p>因此,在排版数学公式时,即使没有特殊符号的算式如1+1=2,或者简单的一个字母变量$x$,也要进入数学模式,使用<code>$1+1=2$</code>,<code>$x$</code>,而不是使用排版普通文字的方式</p>
+<h2 id="常用符号"><a href="#常用符号" class="headerlink" title="常用符号"></a>常用符号</h2><table>
+<thead>
+<tr>
+<th>符号</th>
+<th>示例</th>
+<th>显示</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>上下标</td>
+<td><code>$S=a_{1}^2+a_{2}^2+a_{3}^2$</code></td>
+<td>$S=a_{1}^2+a_{2}^2+a_{3}^2$</td>
+</tr>
+<tr>
+<td>括号</td>
+<td><code>$f(x, y) = 100 * \lbrace[(x + y) * 3] - 5\rbrace$</code></td>
+<td>$f(x, y) = 100 * \lbrace[(x + y) * 3] - 5\rbrace$</td>
+</tr>
+<tr>
+<td>分数</td>
+<td><code>$\frac{1}{3} 与 \cfrac{1}{3}$</code></td>
+<td>$\frac{1}{3} 与 \cfrac{1}{3}$</td>
+</tr>
+<tr>
+<td>开方</td>
+<td><code>$\sqrt[3]{X}$</code>和<code>$\sqrt{5 - x}$</code></td>
+<td>$\sqrt[3]{X}$<code>和</code>$\sqrt{5 - x}$</td>
+</tr>
+<tr>
+<td>空格</td>
+<td><code>$\quad$</code></td>
+<td></td>
+</tr>
+<tr>
+<td>换行</td>
+<td><code>$\\$</code></td>
+<td></td>
+</tr>
+<tr>
+<td>矩阵</td>
+<td><code>\begin{bmatrix} 1 &amp; 2 \\ 3 &amp; 4 \end{bmatrix}</code></td>
+<td>$\begin{bmatrix} 1 &amp; 2 \ 3 &amp; 4 \end{bmatrix}$</td>
+</tr>
+<tr>
+<td>大括号</td>
+<td><code>y=\begin{cases}x,x\le1 \\ 2x-1,x&gt;1\end{cases}</code></td>
+<td>$y=\begin{cases}x,x\le1 \ 2x-1,x&gt;1\end{cases}$</td>
+</tr>
+</tbody></table>
+<h2 id="其他字符"><a href="#其他字符" class="headerlink" title="其他字符"></a>其他字符</h2><h3 id="关系运算符"><a href="#关系运算符" class="headerlink" title="关系运算符"></a>关系运算符</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>符号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\pm</td>
+<td>$\pm$</td>
+</tr>
+<tr>
+<td>\times</td>
+<td>$\times$</td>
+</tr>
+<tr>
+<td>\div</td>
+<td>$\div$</td>
+</tr>
+<tr>
+<td>\mid</td>
+<td>$\mid$</td>
+</tr>
+<tr>
+<td>\nmid</td>
+<td>$\nmid$</td>
+</tr>
+<tr>
+<td>\cdot</td>
+<td>$\cdot$</td>
+</tr>
+<tr>
+<td>\circ</td>
+<td>$\circ$</td>
+</tr>
+<tr>
+<td>\ast</td>
+<td>$\ast$</td>
+</tr>
+<tr>
+<td>\bigodot</td>
+<td>$\bigodot$</td>
+</tr>
+<tr>
+<td>\bigotimes</td>
+<td>$\bigotimes$</td>
+</tr>
+<tr>
+<td>\bigoplus</td>
+<td>$\bigoplus$</td>
+</tr>
+<tr>
+<td>\leq</td>
+<td>$\leq$</td>
+</tr>
+<tr>
+<td>\geq</td>
+<td>$\geq$</td>
+</tr>
+<tr>
+<td>\neq</td>
+<td>$\neq$</td>
+</tr>
+<tr>
+<td>\approx</td>
+<td>$\approx$</td>
+</tr>
+<tr>
+<td>\equiv</td>
+<td>$\equiv$</td>
+</tr>
+<tr>
+<td>\sum</td>
+<td>$\sum$</td>
+</tr>
+<tr>
+<td>\prod</td>
+<td>$\prod$</td>
+</tr>
+</tbody></table>
+<h3 id="对数运算符"><a href="#对数运算符" class="headerlink" title="对数运算符"></a>对数运算符</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>符号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\log</td>
+<td>$\log$</td>
+</tr>
+<tr>
+<td>\lg</td>
+<td>$\lg$</td>
+</tr>
+<tr>
+<td>\ln</td>
+<td>$\ln$</td>
+</tr>
+</tbody></table>
+<h3 id="三角运算符"><a href="#三角运算符" class="headerlink" title="三角运算符"></a>三角运算符</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>符号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\bot</td>
+<td>$\bot$</td>
+</tr>
+<tr>
+<td>\angle</td>
+<td>$\angle$</td>
+</tr>
+<tr>
+<td>\sin</td>
+<td>$\sin$</td>
+</tr>
+<tr>
+<td>\cos</td>
+<td>$\cos$</td>
+</tr>
+<tr>
+<td>\tan</td>
+<td>$\tan$</td>
+</tr>
+<tr>
+<td>\cot</td>
+<td>$\cot$</td>
+</tr>
+<tr>
+<td>\sec</td>
+<td>$\sec$</td>
+</tr>
+<tr>
+<td>\csc</td>
+<td>$\csc$</td>
+</tr>
+</tbody></table>
+<h3 id="微积分运算符"><a href="#微积分运算符" class="headerlink" title="微积分运算符"></a>微积分运算符</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>符号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\prime</td>
+<td>$\prime$</td>
+</tr>
+<tr>
+<td>\int</td>
+<td>$\int$</td>
+</tr>
+<tr>
+<td>\iint</td>
+<td>$\iint$</td>
+</tr>
+<tr>
+<td>\iiint</td>
+<td>$\iiint$</td>
+</tr>
+<tr>
+<td>\oint</td>
+<td>$\oint$</td>
+</tr>
+<tr>
+<td>\lim</td>
+<td>$\lim$</td>
+</tr>
+<tr>
+<td>\infty</td>
+<td>$\infty$</td>
+</tr>
+<tr>
+<td>\nabla</td>
+<td>$\nabla$</td>
+</tr>
+<tr>
+<td>\mathrm{d}</td>
+<td>$\mathrm{d}$</td>
+</tr>
+</tbody></table>
+<h3 id="集合运算符"><a href="#集合运算符" class="headerlink" title="集合运算符"></a>集合运算符</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>符号</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\emptyset</td>
+<td>$\emptyset$</td>
+</tr>
+<tr>
+<td>\in</td>
+<td>$\in$</td>
+</tr>
+<tr>
+<td>\notin</td>
+<td>$\notin$</td>
+</tr>
+<tr>
+<td>\subset</td>
+<td>$\subset$</td>
+</tr>
+<tr>
+<td>\subseteq</td>
+<td>$\subseteq$</td>
+</tr>
+<tr>
+<td>\supseteq</td>
+<td>$\supseteq$</td>
+</tr>
+<tr>
+<td>\bigcap</td>
+<td>$\bigcap$</td>
+</tr>
+<tr>
+<td>\bigcup</td>
+<td>$\bigcup$</td>
+</tr>
+<tr>
+<td>\bigvee</td>
+<td>$\bigvee$</td>
+</tr>
+<tr>
+<td>\bigwedge</td>
+<td>$\bigwedge$</td>
+</tr>
+<tr>
+<td>\biguplus</td>
+<td>$\biguplus$</td>
+</tr>
+<tr>
+<td>\bigsqcup</td>
+<td>$\bigsqcup$</td>
+</tr>
+</tbody></table>
+<h3 id="希腊字母"><a href="#希腊字母" class="headerlink" title="希腊字母"></a>希腊字母</h3><table>
+<thead>
+<tr>
+<th>代码</th>
+<th>大写</th>
+<th>代码</th>
+<th>小写</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>A</td>
+<td>$A$</td>
+<td>\alpha</td>
+<td>$\alpha$</td>
+</tr>
+<tr>
+<td>B</td>
+<td>$B$</td>
+<td>\beta</td>
+<td>$\beta$</td>
+</tr>
+<tr>
+<td>\Gamma</td>
+<td>$\Gamma$</td>
+<td>\gamma</td>
+<td>$\gamma$</td>
+</tr>
+<tr>
+<td>\Delta</td>
+<td>$\Delta$</td>
+<td>\delta</td>
+<td>$\delta$</td>
+</tr>
+<tr>
+<td>E</td>
+<td>$E$</td>
+<td>\epsilon</td>
+<td>$\epsilon$</td>
+</tr>
+<tr>
+<td>Z</td>
+<td>$Z$</td>
+<td>\zeta</td>
+<td>$\zeta$</td>
+</tr>
+<tr>
+<td>H</td>
+<td>$H$</td>
+<td>\eta</td>
+<td>$\eta$</td>
+</tr>
+<tr>
+<td>\Theta</td>
+<td>$\Theta$</td>
+<td>\theta</td>
+<td>$\theta$</td>
+</tr>
+<tr>
+<td>I</td>
+<td>$I$</td>
+<td>\iota</td>
+<td>$\iota$</td>
+</tr>
+<tr>
+<td>K</td>
+<td>$K$</td>
+<td>\kappa</td>
+<td>$\kappa$</td>
+</tr>
+<tr>
+<td>Lambda</td>
+<td>$\Lambda$</td>
+<td>\lambda</td>
+<td>$\lambda$</td>
+</tr>
+<tr>
+<td>M</td>
+<td>$M$</td>
+<td>\mu</td>
+<td>$\mu$</td>
+</tr>
+<tr>
+<td>N</td>
+<td>$N$</td>
+<td>\nu</td>
+<td>$\nu$</td>
+</tr>
+<tr>
+<td>Xi</td>
+<td>$Xi$</td>
+<td>\xi</td>
+<td>$\xi$</td>
+</tr>
+<tr>
+<td>O</td>
+<td>$O$</td>
+<td>\omicron</td>
+<td>$\omicron$</td>
+</tr>
+<tr>
+<td>\Pi</td>
+<td>$\Pi$</td>
+<td>\pi</td>
+<td>$\pi$</td>
+</tr>
+<tr>
+<td>P</td>
+<td>$P$</td>
+<td>\rho</td>
+<td>$\rho$</td>
+</tr>
+<tr>
+<td>\Sigma</td>
+<td>$\Sigma$</td>
+<td>\sigma</td>
+<td>$\sigma$</td>
+</tr>
+<tr>
+<td>T</td>
+<td>$T$</td>
+<td>\tau</td>
+<td>$\tau$</td>
+</tr>
+<tr>
+<td>\Upsilon</td>
+<td>$\Upsilon$</td>
+<td>\upsilon</td>
+<td>$\upsilon$</td>
+</tr>
+<tr>
+<td>\Phi</td>
+<td>$\Phi$</td>
+<td>\phi</td>
+<td>$\phi$</td>
+</tr>
+<tr>
+<td>X</td>
+<td>$X$</td>
+<td>\chi</td>
+<td>$\chi$</td>
+</tr>
+<tr>
+<td>\Psi</td>
+<td>$\Psi$</td>
+<td>\psi</td>
+<td>$\psi$</td>
+</tr>
+<tr>
+<td>\Omega</td>
+<td>$\Omega$</td>
+<td>\omega</td>
+<td>$\omega$</td>
+</tr>
+</tbody></table>
+<h3 id="颜色"><a href="#颜色" class="headerlink" title="颜色"></a>颜色</h3><p>字体颜色：{\color{色调}表达式}<br>背景颜色：{\color{文字色调}\colorbox{背景色调}{表达式(可以打中文)}}</p>
+<p>${\color{Aquamarine}Aquamarine}$<br>${\color{Black}Black}$<br>${\color{Blue}Blue}$<br>${\color{BlueViolet}BlueViolet}$<br>${\color{Brown}Brown}$<br>${\color{CadetBlue}CadetBlue}$<br>${\color{CornflowerBlue}CornflowerBlue}$<br>${\color{Cyan}Cyan}$<br>${\color{DarkOrchid}DarkOrchid}$<br>${\color{ForestGreen}ForestGreen}$<br>${\color{Fuchsia}Fuchsia}$<br>${\color{Goldenrod}Goldenrod}$<br>${\color{Gold}Gold}$<br>${\color{Gray}Gray}$<br>${\color{CadetBlue}CadetBlue}$<br>${\color{Green}Green}$<br>${\color{GreenYellow}GreenYellow}$<br>${\color{Lavender}Lavender}$<br>${\color{LimeGreen}LimeGreen}$<br>${\color{Magenta}Magenta}$<br>${\color{Maroon}Maroon}$<br>${\color{Orange}Orange}$<br>${\color{OrangeRed}OrangeRed}$<br>${\color{Orchid}Orchid}$<br>${\color{Plum}Plum}$<br>${\color{Purple}Purple}$<br>${\color{Red}Red}$<br>${\color{RoyalBlue}RoyalBlue}$<br>${\color{Salmon}Salmon}$<br>${\color{SeaGreen}SeaGreen}$<br>${\color{SkyBlue}SkyBlue}$<br>${\color{SpringGreen}SpringGreen}$<br>${\color{Tan}Tan}$<br>${\color{Thistle}Thistle}$<br>${\color{Turquoise}Turquoise }$<br>${\color{Violet}Violet}$<br>${\color{White}White}$← 这是白= =<br>${\color{Yellow}Yellow}$<br>${\color{YellowGreen}YellowGreen}$<br>随便举个例子：</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">$x=\dfrac&#123;-b\pm\<span class="built_in">sqrt</span>&#123;\color&#123;Red&#125;b^<span class="number">2</span><span class="number">-4</span>ac&#125;&#125;&#123;\color&#123;Blue&#125;<span class="number">2</span>a&#125;$</span><br></pre></td></tr></table></figure>
+
+<p>$\quad x=\dfrac{-b\pm\sqrt{\color{Red}b^2-4ac}}{\color{Blue}2a}$</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">$\color&#123;Blue&#125;\colorbox&#123;Yellow&#125;&#123;LaTeX公式大全&#125;$</span><br></pre></td></tr></table></figure>
+
+<p>$\quad\color{Blue}\colorbox{Yellow}{LaTeX公式大全}$</p>
+<h3 id="把数学公式框起来"><a href="#把数学公式框起来" class="headerlink" title="把数学公式框起来"></a>把数学公式框起来</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line">$$\boxed&#123;\sum\limits_&#123;i = <span class="number">1</span>&#125;^&#123;n&#125; i = \dfrac&#123;n(n - <span class="number">1</span>)&#125;&#123;<span class="number">2</span>&#125;&#125;$$ </span><br><span class="line"></span><br><span class="line">ps:对于行内模式同样有效，不过大多情况用于独立模式。</span><br></pre></td></tr></table></figure>
+
+<p>$$<br>\boxed{\sum\limits_{i = 1}^{n} i = \dfrac{n(n - 1)}{2}}<br>$$</p>
+<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p><a href="http://www.ctex.org/TeX" target="_blank" rel="noopener">TeX</a></p>
+<p><a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener">MATHEMATICS</a></p>
+<p><a href="https://www.luogu.com.cn/blog/IowaBattleship/latex-gong-shi-tai-quan" target="_blank" rel="noopener">LaTeX数学公式大全</a></p>
+]]></content>
+      <categories>
+        <category>Tools</category>
+      </categories>
+      <tags>
+        <tag>LaTeX</tag>
+        <tag>Notes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
+    <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
+    <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
+
+<p>如果原来的端口长时间不能访问，或许其已被占用，改变端口可解。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>部署博客，发布文章。</p>
+<h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">标题：#~######，一至六级标题</span><br><span class="line">强调：Ctrl+B</span><br><span class="line">下划线： Ctrl+U</span><br><span class="line">删除：Alt+Shift+<span class="number">5</span></span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><p><a href="https://vel.life/Hexo-%E5%8D%9A%E6%96%87%E7%BC%96%E8%BE%91%E6%89%8B%E5%86%8C/" target="_blank" rel="noopener">Hexo-博文编辑手册</a></p>
+<p><a href="https://www.jianshu.com/p/f054333ac9e6" target="_blank" rel="noopener">hexo的next主题个性化教程:打造炫酷网站</a></p>
+<p><a href="https://blog.csdn.net/mqdxiaoxiao/article/details/93670772" target="_blank" rel="noopener">Hexo博客NexT主题下添加字数统计和阅读时长</a></p>
+<p><a href="https://blog.csdn.net/RayDon03/article/details/104441437?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-5" target="_blank" rel="noopener">使用!– more –来控制hexo next主页文章预览，让主页更简洁</a></p>
+<p><a href="https://htmlcolorcodes.com/zh/" target="_blank" rel="noopener">HTML颜色代码</a></p>
+<p><a href="http://www.fontawesome.com.cn/faicons/" target="_blank" rel="noopener">Font Awesome</a></p>
+<p><a href="http://theme-next.iissnan.com/" target="_blank" rel="noopener">NexT 使用文档</a></p>
+<p><a href="https://vel.life/Markdown-%E8%AF%AD%E6%B3%95%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener">Markdown-语法笔记</a></p>
+]]></content>
+      <categories>
+        <category>Tools</category>
       </categories>
       <tags>
         <tag>Notes</tag>
