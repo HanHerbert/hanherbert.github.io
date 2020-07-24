@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hanherebrt.github.io/"/>
-  <updated>2020-07-19T12:51:59.212Z</updated>
+  <updated>2020-07-24T00:47:16.294Z</updated>
   <id>http://hanherebrt.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>专心学习</title>
+    <link href="http://hanherebrt.github.io/%E4%B8%93%E5%BF%83%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://hanherebrt.github.io/%E4%B8%93%E5%BF%83%E5%AD%A6%E4%B9%A0/</id>
+    <published>2020-07-23T17:43:06.000Z</published>
+    <updated>2020-07-24T00:47:16.294Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>我发现我面向电脑工作同时没有监督的话就很容易摸鱼。</p><p>我发现我面向手机工作同时没有监督的话就很容易摸鱼。</p><p>总之，我发现没有监督的话我很容易摸鱼。</p></blockquote><p>这样的场景太多，我的问题在于，我总是不经意间打开浏览器输入bilibili.com/weibo.com/zhihu.com/hupu.com或者qq群。</p><h3 id="形成原因"><a href="#形成原因" class="headerlink" title="形成原因"></a>形成原因</h3><ul><li>对时间分配不清晰。该项任务需要多长时间完成，没有规划好。</li><li>执行力不够，抱着再玩一会儿就学习的心态玩了一整天或者玩到剩下的时间不够完成任务，遂放弃治疗，玩到底。</li></ul><h3 id="改善方式"><a href="#改善方式" class="headerlink" title="改善方式"></a>改善方式</h3><ul><li>手机静音放包里。</li><li>用那种锁手机软件，忙完解锁。切记：锁的时候一定要迅速，别给大脑犹豫的机会。</li></ul><p>$$<br>\int_3^{+\infty}\cfrac{1}{(x-1)^4\sqrt{x^2-2x}}dx,\<br>令x-1=\sec t,则t\in(\cfrac\pi3,\cfrac\pi2)\<br>dx=\sec t \tan t dt\<br>原式=\int_{\frac\pi3}^{\frac\pi2}\cos^3tdt=\frac2 3-\frac{3\sqrt3}8<br>$$</p>]]></content>
+    
+    <summary type="html">
+    
+      当摸鱼成为常态
+    
+    </summary>
+    
+    
+      <category term="Mind" scheme="http://hanherebrt.github.io/categories/Mind/"/>
+    
+    
+      <category term="随想" scheme="http://hanherebrt.github.io/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>入宝山而空回</title>
@@ -152,9 +175,9 @@
       <category term="NEEP" scheme="http://hanherebrt.github.io/categories/NEEP/"/>
     
     
-      <category term="912" scheme="http://hanherebrt.github.io/tags/912/"/>
-    
       <category term="Notes" scheme="http://hanherebrt.github.io/tags/Notes/"/>
+    
+      <category term="912" scheme="http://hanherebrt.github.io/tags/912/"/>
     
       <category term="DS" scheme="http://hanherebrt.github.io/tags/DS/"/>
     
@@ -202,9 +225,9 @@
       <category term="NEEP" scheme="http://hanherebrt.github.io/categories/NEEP/"/>
     
     
-      <category term="912" scheme="http://hanherebrt.github.io/tags/912/"/>
-    
       <category term="Notes" scheme="http://hanherebrt.github.io/tags/Notes/"/>
+    
+      <category term="912" scheme="http://hanherebrt.github.io/tags/912/"/>
     
   </entry>
   
