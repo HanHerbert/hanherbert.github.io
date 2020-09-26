@@ -1,43 +1,311 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>408院校整理及资料分享</title>
-    <url>/408/</url>
-    <content><![CDATA[<p>408笔记：链接：<a href="https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g" target="_blank" rel="noopener">https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g</a><br>提取码：04to<br></p>
-<p>408真题：链接：<a href="https://pan.baidu.com/s/1U9n4NkGjO4eY9NiVAKG1ew" target="_blank" rel="noopener">https://pan.baidu.com/s/1U9n4NkGjO4eY9NiVAKG1ew</a><br>提取码：3mvr </br></p>
-<p>数据结构（严蔚敏）代码实现及课本知识点：链接：<a href="https://pan.baidu.com/s/1kR3KlrUwqtNkbXpn28qJ4g" target="_blank" rel="noopener">https://pan.baidu.com/s/1kR3KlrUwqtNkbXpn28qJ4g</a><br>提取码：mq2o</br></p>
-<p>计算机考研408是全国统考的科目，专业课综合考试内容：数据结构、计算机组成原理、操作系统和计算机网络。</p>
-<h2 id="1-初试考察408的院校简单介绍（欢迎在评论区补充）："><a href="#1-初试考察408的院校简单介绍（欢迎在评论区补充）：" class="headerlink" title="1. 初试考察408的院校简单介绍（欢迎在评论区补充）："></a>1. 初试考察408的院校简单介绍（欢迎在评论区补充）：</h2><p><strong>985院校：</strong></p>
-<p>​    浙江大学，中国科学技术大学，上海交通大学，复旦大学；</p>
-<p>​    同济大学，武汉大学，中山大学，南开大学，华南理工大学，华东师范大学；</p>
-<p>​    中国人民大学（网传21会统考408），华中科技大学（网传21会统考408）</p>
-<p><strong>211院校：</strong></p>
-<p>​    武汉理工大学，上海大学，郑州大学，云南大学，西南财经大学</p>
-<p>​    上海财经大学，海南大学，广西大学，贵州大学，宁夏大学</p>
-<p>​    华中农业大学，青海大学，河北工业大学（在天津）</p>
-<p><strong>非985/211院校：</strong></p>
-<p>​    上海科技大学，深圳大学，宁波大学，深圳大学，河北大学</p>
-<p>​    南方科技大学，广州大学，中国民航大学，安徽农业大学，辽宁工业大学</p>
-<p>​    辽宁石油化工大学，上海海洋大学，长江大学，南方医科大学，广西民族大学</p>
-<p>​    西安工程大学，解放军信息工程大学，东莞理工学院，桂林电子科技大学，昆明理工大学</p>
-<p>​    杭州师范大学，湖南工商大学，上海师范大学，温州医科大学，武汉纺织大学 </p>
-<p>​    湖南中医药大学</p>
-<p><strong>研究所</strong></p>
-<p>​    上海市计算技术研究所，武汉数字工程研究所，西南自动化研究所</p>
-<p>​    西安微电子技术研究所，航天771所，中国航空研究院631所</p>
-<p>​    华东计算机技术研究所，中国电子科技集团第三十二研究所</p>
-<h2 id="2-备考资料，笔记"><a href="#2-备考资料，笔记" class="headerlink" title="2. 备考资料，笔记"></a>2. 备考资料，笔记</h2><p><strong>参考书</strong></p>
-<p>​    数据结构：王道+天勤</p>
-<p>​    计算机组成原理：计算机组成-软硬件接口+天勤+王道</p>
-<p>​    操作系统：天勤+王道+现代操作系统</p>
-<p>​    计算机网络：计算机网络-自顶向下 +天勤+王道</p>
-<p>资料分享在顶部：</p>
+    <title>我的学习观</title>
+    <url>/%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%A7%82/</url>
+    <content><![CDATA[<p>通过实践而发现真理，又通过实践而证实真理和发展真理。从感性认识而能动地发展到理性认识，又从理性认识而能动地指导革命实践，改造主观世界和客观世界。实践、认识、再实践、再认识，这种形式，循环往复以至无穷，而实践和认识之每一循环的内容，都比较地进到了高一级的程度。这就是辩证唯物论的全部认识论，这就是辩证唯物论的知行统一观。</p>
+<p>检验所学，能否有条理的复述是一条重要的标准。例如，读了某本书或者学到某些科学知识，若能用文字将自己的所学所悟记录下来，对接下来的学习有积极的影响。</p>
+<h3 id="做以下尝试："><a href="#做以下尝试：" class="headerlink" title="做以下尝试："></a>做以下尝试：</h3><h4 id="第一，复述所学"><a href="#第一，复述所学" class="headerlink" title="第一，复述所学"></a>第一，复述所学</h4><p>复述的方式有两种，口语复述和文字复述。</p>
+<h4 id="第二，保持专注"><a href="#第二，保持专注" class="headerlink" title="第二，保持专注"></a>第二，保持专注</h4><p>远离任何会打断复述过程的事物，思维本就碎片化，不要打断复述过程。这些事物包括但不限于论坛、短视频等各种短时反馈的东西。走出舒适区才能进步。</p>
+<h4 id="第三，抛弃形式主义"><a href="#第三，抛弃形式主义" class="headerlink" title="第三，抛弃形式主义"></a>第三，抛弃形式主义</h4><p>很多人进入过自我感动的怪圈，这和自小接受的苦难教育有关。</p>
+<p>如苏东坡言：古之成大事者，不惟有超世之才，亦必有坚韧不拔之志。</p>
+<p>按照科学的方法，减少学习时长带来的感动，增多睡眠时间，经常锻炼身体，把精力投入到学习中。</p>
+<h4 id="第四，坦荡从容，是自己给的"><a href="#第四，坦荡从容，是自己给的" class="headerlink" title="第四，坦荡从容，是自己给的"></a>第四，坦荡从容，是自己给的</h4><p>大多数人，尤其是同龄人，看到我们不断变得优秀，涌上心头的，不是替我们感到开心，而是羞耻，进而郁郁寡欢。</p>
+<p>因为在成长的过程中，我们经年累月被灌输一种思维方式，那就是需要借助一个参照物，来知道自己的位置。</p>
+<p>隔壁邻居的张三，班里的李四，职场中的王五，都是参照物。</p>
+<p>远离这种参照物思维，不要被别人贩卖的焦虑情绪感染，去追寻比过去的自己更优秀的自己。</p>
+<p><strong>自己比过去的自己优秀，是要给自己赞美的。</strong></p>
+<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p><strong>学习时的思维如流一般，沉浸其中是极致的乐趣。</strong></p>
+]]></content>
+      <categories>
+        <category>Mind</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+        <tag>学习方法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年清华大学网研院学硕录取分析</title>
+    <url>/2020%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%BD%91%E7%A0%94%E9%99%A2%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AD%A6%E7%A1%95%E5%BD%95%E5%8F%96%E5%88%86%E6%9E%90/</url>
+    <content><![CDATA[<h2 id="2020年被录取网研院学硕（非强军计划）的12位同学情况"><a href="#2020年被录取网研院学硕（非强军计划）的12位同学情况" class="headerlink" title="2020年被录取网研院学硕（非强军计划）的12位同学情况"></a>2020年被录取网研院学硕（非强军计划）的12位同学情况</h2><p>2020年清华大学网研院学硕初试线：<strong>335</strong>。</p>
+<p>初试科目：<strong>101,201,301,912</strong>。</p>
+<h4 id="从以下四个方面列举出网研院学硕拟录取同学的背景"><a href="#从以下四个方面列举出网研院学硕拟录取同学的背景" class="headerlink" title="从以下四个方面列举出网研院学硕拟录取同学的背景"></a>从以下四个方面列举出网研院学硕拟录取同学的背景</h4><ul>
+<li><strong>本科：</strong></li>
+</ul>
+<p>​            一志愿：北京航空航天大学(2)，华中科技大学(1)，中央财经大学(1)，西安电子科技大学(1)，武汉科技大学(1)，未知(1)</p>
+<p>​            计学调剂：北京大学(1)，北京航空航天(1)，中山大学(1)，南京理工大学(1)，未知(1)</p>
+<ul>
+<li><strong>毕业情况统计：</strong></li>
+</ul>
+<p>​            应届生(5)，非应届生(5)，未知(2)</p>
+<ul>
+<li><strong>录取平均分：</strong></li>
+</ul>
+<p>​            一志愿：351.3；计学调剂：370</p>
+<ul>
+<li><p><strong>本科专业</strong></p>
+<p>   科班(7)，跨考(2)，未知(3)  </p>
+</li>
+</ul>
 ]]></content>
       <categories>
         <category>NEEP</category>
       </categories>
       <tags>
-        <tag>408</tag>
+        <tag>912</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年清华大学计算机系学硕录取分析</title>
+    <url>/2020%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E5%AD%A6%E7%A1%95%E6%8B%9F%E5%BD%95%E5%8F%96%E5%88%86%E6%9E%90/</url>
+    <content><![CDATA[<h2 id="2020年被录取计算机学硕（非强军计划）的14位同学情况"><a href="#2020年被录取计算机学硕（非强军计划）的14位同学情况" class="headerlink" title="2020年被录取计算机学硕（非强军计划）的14位同学情况"></a>2020年被录取计算机学硕（非强军计划）的14位同学情况</h2><p>2020年清华大学计算机系学硕初试线：<strong>359</strong>。</p>
+<p>初试科目：<strong>101,201,301,912</strong>。</p>
+<h4 id="1-从以下三个方面列举出计算机学硕拟录取同学的背景"><a href="#1-从以下三个方面列举出计算机学硕拟录取同学的背景" class="headerlink" title="1. 从以下三个方面列举出计算机学硕拟录取同学的背景"></a>1. 从以下三个方面列举出计算机学硕拟录取同学的背景</h4><ul>
+<li><strong>本科：</strong></li>
+</ul>
+<p>​            清华大学(2)，中国科学技术大学(1)，上海交通大学(1)，同济大学(1)，中南大学(1)</br></p>
+<p>​            中国人民大学(1)，北京航空航天大学(1)，武汉大学(1)，天津大学(1)，四川大学(1)</br></p>
+<p>​            北京理工大学(1)，华南理工大学(1)，福州大学(1)</p>
+<ul>
+<li><strong>毕业情况统计：</strong></li>
+</ul>
+<p>​            应届生(4)，非应届生(10)</p>
+<ul>
+<li><strong>本科专业统计：</strong></li>
+</ul>
+<p>​            跨考(5)，非跨考(9)</p>
+<p>注：跨考录取的5名同学本科均为985，其中应届生两人(初试均过380分)。  </p>
+<h4 id="2-分析"><a href="#2-分析" class="headerlink" title="2. 分析"></a>2. 分析</h4><p>2020年录入学硕的14位同学有13位来自985大学，一位来自211大学。这些同学编程能力出众，不乏NOIP省队、ACM牌子选手；数学水平极高：CMO省队；瞩目的项目经历，有ASC全球总决赛一等奖得主；英语水平颇佳：托福110+。(注：未列全，并有交叉)</br></p>
+<p>看被录取的同学名单，远远不能感受到清华大学计算机学硕竞争的激烈程度。</p>
+<p>如果把那些被刷的同学的本科学校摆出来，会更加可怕。</p>
+<p>如：北京大学、上海交通大学、浙江大学、人大……</p>
+<p>仅从本科学校来看，似乎被录取有些运气成分，但正如今年初试第一的同学所言：过线之后，决定你是否录取的因素只有一个——是否有老师愿意接收你成为他的研究生</p>
+<h4 id="3-想读清华计算机学硕需要达到什么条件"><a href="#3-想读清华计算机学硕需要达到什么条件" class="headerlink" title="3. 想读清华计算机学硕需要达到什么条件"></a>3. 想读清华计算机学硕需要达到什么条件</h4><p>那么，过了初试，如何得到老师青睐？或许可以量化以下标准：</p>
+<ul>
+<li>证明编程能力：CCF高分，Codeforces高分</li>
+<li>做过老师感兴趣的项目</li>
+<li>在知名竞赛拿过好名次</li>
+<li>机试高分</li>
+<li>初试高分且毫不放松</li>
+</ul>
+<h3 id="报考清华前的常见问题解答"><a href="#报考清华前的常见问题解答" class="headerlink" title="报考清华前的常见问题解答"></a>报考清华前的常见问题解答</h3><p>下面两个问题引自18年上岸同学。</p>
+<h4 id="1-清华面试黑吗？"><a href="#1-清华面试黑吗？" class="headerlink" title="1.清华面试黑吗？"></a>1.清华面试黑吗？</h4><p>可以明确地说肯定没有。老师面试的时候都是完全根据你的个人能力评价的，不存在所谓的黑幕，大家还是积极提高自己的能力，不要把时间浪费在讨论这些没有意义的东西上。</p>
+<p>关于所谓的本科歧视，这个我觉得肯定是没有的。如果你来自双非但有很牛逼的项目或竞赛经历，还是很可能被录取的。而即使来自985计算机强校，成绩平平没有项目经历也是肯定会被刷的。而且话说回来，本科院校也是个人能力的一种，所以我们必须正视这一事实，而不是抱着被害者心理到处非议。最为关键的还是努力提升自身能力。</p>
+<h4 id="2-我本科不好，成绩平平，也没项目经历怎么办？"><a href="#2-我本科不好，成绩平平，也没项目经历怎么办？" class="headerlink" title="2.我本科不好，成绩平平，也没项目经历怎么办？"></a>2.我本科不好，成绩平平，也没项目经历怎么办？</h4><p>在这里我劝退一下，可能会得罪人，但请多包涵。复试三大劣势：双非、跨考、没项目或者成绩差（挂科之类），如果你只有其中一个，那么还是很有希望的，加油准备吧。但如果你有其中两项，我不得不说希望很小，还是换个目标吧。毕竟大家都是成年人了，应该学会了权衡利弊，用最小投入获得最为可能最大的产出，而不是为了一个心中的愿景不计成本地投入。</p>
+<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p><strong>没有自信的人，从战斗一开始，就输了一半。</strong></p>
+<h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><p><a href="https://mp.weixin.qq.com/s/4uahTxGOqdsvEJCHsRtP2w" target="_blank" rel="noopener"><strong>考研版《论四大关系》，别再问一些诸如二本考清华有没有机会、基础差能不能考上的问题了，这篇文章给你所有答案！</strong></a></p>
+<p><a href="http://www.cskaoyan.com/thread-649195-1-1.html" target="_blank" rel="noopener"><strong>2018清华计算机考研经验贴_复试细节和初试准备</strong></a></p>
+]]></content>
+      <categories>
+        <category>NEEP</category>
+      </categories>
+      <tags>
+        <tag>912</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>数据结构笔记 | 清华大学邓俊辉 | 第三版</title>
+    <url>/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</url>
+    <content><![CDATA[<h1 id="第一章-绪论"><a href="#第一章-绪论" class="headerlink" title="第一章 绪论"></a>第一章 绪论</h1><h2 id="a-计算"><a href="#a-计算" class="headerlink" title="a.计算"></a>a.计算</h2><p><strong>算法要素：</strong></p>
+<ul>
+<li>输入与输出、</li>
+<li>基本操作、确定性与可行性</li>
+<li>有穷性与正确性</li>
+<li>退化与鲁棒性</li>
+<li>重用性</li>
+</ul>
+<p><strong>好算法</strong>：<strong>正确</strong>（处理简单的、大规模的、一般性的、退化的、合法的输入）、<strong>健壮</strong>、<strong>可读</strong>、<strong>效率</strong>（速度快、存储空间小）</p>
+<p><strong>计算成本</strong>T(n)：求解规模为n的问题所需基本操作数，在规模为n的所有实例中，只关注最坏（成本最高）者</p>
+<h2 id="b-大O记号"><a href="#b-大O记号" class="headerlink" title="b.大O记号"></a>b.大O记号</h2><p>T(n)定义为算法所执行基本操作的总次数。</p>
+<p>关注T(n)的渐进上界。引入<strong>大O记号</strong>。</p>
+<p>具体地，由T(n) &lt; = c.f(n)，用f(n)代替T(n)，可忽略常系数和低次项。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//常数情况</span></span><br><span class="line"><span class="number">2013</span>×<span class="number">2013</span></span><br><span class="line"><span class="comment">//包含循环情况</span></span><br><span class="line"><span class="keyword">for</span>(i=<span class="number">0</span>; i&lt;n; i+= n/<span class="number">2013</span> + <span class="number">1</span>);</span><br><span class="line"><span class="keyword">for</span>(i=<span class="number">1</span>; i&lt;n; i=<span class="number">1</span> &lt;&lt; i);</span><br><span class="line"><span class="comment">//包含分支</span></span><br><span class="line"><span class="keyword">if</span>((n+m)*(n+m) &lt; <span class="number">4</span>*n*m) <span class="keyword">goto</span> UNREACHABLE;</span><br><span class="line"><span class="comment">//包含递归</span></span><br><span class="line"><span class="keyword">if</span>(<span class="number">2</span>==(n*n)% <span class="number">5</span>) <span class="number">01</span>(n);</span><br></pre></td></tr></table></figure>
+
+<p><strong>O(1)</strong> ：常数</p>
+<p><strong>O(logn)</strong> 对数：此类算法非常有效，复杂度无限接近常数，可忽略常底数和常数次幂。</p>
+<p><strong>O(n)</strong> 线性及多项式：线性，从n到n2是编程题主要覆盖的范围。</p>
+<p><strong>O(2^n)</strong> 指数：无效，从多项式到指数被认为有效算法到无效算法的分水岭。指数复杂度算法无法真正应用于实际问题中，不是有效算法，甚至不能称之为算法。相应地，多项式复杂度的算法也被称作南街的(intractable)问题。</p>
+<h2 id="c-常见算法分析"><a href="#c-常见算法分析" class="headerlink" title="c.常见算法分析"></a>c.常见算法分析</h2><p><strong>两个任务</strong>：<strong>正确性</strong>（不变性、单调性）+ <strong>复杂度</strong><br><strong>复杂度分析</strong>：猜测+验证，迭代（级数求和），递归（递归跟踪+递推方程）<br><strong>算数级数</strong>：与末项平方同阶<br><strong>幂方级数</strong>：比幂次高出一阶<br><strong>几何级数</strong>(a&gt;1)：与末项同阶<br><strong>收敛级数</strong>：O(1)<br><strong>调和级数</strong>：1+1/2+1/3+…+1/n=O(logn)<br><strong>对数级数</strong>：log1+log2+…+logn=O(nlogn)</p>
+<p>以冒泡排序为例：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">bubblesort</span><span class="params">(<span class="keyword">int</span> A[], <span class="keyword">int</span> n)</span></span>&#123;</span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">bool</span> sorted = <span class="literal">false</span>; sorted = !sorted; n--)</span><br><span class="line">		<span class="keyword">for</span> (<span class="keyword">int</span> i=<span class="number">1</span>; i&lt;n; i++)</span><br><span class="line">			<span class="keyword">if</span> (A[i<span class="number">-1</span>] &gt; A[i])&#123;</span><br><span class="line">				swap(A[i<span class="number">-1</span>], A[i]);</span><br><span class="line">				sorted = <span class="literal">false</span>;</span><br><span class="line">			&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p><strong>不变性</strong>：经k轮交换，最大的k个元素就位<br><strong>单调性</strong>：经k轮交换，问题规模缩减至n-k<br><strong>正确性</strong>：经至多n趟扫描后，算法必然终止且给出正确解答</p>
+<h2 id="d-递归及迭代"><a href="#d-递归及迭代" class="headerlink" title="d.递归及迭代"></a>d.递归及迭代</h2><p><strong>分而治之</strong>：划分为两个子问题，规模大体相当。</p>
+<p><strong>减而治之</strong>：划分为两个子问题，其一平凡，另一缩减。</p>
+<ol>
+<li><strong>Fibonacci</strong>数：迭代</li>
+</ol>
+<p>动态规划：按规模自小而大求解各子问题的过程。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">fibI</span><span class="params">(<span class="keyword">int</span> n)</span></span>&#123;</span><br><span class="line">    f = <span class="number">0</span>; g = <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">while</span> (<span class="number">0</span> &lt; n--)&#123;</span><br><span class="line">	    g = g + f;</span><br><span class="line">	    f = g - f;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> g;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>仅使用两个中间变量f和g，记录当前的一对相邻Fibonacci数。整个算法仅需线性步的迭代.</p>
+<p><strong>时间复杂度为O(n)</strong>,<strong>空间复杂度为O(1)</strong></p>
+<ol>
+<li><strong>最长公共子序列</strong>（可能有多个；可能有歧义）</li>
+</ol>
+<p>对于序列A[0, n]和B[0, m]，LSC有三种情况：<br>（1）n = -1或m = -1，取空序列（“”）</p>
+<p>（2）A[n] = ‘X’ = B[m]，取LSC(A[0, n),B[0, m)) + ‘X’ （减而治之）</p>
+<p>（3）A[n] ≠ B[m]，则在 LCS(A[0, n], B[0, m))与 LCS(A[0, n), B[0, m])中取更长者 （分而治之）</p>
+<p><strong>最好情况：O(n + m)</strong></p>
+<p><strong>最坏情况：O(2^n),此时 (n = m)</strong></p>
+<p>与斐波那契数列一样，有大量重复的递归实例；若采用动态规划，只需O(nm)时间即可计算所有子问题，为此只需:</p>
+<p>（1）将所有子问题假想列成一张表；</p>
+<p>（2）颠倒计算方向，从LCS(A[0], B[0])出发依次计算所有项。</p>
+<h2 id="e-习题集"><a href="#e-习题集" class="headerlink" title="e.习题集"></a>e.习题集</h2><p>习题1-12</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">(<span class="keyword">unsigned</span> <span class="keyword">long</span>) <span class="number">-1</span> <span class="comment">//在不知道最大无符号整数大小的情况下，只需将-1转换为此类型，轻松获得此类型的最大值</span></span><br></pre></td></tr></table></figure>
+
+<h1 id="第二章-向量"><a href="#第二章-向量" class="headerlink" title="第二章 向量"></a>第二章 向量</h1><p><strong>向量（vector）</strong>是线性数组的一种抽象与泛化。</p>
+<p>从向量最基本的接口出发，设计并实现与之对应的向量模板类。</p>
+<h2 id="a-向量ADT支持的操作接口"><a href="#a-向量ADT支持的操作接口" class="headerlink" title="a.向量ADT支持的操作接口"></a>a.向量ADT支持的操作接口</h2><table>
+<thead>
+<tr>
+<th>操作接口</th>
+<th>功能</th>
+<th>适用对象</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>size()</td>
+<td>报告向量当前的规模（元素总数）</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>get(r)</td>
+<td>获取秩为r的元素</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>put(r, e)</td>
+<td>用e替换秩为r的元素</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>insert(r, e)</td>
+<td>e作为秩为r元素插入，后继元素依次右移</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>remove(r)</td>
+<td>删除秩为r的元素，返回该元素中原存放的对象</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>disordered()</td>
+<td>判断所有元素是否已按非降序排列</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>sort()</td>
+<td>调整各元素位置，使之按非降序排列</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>find(e)</td>
+<td>查找等于e且秩最大的元素</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>search(e)</td>
+<td>查找目标元素e，返回不大于e且秩最大的元素</td>
+<td>有序向量</td>
+</tr>
+<tr>
+<td>deduplicate()</td>
+<td>剔除重复元素</td>
+<td>向量</td>
+</tr>
+<tr>
+<td>uniquify()</td>
+<td>剔除重复元素</td>
+<td>有序向量</td>
+</tr>
+<tr>
+<td>traverse()</td>
+<td>遍历向量并统一处理所有元素，处理方法由函数对象指定</td>
+<td>向量</td>
+</tr>
+</tbody></table>
+<h2 id="b-Vector模板类"><a href="#b-Vector模板类" class="headerlink" title="b.Vector模板类"></a>b.Vector模板类</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">typedef</span> <span class="keyword">int</span> Rank; <span class="comment">//秩</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> DEFAULT_CAPACITY  3 <span class="comment">//默认的初始容量（实际应用中可设置为更大）</span></span></span><br><span class="line"></span><br><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="class"><span class="keyword">class</span> <span class="title">Vector</span> &#123;</span> <span class="comment">//向量模板类</span></span><br><span class="line"><span class="keyword">protected</span>:</span><br><span class="line">   Rank _size; <span class="keyword">int</span> _capacity;  T* _elem; <span class="comment">//规模、容量、数据区</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">copyFrom</span> <span class="params">( T <span class="keyword">const</span>* A, Rank lo, Rank hi )</span></span>; <span class="comment">//复制数组区间A[lo, hi)</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">expand</span><span class="params">()</span></span>; <span class="comment">//空间不足时扩容</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">shrink</span><span class="params">()</span></span>; <span class="comment">//装填因子过小时压缩</span></span><br><span class="line">   <span class="function"><span class="keyword">bool</span> <span class="title">bubble</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//扫描交换</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">bubbleSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//起泡排序算法</span></span><br><span class="line">   <span class="function">Rank <span class="title">max</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//选取最大元素</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">selectionSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//选择排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">merge</span> <span class="params">( Rank lo, Rank mi, Rank hi )</span></span>; <span class="comment">//归并算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">mergeSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//归并排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">heapSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//堆排序（稍后结合完全堆讲解）</span></span><br><span class="line">   <span class="function">Rank <span class="title">partition</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//轴点构造算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">quickSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//快速排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">shellSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//希尔排序算法</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line"><span class="comment">// 构造函数</span></span><br><span class="line">   Vector ( <span class="keyword">int</span> c = DEFAULT_CAPACITY, <span class="keyword">int</span> s = <span class="number">0</span>, T v = <span class="number">0</span> ) <span class="comment">//容量为c、规模为s、所有元素初始为v</span></span><br><span class="line">   &#123; _elem = <span class="keyword">new</span> T[_capacity = c]; <span class="keyword">for</span> ( _size = <span class="number">0</span>; _size &lt; s; _elem[_size++] = v ); &#125; <span class="comment">//s&lt;=c</span></span><br><span class="line">   Vector ( T <span class="keyword">const</span>* A, Rank n ) &#123; copyFrom ( A, <span class="number">0</span>, n ); &#125; <span class="comment">//数组整体复制</span></span><br><span class="line">   Vector ( T <span class="keyword">const</span>* A, Rank lo, Rank hi ) &#123; copyFrom ( A, lo, hi ); &#125; <span class="comment">//区间</span></span><br><span class="line">   Vector ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; V ) &#123; copyFrom ( V._elem, <span class="number">0</span>, V._size ); &#125; <span class="comment">//向量整体复制</span></span><br><span class="line">   Vector ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; V, Rank lo, Rank hi ) &#123; copyFrom ( V._elem, lo, hi ); &#125; <span class="comment">//区间</span></span><br><span class="line"><span class="comment">// 析构函数</span></span><br><span class="line">   ~Vector() &#123; <span class="keyword">delete</span> [] _elem; &#125; <span class="comment">//释放内部空间</span></span><br><span class="line"><span class="comment">// 只读访问接口</span></span><br><span class="line">   <span class="function">Rank <span class="title">size</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> _size; &#125; <span class="comment">//规模</span></span><br><span class="line">   <span class="function"><span class="keyword">bool</span> <span class="title">empty</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> !_size; &#125; <span class="comment">//判空</span></span><br><span class="line">   <span class="function">Rank <span class="title">find</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> <span class="built_in">find</span> ( e, <span class="number">0</span>, _size ); &#125; <span class="comment">//无序向量整体查找</span></span><br><span class="line">   <span class="function">Rank <span class="title">find</span> <span class="params">( T <span class="keyword">const</span>&amp; e, Rank lo, Rank hi )</span> <span class="keyword">const</span></span>; <span class="comment">//无序向量区间查找</span></span><br><span class="line">   <span class="function">Rank <span class="title">search</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> <span class="keyword">const</span> <span class="comment">//有序向量整体查找</span></span></span><br><span class="line"><span class="function">   </span>&#123; <span class="keyword">return</span> ( <span class="number">0</span> &gt;= _size ) ? <span class="number">-1</span> : search ( e, <span class="number">0</span>, _size ); &#125;</span><br><span class="line">   <span class="function">Rank <span class="title">search</span> <span class="params">( T <span class="keyword">const</span>&amp; e, Rank lo, Rank hi )</span> <span class="keyword">const</span></span>; <span class="comment">//有序向量区间查找</span></span><br><span class="line"><span class="comment">// 可写访问接口</span></span><br><span class="line">   T&amp; <span class="keyword">operator</span>[] ( Rank r ); <span class="comment">//重载下标操作符，可以类似于数组形式引用各元素</span></span><br><span class="line">   <span class="keyword">const</span> T&amp; <span class="keyword">operator</span>[] ( Rank r ) <span class="keyword">const</span>; <span class="comment">//仅限于做右值的重载版本</span></span><br><span class="line">   Vector&lt;T&gt; &amp; <span class="keyword">operator</span>= ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; ); <span class="comment">//重载赋值操作符，以便直接克隆向量</span></span><br><span class="line">   <span class="function">T <span class="title">remove</span> <span class="params">( Rank r )</span></span>; <span class="comment">//删除秩为r的元素</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">remove</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//删除秩在区间[lo, hi)之内的元素</span></span><br><span class="line">   <span class="function">Rank <span class="title">insert</span> <span class="params">( Rank r, T <span class="keyword">const</span>&amp; e )</span></span>; <span class="comment">//插入元素</span></span><br><span class="line">   <span class="function">Rank <span class="title">insert</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> </span>&#123; <span class="keyword">return</span> insert ( _size, e ); &#125; <span class="comment">//默认作为末元素插入</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">sort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//对[lo, hi)排序</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">sort</span><span class="params">()</span> </span>&#123; sort ( <span class="number">0</span>, _size ); &#125; <span class="comment">//整体排序</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">unsort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//对[lo, hi)置乱</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">unsort</span><span class="params">()</span> </span>&#123; unsort ( <span class="number">0</span>, _size ); &#125; <span class="comment">//整体置乱</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">deduplicate</span><span class="params">()</span></span>; <span class="comment">//无序去重</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">uniquify</span><span class="params">()</span></span>; <span class="comment">//有序去重</span></span><br><span class="line"><span class="comment">// 遍历</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">traverse</span> <span class="params">( <span class="keyword">void</span> (* ) ( T&amp; ) )</span></span>; <span class="comment">//遍历（使用函数指针，只读或局部性修改）</span></span><br><span class="line">   <span class="keyword">template</span> &lt;<span class="keyword">typename</span> VST&gt; <span class="function"><span class="keyword">void</span> <span class="title">traverse</span> <span class="params">( VST&amp; )</span></span>; <span class="comment">//遍历（使用函数对象，可全局性修改）</span></span><br><span class="line">&#125;; <span class="comment">//Vector</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="c-构造和析构"><a href="#c-构造和析构" class="headerlink" title="c.构造和析构"></a>c.构造和析构</h2><p><strong>基于复制的构造方法</strong></p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//元素类型</span></span><br><span class="line"><span class="keyword">void</span> Vector&lt;T&gt;::copyFrom ( T <span class="keyword">const</span>* A, Rank lo, Rank hi ) &#123; <span class="comment">//以数组区间A[lo, hi)为蓝本复制向量</span></span><br><span class="line">   _elem = <span class="keyword">new</span> T[_capacity = <span class="number">2</span> * ( hi - lo ) ]; _size = <span class="number">0</span>; <span class="comment">//分配空间，规模清零</span></span><br><span class="line">   <span class="keyword">while</span> ( lo &lt; hi ) <span class="comment">//A[lo, hi)内的元素逐一</span></span><br><span class="line">      _elem[_size++] = A[lo++]; <span class="comment">//复制至_elem[0, hi - lo)</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>需强调的是，由于向量内部含有动态分配的空间，默认的运算符“=”不足以支持向量之间的直接赋值。</p>
+<p>故重载向量的赋值运算符。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; Vector&lt;T&gt;::<span class="keyword">operator</span>= (Vector&lt;T&gt; <span class="keyword">const</span>&amp; V)&#123; <span class="comment">//重载</span></span><br><span class="line">	<span class="keyword">if</span> (_elem) <span class="keyword">delete</span> [] _elem; <span class="comment">//释放原有内容</span></span><br><span class="line">	copyFrom ( V._elem, <span class="number">0</span>, V.<span class="built_in">size</span>() ); <span class="comment">//整体复制</span></span><br><span class="line">	<span class="keyword">return</span> *<span class="keyword">this</span>; <span class="comment">//返回当前对象的引用，以便链式赋值</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="c-动态空间管理"><a href="#c-动态空间管理" class="headerlink" title="c.动态空间管理"></a>c.动态空间管理</h2><h3 id="1-静态空间管理"><a href="#1-静态空间管理" class="headerlink" title="1.静态空间管理"></a>1.静态空间管理</h3><p>内部数组所占物理空间的容量，若在向量的生命期内不允许调整，则为静态管理策略。</p>
+<p>缺点：因容量固定，总有可能在此后的某一时刻，无法加入更多的新元素–即导致所谓的上溢（overflow）。</p>
+<p>也有可能拥有少量元素的数组长时间占据大量物理空间，造成空间浪费。</p>
+<h3 id="2-可扩充向量"><a href="#2-可扩充向量" class="headerlink" title="2.可扩充向量"></a>2.可扩充向量</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="keyword">void</span> Vector&lt;T&gt;::expand() &#123; <span class="comment">//向量空间不足时扩容</span></span><br><span class="line">   <span class="keyword">if</span> ( _size &lt; _capacity ) <span class="keyword">return</span>; <span class="comment">//尚未满员时，不必扩容</span></span><br><span class="line">   <span class="keyword">if</span> ( _capacity &lt; DEFAULT_CAPACITY ) _capacity = DEFAULT_CAPACITY; <span class="comment">//不低于最小容量</span></span><br><span class="line">   T* oldElem = _elem;  _elem = <span class="keyword">new</span> T[_capacity &lt;&lt;= <span class="number">1</span>]; <span class="comment">//容量加倍</span></span><br><span class="line">   <span class="keyword">for</span> ( <span class="keyword">int</span> i = <span class="number">0</span>; i &lt; _size; i++ )</span><br><span class="line">      _elem[i] = oldElem[i]; <span class="comment">//复制原向量内容（T为基本类型，或已重载赋值操作符'='）</span></span><br><span class="line">   <span class="keyword">delete</span> [] oldElem; <span class="comment">//释放原空间</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>该扩容策略是<strong>容量加倍策略</strong></p>
+<p><strong>分析：</strong>最坏情况：在初始容量为1的满向量中，连续插入n=2 ^ m&gt;&gt;2个元素，在第1、2、4、8、16次插入都需要扩容，每次扩容中复制原向量的时间成本分别为1,2,4,8，…,2^m = n，总体耗时O(n)，每次扩容的分摊成本为O(1)<br><strong>平均分析复杂度</strong>：根据数据结构各种操作出现概率的分布，将对应的成本加权平均，各种可能的操作作为独立事件分别考查，割裂了操作之间的相关性和连贯性，不能准确评判数据结构和算法的真实性能；<br><strong>分摊复杂度</strong>：对数据结构连续实施足够多次操作，所需总成本分摊至单次操作，对一系列操作做整体的考量。</p>
+<p>另外，<strong>追加固定数目的单元的策略</strong>，无论采用的固定常数多大，在最坏的情况下，此类数组单次操作的分摊时间复杂度都将高达<strong>Ω(n)</strong>。</p>
+<h3 id="3-缩小容量"><a href="#3-缩小容量" class="headerlink" title="3.缩小容量"></a>3.缩小容量</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="keyword">void</span> Vector&lt;T&gt;::shrink() &#123; <span class="comment">//装填因子过小时压缩向量所占空间</span></span><br><span class="line">   <span class="keyword">if</span> ( _capacity &lt; DEFAULT_CAPACITY &lt;&lt; <span class="number">1</span> ) <span class="keyword">return</span>; <span class="comment">//不致收缩到DEFAULT_CAPACITY以下</span></span><br><span class="line">   <span class="keyword">if</span> ( _size &lt;&lt; <span class="number">2</span> &gt; _capacity ) <span class="keyword">return</span>; <span class="comment">//以25%为界</span></span><br><span class="line">   T* oldElem = _elem;  _elem = <span class="keyword">new</span> T[_capacity &gt;&gt;= <span class="number">1</span>]; <span class="comment">//容量减半</span></span><br><span class="line">   <span class="keyword">for</span> ( <span class="keyword">int</span> i = <span class="number">0</span>; i &lt; _size; i++ ) _elem[i] = oldElem[i]; <span class="comment">//复制原向量内容</span></span><br><span class="line">   <span class="keyword">delete</span> [] oldElem; <span class="comment">//释放原空间</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="d-常规向量"><a href="#d-常规向量" class="headerlink" title="d.常规向量"></a>d.常规向量</h2><h3 id="1-直接引用元素"><a href="#1-直接引用元素" class="headerlink" title="1.直接引用元素"></a>1.直接引用元素</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; </span><br><span class="line">T&amp; Vector::<span class="keyword">operator</span>[] ( Rank r ) <span class="keyword">const</span> <span class="comment">//重载下标操作符</span></span><br><span class="line">&#123;   <span class="keyword">return</span> _elem[r]; &#125; <span class="comment">//assert: 0 &lt;= r &lt; _size</span></span><br></pre></td></tr></table></figure>
+
+<p>此后对外的V[r]对应内部V._elem[r]<br><strong>右值</strong>：T x = V[r] + U[s] * W[t];<br><strong>左值</strong>：V[r] = (T)(2*x + 3)</p>
+<h3 id="2-插入"><a href="#2-插入" class="headerlink" title="2.插入"></a>2.插入</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//e作为秩为r元素插入</span></span><br><span class="line">Rank Vector&lt;T&gt;::insert(Rank r, T <span class="keyword">const</span> &amp; e)&#123;</span><br><span class="line">	expand(); <span class="comment">//如有必要，扩容</span></span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">int</span> i=_size; i&gt;r; i--)</span><br><span class="line">		_elem[i] = _elem[i<span class="number">-1</span>]; <span class="comment">//后继元素顺次后移一个单元</span></span><br><span class="line">	_elem[r] = e; _size++;</span><br><span class="line">	<span class="keyword">return</span> r; <span class="comment">//返回秩</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-区间删除"><a href="#3-区间删除" class="headerlink" title="3.区间删除"></a>3.区间删除</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//e作为秩为r元素插入</span></span><br><span class="line">Rank Vector&lt;T&gt;::insert(Rank r, T <span class="keyword">const</span> &amp; e)&#123;</span><br><span class="line">	expand(); <span class="comment">//如有必要，扩容</span></span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">int</span> i=_size; i&gt;r; i--)</span><br><span class="line">		_elem[i] = _elem[i<span class="number">-1</span>]; <span class="comment">//后继元素顺次后移一个单元</span></span><br><span class="line">	_elem[r] = e; _size++;</span><br><span class="line">	<span class="keyword">return</span> r; <span class="comment">//返回秩</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="4-单元素删除"><a href="#4-单元素删除" class="headerlink" title="4.单元素删除"></a>4.单元素删除</h3><p>即区间删除的特例：[r] = [r, r+1)</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//删除向量中秩为r的元素</span></span><br><span class="line">T Vector&lt;T&gt;::<span class="built_in">remove</span>(Rank r)&#123;</span><br><span class="line">	T e = _elem[r]; <span class="comment">//备份被删除元素</span></span><br><span class="line">	<span class="built_in">remove</span>(r,r+<span class="number">1</span>);</span><br><span class="line">	<span class="keyword">return</span> e;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="5-查找"><a href="#5-查找" class="headerlink" title="5.查找"></a>5.查找</h3><p><strong>无序向量</strong>：T为可判等的基本类型，或已重载操作符”==“或”!=”<br><strong>有序向量</strong>：T为可比较的基本类型，或已重载操作符”&lt;“或”&gt;”</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</span><br><span class="line">Rank Vector&lt;T&gt;::<span class="built_in">find</span>(T <span class="keyword">const</span> &amp; e, Rank lo, Rank hi) <span class="keyword">const</span>&#123;</span><br><span class="line">	<span class="keyword">while</span>((lo &lt; hi--) &amp;&amp; (e!=_elem[hi]));</span><br><span class="line">	<span class="keyword">return</span> hi;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="Question：能否反复调用remove-r-实现remove-lo-hi-呢？"><a href="#Question：能否反复调用remove-r-实现remove-lo-hi-呢？" class="headerlink" title="Question：能否反复调用remove(r)实现remove(lo,hi)呢？"></a>Question：能否反复调用remove(r)实现remove(lo,hi)呢？</h3><p><strong>删除单元素</strong>每次循环耗时正比于删除区间的后缀长度 = n - hi = O(n)，循环次数等于区间宽度=hi - lo = O(n)，如此将导致<strong>O(n^2)</strong>的复杂度。</p>
+]]></content>
+      <categories>
+        <category>NEEP</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+        <tag>912</tag>
+        <tag>DS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>入宝山而空回</title>
+    <url>/%E5%85%A5%E5%AE%9D%E5%B1%B1%E4%B8%8D%E8%83%BD%E7%A9%BA%E8%BF%94/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>明文秉在《先拨志始》中写道：</p>
+<blockquote>
+<p>挟泰山以超北，在婿固不敢厚望；</p>
+<p>入宝山而空回，想岳亦不能忘情也。</p>
+</blockquote>
+<p>如今，对普通人而言，获取优质学习资源比以往任何时候都要容易。</p>
+<p>许多时候恰恰因为获取资源非常容易，而导致在学习之前，准备工作做得过于“充足”。  </p>
+<blockquote>
+<p>学习数据结构：</p>
+<ul>
+<li>搜索“如何学习数据结构”，读完大部分的文章</li>
+<li>根据文章的提示开始找书、慕课，再看书评及慕课评价</li>
+<li>下载电子书，是否中英文都有，排版清晰否，要不要买纸质书</li>
+<li>下载或收藏课程，是否中英文都有，是否完整，清晰度如何</li>
+<li>……</li>
+</ul>
+</blockquote>
+<p>除了“学“，其他的事情都做了。</p>
+<p>这就是过度准备，会让人对将要学的知识有很强的的困难感。完全将自己陷在了一个还未开始就沮丧的心理泥潭。</p>
+<h2 id="经验教训"><a href="#经验教训" class="headerlink" title="经验教训"></a>经验教训</h2><p>再一次，我重新学习数据结构：</p>
+<ul>
+<li>买了邓公的数据结构和习题集。</li>
+<li>在bilibili上找到讲课视频</li>
+<li>下载好书中代码和ppt</li>
+<li>开始学习，调代码</li>
+</ul>
+<h2 id="入宝山"><a href="#入宝山" class="headerlink" title="入宝山"></a>入宝山</h2><p>学习过程中遇到问题，搜索博客解决问题。</p>
+<h2 id="不空回"><a href="#不空回" class="headerlink" title="不空回"></a>不空回</h2><p>不要迟疑，立刻去做</p>
+]]></content>
+      <categories>
+        <category>Mind</category>
+      </categories>
+      <tags>
+        <tag>随想</tag>
       </tags>
   </entry>
   <entry>
@@ -200,6 +468,118 @@
       <tags>
         <tag>Notes</tag>
         <tag>具体数学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>时间随想</title>
+    <url>/%E6%97%B6%E9%97%B4/</url>
+    <content><![CDATA[<p>New York is 3 hours ahead of California, but it does not make California slow.</p>
+<p>Someone graduated at the age of 22, but waited 5 years before securing a good job!</p>
+<p>Someone became a CEO at 25, and died at 50.</p>
+<p>While another became a CEO at 50, and lived to 90 years.</p>
+<p>Someone is still single, while someone else got married.</p>
+<p>Absolutely everyone in this world works based on their Time Zone.</p>
+<p>People around you might seem to go ahead of you, some might seem to be behind you.</p>
+<p>But everyone is running their own RACE, in their own TIME. Don’t envy them or mock them.</p>
+<p>They are in their TIME ZONE, and you are in yours!</p>
+<p>Life is about waiting for the right moment to act.</p>
+<p>So, RELAX.</p>
+<p>You’re not LATE.</p>
+<p>You’re not EARLY.</p>
+<p>You are very much ON TIME, and in your TIME ZONE Destiny set up for you. </p>
+<p>人生没有太晚的开始，哪怕你白发苍苍，一切都还来得及。</p>
+<p>除了生和死的时间是固定的，其他事情，并没有一个固定的时间表要去遵循。</p>
+<p>活得自在一点.</p>
+]]></content>
+      <categories>
+        <category>Mind</category>
+      </categories>
+      <tags>
+        <tag>随想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>西南交通大学茅以升学院2016级陈玉钰</title>
+    <url>/%E8%A5%BF%E5%8D%97%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E8%8C%85%E4%BB%A5%E5%8D%87%E5%AD%A6%E9%99%A22016%E7%BA%A7%E9%99%88%E7%8E%89%E9%92%B0/</url>
+    <content><![CDATA[<p>陈玉钰</p>
+<p>那些越过教育公平底线的人</p>
+<p>更应该看看你</p>
+<p>像很多人一样</p>
+<p>满怀羡慕</p>
+<p>更改应届生身份的明星</p>
+<p>被取消毕业证和学位证</p>
+<p>即将入职的应届生考试作弊</p>
+<p>被开除</p>
+<p>中北大学某同学</p>
+<p>……</p>
+<p>而你</p>
+<p>陈玉钰</p>
+<p>高考仅超一本线一分</p>
+<p>来到了西南交通大学茅以升学院</p>
+<p>考试开考后申请缓考</p>
+<p>修改成绩</p>
+<p>父母代写论文</p>
+<p>挂了科还能保研</p>
+<p>不过是丢了一个本不属于你的保研资格</p>
+<p>不过你</p>
+<p>照拿毕业证学位证</p>
+<p>今后还能风生水起</p>
+<p>拥有父母的人脉</p>
+<p>考研复试走走流程</p>
+<p>漂亮的成绩</p>
+<p>高水平的论文</p>
+<p>是你出国留学保障</p>
+<p>几年之后</p>
+<p>学成回国</p>
+<p>入职母校</p>
+<p>讲述曾经属于你的辉煌</p>
+<p><strong>奔涌吧，后浪！！！</strong></p>
+]]></content>
+      <categories>
+        <category>Mind</category>
+      </categories>
+      <tags>
+        <tag>教育</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>408院校整理及资料分享</title>
+    <url>/408/</url>
+    <content><![CDATA[<p>408笔记：链接：<a href="https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g" target="_blank" rel="noopener">https://pan.baidu.com/s/1_PPNfhvrKSZMjbYQuDnI0g</a><br>提取码：04to<br></p>
+<p>408真题：链接：<a href="https://pan.baidu.com/s/1U9n4NkGjO4eY9NiVAKG1ew" target="_blank" rel="noopener">https://pan.baidu.com/s/1U9n4NkGjO4eY9NiVAKG1ew</a><br>提取码：3mvr </br></p>
+<p>数据结构（严蔚敏）代码实现及课本知识点：链接：<a href="https://pan.baidu.com/s/1kR3KlrUwqtNkbXpn28qJ4g" target="_blank" rel="noopener">https://pan.baidu.com/s/1kR3KlrUwqtNkbXpn28qJ4g</a><br>提取码：mq2o</br></p>
+<p>计算机考研408是全国统考的科目，专业课综合考试内容：数据结构、计算机组成原理、操作系统和计算机网络。</p>
+<h2 id="1-初试考察408的院校简单介绍（欢迎在评论区补充）："><a href="#1-初试考察408的院校简单介绍（欢迎在评论区补充）：" class="headerlink" title="1. 初试考察408的院校简单介绍（欢迎在评论区补充）："></a>1. 初试考察408的院校简单介绍（欢迎在评论区补充）：</h2><p><strong>985院校：</strong></p>
+<p>​    浙江大学，中国科学技术大学，上海交通大学，复旦大学；</p>
+<p>​    同济大学，武汉大学，中山大学，南开大学，华南理工大学，华东师范大学；</p>
+<p>​    中国人民大学（网传21会统考408），华中科技大学（网传21会统考408）</p>
+<p><strong>211院校：</strong></p>
+<p>​    武汉理工大学，上海大学，郑州大学，云南大学，西南财经大学</p>
+<p>​    上海财经大学，海南大学，广西大学，贵州大学，宁夏大学</p>
+<p>​    华中农业大学，青海大学，河北工业大学（在天津）</p>
+<p><strong>非985/211院校：</strong></p>
+<p>​    上海科技大学，深圳大学，宁波大学，深圳大学，河北大学</p>
+<p>​    南方科技大学，广州大学，中国民航大学，安徽农业大学，辽宁工业大学</p>
+<p>​    辽宁石油化工大学，上海海洋大学，长江大学，南方医科大学，广西民族大学</p>
+<p>​    西安工程大学，解放军信息工程大学，东莞理工学院，桂林电子科技大学，昆明理工大学</p>
+<p>​    杭州师范大学，湖南工商大学，上海师范大学，温州医科大学，武汉纺织大学 </p>
+<p>​    湖南中医药大学</p>
+<p><strong>研究所</strong></p>
+<p>​    上海市计算技术研究所，武汉数字工程研究所，西南自动化研究所</p>
+<p>​    西安微电子技术研究所，航天771所，中国航空研究院631所</p>
+<p>​    华东计算机技术研究所，中国电子科技集团第三十二研究所</p>
+<h2 id="2-备考资料，笔记"><a href="#2-备考资料，笔记" class="headerlink" title="2. 备考资料，笔记"></a>2. 备考资料，笔记</h2><p><strong>参考书</strong></p>
+<p>​    数据结构：王道+天勤</p>
+<p>​    计算机组成原理：计算机组成-软硬件接口+天勤+王道</p>
+<p>​    操作系统：天勤+王道+现代操作系统</p>
+<p>​    计算机网络：计算机网络-自顶向下 +天勤+王道</p>
+<p>资料分享在顶部：</p>
+]]></content>
+      <categories>
+        <category>NEEP</category>
+      </categories>
+      <tags>
+        <tag>408</tag>
       </tags>
   </entry>
   <entry>
@@ -691,355 +1071,6 @@
       </tags>
   </entry>
   <entry>
-    <title>入宝山而空回</title>
-    <url>/%E5%85%A5%E5%AE%9D%E5%B1%B1%E4%B8%8D%E8%83%BD%E7%A9%BA%E8%BF%94/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>明文秉在《先拨志始》中写道：</p>
-<blockquote>
-<p>挟泰山以超北，在婿固不敢厚望；</p>
-<p>入宝山而空回，想岳亦不能忘情也。</p>
-</blockquote>
-<p>如今，对普通人而言，获取优质学习资源比以往任何时候都要容易。</p>
-<p>许多时候恰恰因为获取资源非常容易，而导致在学习之前，准备工作做得过于“充足”。  </p>
-<blockquote>
-<p>学习数据结构：</p>
-<ul>
-<li>搜索“如何学习数据结构”，读完大部分的文章</li>
-<li>根据文章的提示开始找书、慕课，再看书评及慕课评价</li>
-<li>下载电子书，是否中英文都有，排版清晰否，要不要买纸质书</li>
-<li>下载或收藏课程，是否中英文都有，是否完整，清晰度如何</li>
-<li>……</li>
-</ul>
-</blockquote>
-<p>除了“学“，其他的事情都做了。</p>
-<p>这就是过度准备，会让人对将要学的知识有很强的的困难感。完全将自己陷在了一个还未开始就沮丧的心理泥潭。</p>
-<h2 id="经验教训"><a href="#经验教训" class="headerlink" title="经验教训"></a>经验教训</h2><p>再一次，我重新学习数据结构：</p>
-<ul>
-<li>买了邓公的数据结构和习题集。</li>
-<li>在bilibili上找到讲课视频</li>
-<li>下载好书中代码和ppt</li>
-<li>开始学习，调代码</li>
-</ul>
-<h2 id="入宝山"><a href="#入宝山" class="headerlink" title="入宝山"></a>入宝山</h2><p>学习过程中遇到问题，搜索博客解决问题。</p>
-<h2 id="不空回"><a href="#不空回" class="headerlink" title="不空回"></a>不空回</h2><p>不要迟疑，立刻去做</p>
-]]></content>
-      <categories>
-        <category>Mind</category>
-      </categories>
-      <tags>
-        <tag>随想</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的学习观</title>
-    <url>/%E6%88%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%A7%82/</url>
-    <content><![CDATA[<p>通过实践而发现真理，又通过实践而证实真理和发展真理。从感性认识而能动地发展到理性认识，又从理性认识而能动地指导革命实践，改造主观世界和客观世界。实践、认识、再实践、再认识，这种形式，循环往复以至无穷，而实践和认识之每一循环的内容，都比较地进到了高一级的程度。这就是辩证唯物论的全部认识论，这就是辩证唯物论的知行统一观。</p>
-<p>检验所学，能否有条理的复述是一条重要的标准。例如，读了某本书或者学到某些科学知识，若能用文字将自己的所学所悟记录下来，对接下来的学习有积极的影响。</p>
-<h3 id="做以下尝试："><a href="#做以下尝试：" class="headerlink" title="做以下尝试："></a>做以下尝试：</h3><h4 id="第一，复述所学"><a href="#第一，复述所学" class="headerlink" title="第一，复述所学"></a>第一，复述所学</h4><p>复述的方式有两种，口语复述和文字复述。</p>
-<h4 id="第二，保持专注"><a href="#第二，保持专注" class="headerlink" title="第二，保持专注"></a>第二，保持专注</h4><p>远离任何会打断复述过程的事物，思维本就碎片化，不要打断复述过程。这些事物包括但不限于论坛、短视频等各种短时反馈的东西。走出舒适区才能进步。</p>
-<h4 id="第三，抛弃形式主义"><a href="#第三，抛弃形式主义" class="headerlink" title="第三，抛弃形式主义"></a>第三，抛弃形式主义</h4><p>很多人进入过自我感动的怪圈，这和自小接受的苦难教育有关。</p>
-<p>如苏东坡言：古之成大事者，不惟有超世之才，亦必有坚韧不拔之志。</p>
-<p>按照科学的方法，减少学习时长带来的感动，增多睡眠时间，经常锻炼身体，把精力投入到学习中。</p>
-<h4 id="第四，坦荡从容，是自己给的"><a href="#第四，坦荡从容，是自己给的" class="headerlink" title="第四，坦荡从容，是自己给的"></a>第四，坦荡从容，是自己给的</h4><p>大多数人，尤其是同龄人，看到我们不断变得优秀，涌上心头的，不是替我们感到开心，而是羞耻，进而郁郁寡欢。</p>
-<p>因为在成长的过程中，我们经年累月被灌输一种思维方式，那就是需要借助一个参照物，来知道自己的位置。</p>
-<p>隔壁邻居的张三，班里的李四，职场中的王五，都是参照物。</p>
-<p>远离这种参照物思维，不要被别人贩卖的焦虑情绪感染，去追寻比过去的自己更优秀的自己。</p>
-<p><strong>自己比过去的自己优秀，是要给自己赞美的。</strong></p>
-<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p><strong>学习时的思维如流一般，沉浸其中是极致的乐趣。</strong></p>
-]]></content>
-      <categories>
-        <category>Mind</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-        <tag>学习方法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数据结构笔记 | 清华大学邓俊辉 | 第三版</title>
-    <url>/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</url>
-    <content><![CDATA[<h1 id="第一章-绪论"><a href="#第一章-绪论" class="headerlink" title="第一章 绪论"></a>第一章 绪论</h1><h2 id="a-计算"><a href="#a-计算" class="headerlink" title="a.计算"></a>a.计算</h2><p><strong>算法要素：</strong></p>
-<ul>
-<li>输入与输出、</li>
-<li>基本操作、确定性与可行性</li>
-<li>有穷性与正确性</li>
-<li>退化与鲁棒性</li>
-<li>重用性</li>
-</ul>
-<p><strong>好算法</strong>：<strong>正确</strong>（处理简单的、大规模的、一般性的、退化的、合法的输入）、<strong>健壮</strong>、<strong>可读</strong>、<strong>效率</strong>（速度快、存储空间小）</p>
-<p><strong>计算成本</strong>T(n)：求解规模为n的问题所需基本操作数，在规模为n的所有实例中，只关注最坏（成本最高）者</p>
-<h2 id="b-大O记号"><a href="#b-大O记号" class="headerlink" title="b.大O记号"></a>b.大O记号</h2><p>T(n)定义为算法所执行基本操作的总次数。</p>
-<p>关注T(n)的渐进上界。引入<strong>大O记号</strong>。</p>
-<p>具体地，由T(n) &lt; = c.f(n)，用f(n)代替T(n)，可忽略常系数和低次项。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="comment">//常数情况</span></span><br><span class="line"><span class="number">2013</span>×<span class="number">2013</span></span><br><span class="line"><span class="comment">//包含循环情况</span></span><br><span class="line"><span class="keyword">for</span>(i=<span class="number">0</span>; i&lt;n; i+= n/<span class="number">2013</span> + <span class="number">1</span>);</span><br><span class="line"><span class="keyword">for</span>(i=<span class="number">1</span>; i&lt;n; i=<span class="number">1</span> &lt;&lt; i);</span><br><span class="line"><span class="comment">//包含分支</span></span><br><span class="line"><span class="keyword">if</span>((n+m)*(n+m) &lt; <span class="number">4</span>*n*m) <span class="keyword">goto</span> UNREACHABLE;</span><br><span class="line"><span class="comment">//包含递归</span></span><br><span class="line"><span class="keyword">if</span>(<span class="number">2</span>==(n*n)% <span class="number">5</span>) <span class="number">01</span>(n);</span><br></pre></td></tr></table></figure>
-
-<p><strong>O(1)</strong> ：常数</p>
-<p><strong>O(logn)</strong> 对数：此类算法非常有效，复杂度无限接近常数，可忽略常底数和常数次幂。</p>
-<p><strong>O(n)</strong> 线性及多项式：线性，从n到n2是编程题主要覆盖的范围。</p>
-<p><strong>O(2^n)</strong> 指数：无效，从多项式到指数被认为有效算法到无效算法的分水岭。指数复杂度算法无法真正应用于实际问题中，不是有效算法，甚至不能称之为算法。相应地，多项式复杂度的算法也被称作南街的(intractable)问题。</p>
-<h2 id="c-常见算法分析"><a href="#c-常见算法分析" class="headerlink" title="c.常见算法分析"></a>c.常见算法分析</h2><p><strong>两个任务</strong>：<strong>正确性</strong>（不变性、单调性）+ <strong>复杂度</strong><br><strong>复杂度分析</strong>：猜测+验证，迭代（级数求和），递归（递归跟踪+递推方程）<br><strong>算数级数</strong>：与末项平方同阶<br><strong>幂方级数</strong>：比幂次高出一阶<br><strong>几何级数</strong>(a&gt;1)：与末项同阶<br><strong>收敛级数</strong>：O(1)<br><strong>调和级数</strong>：1+1/2+1/3+…+1/n=O(logn)<br><strong>对数级数</strong>：log1+log2+…+logn=O(nlogn)</p>
-<p>以冒泡排序为例：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">bubblesort</span><span class="params">(<span class="keyword">int</span> A[], <span class="keyword">int</span> n)</span></span>&#123;</span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">bool</span> sorted = <span class="literal">false</span>; sorted = !sorted; n--)</span><br><span class="line">		<span class="keyword">for</span> (<span class="keyword">int</span> i=<span class="number">1</span>; i&lt;n; i++)</span><br><span class="line">			<span class="keyword">if</span> (A[i<span class="number">-1</span>] &gt; A[i])&#123;</span><br><span class="line">				swap(A[i<span class="number">-1</span>], A[i]);</span><br><span class="line">				sorted = <span class="literal">false</span>;</span><br><span class="line">			&#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p><strong>不变性</strong>：经k轮交换，最大的k个元素就位<br><strong>单调性</strong>：经k轮交换，问题规模缩减至n-k<br><strong>正确性</strong>：经至多n趟扫描后，算法必然终止且给出正确解答</p>
-<h2 id="d-递归及迭代"><a href="#d-递归及迭代" class="headerlink" title="d.递归及迭代"></a>d.递归及迭代</h2><p><strong>分而治之</strong>：划分为两个子问题，规模大体相当。</p>
-<p><strong>减而治之</strong>：划分为两个子问题，其一平凡，另一缩减。</p>
-<ol>
-<li><strong>Fibonacci</strong>数：迭代</li>
-</ol>
-<p>动态规划：按规模自小而大求解各子问题的过程。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">fibI</span><span class="params">(<span class="keyword">int</span> n)</span></span>&#123;</span><br><span class="line">    f = <span class="number">0</span>; g = <span class="number">1</span>;</span><br><span class="line">    <span class="keyword">while</span> (<span class="number">0</span> &lt; n--)&#123;</span><br><span class="line">	    g = g + f;</span><br><span class="line">	    f = g - f;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> g;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>仅使用两个中间变量f和g，记录当前的一对相邻Fibonacci数。整个算法仅需线性步的迭代.</p>
-<p><strong>时间复杂度为O(n)</strong>,<strong>空间复杂度为O(1)</strong></p>
-<ol>
-<li><strong>最长公共子序列</strong>（可能有多个；可能有歧义）</li>
-</ol>
-<p>对于序列A[0, n]和B[0, m]，LSC有三种情况：<br>（1）n = -1或m = -1，取空序列（“”）</p>
-<p>（2）A[n] = ‘X’ = B[m]，取LSC(A[0, n),B[0, m)) + ‘X’ （减而治之）</p>
-<p>（3）A[n] ≠ B[m]，则在 LCS(A[0, n], B[0, m))与 LCS(A[0, n), B[0, m])中取更长者 （分而治之）</p>
-<p><strong>最好情况：O(n + m)</strong></p>
-<p><strong>最坏情况：O(2^n),此时 (n = m)</strong></p>
-<p>与斐波那契数列一样，有大量重复的递归实例；若采用动态规划，只需O(nm)时间即可计算所有子问题，为此只需:</p>
-<p>（1）将所有子问题假想列成一张表；</p>
-<p>（2）颠倒计算方向，从LCS(A[0], B[0])出发依次计算所有项。</p>
-<h2 id="e-习题集"><a href="#e-习题集" class="headerlink" title="e.习题集"></a>e.习题集</h2><p>习题1-12</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">(<span class="keyword">unsigned</span> <span class="keyword">long</span>) <span class="number">-1</span> <span class="comment">//在不知道最大无符号整数大小的情况下，只需将-1转换为此类型，轻松获得此类型的最大值</span></span><br></pre></td></tr></table></figure>
-
-<h1 id="第二章-向量"><a href="#第二章-向量" class="headerlink" title="第二章 向量"></a>第二章 向量</h1><p><strong>向量（vector）</strong>是线性数组的一种抽象与泛化。</p>
-<p>从向量最基本的接口出发，设计并实现与之对应的向量模板类。</p>
-<h2 id="a-向量ADT支持的操作接口"><a href="#a-向量ADT支持的操作接口" class="headerlink" title="a.向量ADT支持的操作接口"></a>a.向量ADT支持的操作接口</h2><table>
-<thead>
-<tr>
-<th>操作接口</th>
-<th>功能</th>
-<th>适用对象</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>size()</td>
-<td>报告向量当前的规模（元素总数）</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>get(r)</td>
-<td>获取秩为r的元素</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>put(r, e)</td>
-<td>用e替换秩为r的元素</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>insert(r, e)</td>
-<td>e作为秩为r元素插入，后继元素依次右移</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>remove(r)</td>
-<td>删除秩为r的元素，返回该元素中原存放的对象</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>disordered()</td>
-<td>判断所有元素是否已按非降序排列</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>sort()</td>
-<td>调整各元素位置，使之按非降序排列</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>find(e)</td>
-<td>查找等于e且秩最大的元素</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>search(e)</td>
-<td>查找目标元素e，返回不大于e且秩最大的元素</td>
-<td>有序向量</td>
-</tr>
-<tr>
-<td>deduplicate()</td>
-<td>剔除重复元素</td>
-<td>向量</td>
-</tr>
-<tr>
-<td>uniquify()</td>
-<td>剔除重复元素</td>
-<td>有序向量</td>
-</tr>
-<tr>
-<td>traverse()</td>
-<td>遍历向量并统一处理所有元素，处理方法由函数对象指定</td>
-<td>向量</td>
-</tr>
-</tbody></table>
-<h2 id="b-Vector模板类"><a href="#b-Vector模板类" class="headerlink" title="b.Vector模板类"></a>b.Vector模板类</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">typedef</span> <span class="keyword">int</span> Rank; <span class="comment">//秩</span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">define</span> DEFAULT_CAPACITY  3 <span class="comment">//默认的初始容量（实际应用中可设置为更大）</span></span></span><br><span class="line"></span><br><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="class"><span class="keyword">class</span> <span class="title">Vector</span> &#123;</span> <span class="comment">//向量模板类</span></span><br><span class="line"><span class="keyword">protected</span>:</span><br><span class="line">   Rank _size; <span class="keyword">int</span> _capacity;  T* _elem; <span class="comment">//规模、容量、数据区</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">copyFrom</span> <span class="params">( T <span class="keyword">const</span>* A, Rank lo, Rank hi )</span></span>; <span class="comment">//复制数组区间A[lo, hi)</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">expand</span><span class="params">()</span></span>; <span class="comment">//空间不足时扩容</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">shrink</span><span class="params">()</span></span>; <span class="comment">//装填因子过小时压缩</span></span><br><span class="line">   <span class="function"><span class="keyword">bool</span> <span class="title">bubble</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//扫描交换</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">bubbleSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//起泡排序算法</span></span><br><span class="line">   <span class="function">Rank <span class="title">max</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//选取最大元素</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">selectionSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//选择排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">merge</span> <span class="params">( Rank lo, Rank mi, Rank hi )</span></span>; <span class="comment">//归并算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">mergeSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//归并排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">heapSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//堆排序（稍后结合完全堆讲解）</span></span><br><span class="line">   <span class="function">Rank <span class="title">partition</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//轴点构造算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">quickSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//快速排序算法</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">shellSort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//希尔排序算法</span></span><br><span class="line"><span class="keyword">public</span>:</span><br><span class="line"><span class="comment">// 构造函数</span></span><br><span class="line">   Vector ( <span class="keyword">int</span> c = DEFAULT_CAPACITY, <span class="keyword">int</span> s = <span class="number">0</span>, T v = <span class="number">0</span> ) <span class="comment">//容量为c、规模为s、所有元素初始为v</span></span><br><span class="line">   &#123; _elem = <span class="keyword">new</span> T[_capacity = c]; <span class="keyword">for</span> ( _size = <span class="number">0</span>; _size &lt; s; _elem[_size++] = v ); &#125; <span class="comment">//s&lt;=c</span></span><br><span class="line">   Vector ( T <span class="keyword">const</span>* A, Rank n ) &#123; copyFrom ( A, <span class="number">0</span>, n ); &#125; <span class="comment">//数组整体复制</span></span><br><span class="line">   Vector ( T <span class="keyword">const</span>* A, Rank lo, Rank hi ) &#123; copyFrom ( A, lo, hi ); &#125; <span class="comment">//区间</span></span><br><span class="line">   Vector ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; V ) &#123; copyFrom ( V._elem, <span class="number">0</span>, V._size ); &#125; <span class="comment">//向量整体复制</span></span><br><span class="line">   Vector ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; V, Rank lo, Rank hi ) &#123; copyFrom ( V._elem, lo, hi ); &#125; <span class="comment">//区间</span></span><br><span class="line"><span class="comment">// 析构函数</span></span><br><span class="line">   ~Vector() &#123; <span class="keyword">delete</span> [] _elem; &#125; <span class="comment">//释放内部空间</span></span><br><span class="line"><span class="comment">// 只读访问接口</span></span><br><span class="line">   <span class="function">Rank <span class="title">size</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> _size; &#125; <span class="comment">//规模</span></span><br><span class="line">   <span class="function"><span class="keyword">bool</span> <span class="title">empty</span><span class="params">()</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> !_size; &#125; <span class="comment">//判空</span></span><br><span class="line">   <span class="function">Rank <span class="title">find</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> <span class="keyword">const</span> </span>&#123; <span class="keyword">return</span> <span class="built_in">find</span> ( e, <span class="number">0</span>, _size ); &#125; <span class="comment">//无序向量整体查找</span></span><br><span class="line">   <span class="function">Rank <span class="title">find</span> <span class="params">( T <span class="keyword">const</span>&amp; e, Rank lo, Rank hi )</span> <span class="keyword">const</span></span>; <span class="comment">//无序向量区间查找</span></span><br><span class="line">   <span class="function">Rank <span class="title">search</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> <span class="keyword">const</span> <span class="comment">//有序向量整体查找</span></span></span><br><span class="line"><span class="function">   </span>&#123; <span class="keyword">return</span> ( <span class="number">0</span> &gt;= _size ) ? <span class="number">-1</span> : search ( e, <span class="number">0</span>, _size ); &#125;</span><br><span class="line">   <span class="function">Rank <span class="title">search</span> <span class="params">( T <span class="keyword">const</span>&amp; e, Rank lo, Rank hi )</span> <span class="keyword">const</span></span>; <span class="comment">//有序向量区间查找</span></span><br><span class="line"><span class="comment">// 可写访问接口</span></span><br><span class="line">   T&amp; <span class="keyword">operator</span>[] ( Rank r ); <span class="comment">//重载下标操作符，可以类似于数组形式引用各元素</span></span><br><span class="line">   <span class="keyword">const</span> T&amp; <span class="keyword">operator</span>[] ( Rank r ) <span class="keyword">const</span>; <span class="comment">//仅限于做右值的重载版本</span></span><br><span class="line">   Vector&lt;T&gt; &amp; <span class="keyword">operator</span>= ( Vector&lt;T&gt; <span class="keyword">const</span>&amp; ); <span class="comment">//重载赋值操作符，以便直接克隆向量</span></span><br><span class="line">   <span class="function">T <span class="title">remove</span> <span class="params">( Rank r )</span></span>; <span class="comment">//删除秩为r的元素</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">remove</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//删除秩在区间[lo, hi)之内的元素</span></span><br><span class="line">   <span class="function">Rank <span class="title">insert</span> <span class="params">( Rank r, T <span class="keyword">const</span>&amp; e )</span></span>; <span class="comment">//插入元素</span></span><br><span class="line">   <span class="function">Rank <span class="title">insert</span> <span class="params">( T <span class="keyword">const</span>&amp; e )</span> </span>&#123; <span class="keyword">return</span> insert ( _size, e ); &#125; <span class="comment">//默认作为末元素插入</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">sort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//对[lo, hi)排序</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">sort</span><span class="params">()</span> </span>&#123; sort ( <span class="number">0</span>, _size ); &#125; <span class="comment">//整体排序</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">unsort</span> <span class="params">( Rank lo, Rank hi )</span></span>; <span class="comment">//对[lo, hi)置乱</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">unsort</span><span class="params">()</span> </span>&#123; unsort ( <span class="number">0</span>, _size ); &#125; <span class="comment">//整体置乱</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">deduplicate</span><span class="params">()</span></span>; <span class="comment">//无序去重</span></span><br><span class="line">   <span class="function"><span class="keyword">int</span> <span class="title">uniquify</span><span class="params">()</span></span>; <span class="comment">//有序去重</span></span><br><span class="line"><span class="comment">// 遍历</span></span><br><span class="line">   <span class="function"><span class="keyword">void</span> <span class="title">traverse</span> <span class="params">( <span class="keyword">void</span> (* ) ( T&amp; ) )</span></span>; <span class="comment">//遍历（使用函数指针，只读或局部性修改）</span></span><br><span class="line">   <span class="keyword">template</span> &lt;<span class="keyword">typename</span> VST&gt; <span class="function"><span class="keyword">void</span> <span class="title">traverse</span> <span class="params">( VST&amp; )</span></span>; <span class="comment">//遍历（使用函数对象，可全局性修改）</span></span><br><span class="line">&#125;; <span class="comment">//Vector</span></span><br></pre></td></tr></table></figure>
-
-<h2 id="c-构造和析构"><a href="#c-构造和析构" class="headerlink" title="c.构造和析构"></a>c.构造和析构</h2><p><strong>基于复制的构造方法</strong></p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//元素类型</span></span><br><span class="line"><span class="keyword">void</span> Vector&lt;T&gt;::copyFrom ( T <span class="keyword">const</span>* A, Rank lo, Rank hi ) &#123; <span class="comment">//以数组区间A[lo, hi)为蓝本复制向量</span></span><br><span class="line">   _elem = <span class="keyword">new</span> T[_capacity = <span class="number">2</span> * ( hi - lo ) ]; _size = <span class="number">0</span>; <span class="comment">//分配空间，规模清零</span></span><br><span class="line">   <span class="keyword">while</span> ( lo &lt; hi ) <span class="comment">//A[lo, hi)内的元素逐一</span></span><br><span class="line">      _elem[_size++] = A[lo++]; <span class="comment">//复制至_elem[0, hi - lo)</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>需强调的是，由于向量内部含有动态分配的空间，默认的运算符“=”不足以支持向量之间的直接赋值。</p>
-<p>故重载向量的赋值运算符。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; Vector&lt;T&gt;::<span class="keyword">operator</span>= (Vector&lt;T&gt; <span class="keyword">const</span>&amp; V)&#123; <span class="comment">//重载</span></span><br><span class="line">	<span class="keyword">if</span> (_elem) <span class="keyword">delete</span> [] _elem; <span class="comment">//释放原有内容</span></span><br><span class="line">	copyFrom ( V._elem, <span class="number">0</span>, V.<span class="built_in">size</span>() ); <span class="comment">//整体复制</span></span><br><span class="line">	<span class="keyword">return</span> *<span class="keyword">this</span>; <span class="comment">//返回当前对象的引用，以便链式赋值</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h2 id="c-动态空间管理"><a href="#c-动态空间管理" class="headerlink" title="c.动态空间管理"></a>c.动态空间管理</h2><h3 id="1-静态空间管理"><a href="#1-静态空间管理" class="headerlink" title="1.静态空间管理"></a>1.静态空间管理</h3><p>内部数组所占物理空间的容量，若在向量的生命期内不允许调整，则为静态管理策略。</p>
-<p>缺点：因容量固定，总有可能在此后的某一时刻，无法加入更多的新元素–即导致所谓的上溢（overflow）。</p>
-<p>也有可能拥有少量元素的数组长时间占据大量物理空间，造成空间浪费。</p>
-<h3 id="2-可扩充向量"><a href="#2-可扩充向量" class="headerlink" title="2.可扩充向量"></a>2.可扩充向量</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="keyword">void</span> Vector&lt;T&gt;::expand() &#123; <span class="comment">//向量空间不足时扩容</span></span><br><span class="line">   <span class="keyword">if</span> ( _size &lt; _capacity ) <span class="keyword">return</span>; <span class="comment">//尚未满员时，不必扩容</span></span><br><span class="line">   <span class="keyword">if</span> ( _capacity &lt; DEFAULT_CAPACITY ) _capacity = DEFAULT_CAPACITY; <span class="comment">//不低于最小容量</span></span><br><span class="line">   T* oldElem = _elem;  _elem = <span class="keyword">new</span> T[_capacity &lt;&lt;= <span class="number">1</span>]; <span class="comment">//容量加倍</span></span><br><span class="line">   <span class="keyword">for</span> ( <span class="keyword">int</span> i = <span class="number">0</span>; i &lt; _size; i++ )</span><br><span class="line">      _elem[i] = oldElem[i]; <span class="comment">//复制原向量内容（T为基本类型，或已重载赋值操作符'='）</span></span><br><span class="line">   <span class="keyword">delete</span> [] oldElem; <span class="comment">//释放原空间</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<p>该扩容策略是<strong>容量加倍策略</strong></p>
-<p><strong>分析：</strong>最坏情况：在初始容量为1的满向量中，连续插入n=2 ^ m&gt;&gt;2个元素，在第1、2、4、8、16次插入都需要扩容，每次扩容中复制原向量的时间成本分别为1,2,4,8，…,2^m = n，总体耗时O(n)，每次扩容的分摊成本为O(1)<br><strong>平均分析复杂度</strong>：根据数据结构各种操作出现概率的分布，将对应的成本加权平均，各种可能的操作作为独立事件分别考查，割裂了操作之间的相关性和连贯性，不能准确评判数据结构和算法的真实性能；<br><strong>分摊复杂度</strong>：对数据结构连续实施足够多次操作，所需总成本分摊至单次操作，对一系列操作做整体的考量。</p>
-<p>另外，<strong>追加固定数目的单元的策略</strong>，无论采用的固定常数多大，在最坏的情况下，此类数组单次操作的分摊时间复杂度都将高达<strong>Ω(n)</strong>。</p>
-<h3 id="3-缩小容量"><a href="#3-缩小容量" class="headerlink" title="3.缩小容量"></a>3.缩小容量</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="keyword">void</span> Vector&lt;T&gt;::shrink() &#123; <span class="comment">//装填因子过小时压缩向量所占空间</span></span><br><span class="line">   <span class="keyword">if</span> ( _capacity &lt; DEFAULT_CAPACITY &lt;&lt; <span class="number">1</span> ) <span class="keyword">return</span>; <span class="comment">//不致收缩到DEFAULT_CAPACITY以下</span></span><br><span class="line">   <span class="keyword">if</span> ( _size &lt;&lt; <span class="number">2</span> &gt; _capacity ) <span class="keyword">return</span>; <span class="comment">//以25%为界</span></span><br><span class="line">   T* oldElem = _elem;  _elem = <span class="keyword">new</span> T[_capacity &gt;&gt;= <span class="number">1</span>]; <span class="comment">//容量减半</span></span><br><span class="line">   <span class="keyword">for</span> ( <span class="keyword">int</span> i = <span class="number">0</span>; i &lt; _size; i++ ) _elem[i] = oldElem[i]; <span class="comment">//复制原向量内容</span></span><br><span class="line">   <span class="keyword">delete</span> [] oldElem; <span class="comment">//释放原空间</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h2 id="d-常规向量"><a href="#d-常规向量" class="headerlink" title="d.常规向量"></a>d.常规向量</h2><h3 id="1-直接引用元素"><a href="#1-直接引用元素" class="headerlink" title="1.直接引用元素"></a>1.直接引用元素</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; </span><br><span class="line">T&amp; Vector::<span class="keyword">operator</span>[] ( Rank r ) <span class="keyword">const</span> <span class="comment">//重载下标操作符</span></span><br><span class="line">&#123;   <span class="keyword">return</span> _elem[r]; &#125; <span class="comment">//assert: 0 &lt;= r &lt; _size</span></span><br></pre></td></tr></table></figure>
-
-<p>此后对外的V[r]对应内部V._elem[r]<br><strong>右值</strong>：T x = V[r] + U[s] * W[t];<br><strong>左值</strong>：V[r] = (T)(2*x + 3)</p>
-<h3 id="2-插入"><a href="#2-插入" class="headerlink" title="2.插入"></a>2.插入</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//e作为秩为r元素插入</span></span><br><span class="line">Rank Vector&lt;T&gt;::insert(Rank r, T <span class="keyword">const</span> &amp; e)&#123;</span><br><span class="line">	expand(); <span class="comment">//如有必要，扩容</span></span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">int</span> i=_size; i&gt;r; i--)</span><br><span class="line">		_elem[i] = _elem[i<span class="number">-1</span>]; <span class="comment">//后继元素顺次后移一个单元</span></span><br><span class="line">	_elem[r] = e; _size++;</span><br><span class="line">	<span class="keyword">return</span> r; <span class="comment">//返回秩</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="3-区间删除"><a href="#3-区间删除" class="headerlink" title="3.区间删除"></a>3.区间删除</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//e作为秩为r元素插入</span></span><br><span class="line">Rank Vector&lt;T&gt;::insert(Rank r, T <span class="keyword">const</span> &amp; e)&#123;</span><br><span class="line">	expand(); <span class="comment">//如有必要，扩容</span></span><br><span class="line">	<span class="keyword">for</span> (<span class="keyword">int</span> i=_size; i&gt;r; i--)</span><br><span class="line">		_elem[i] = _elem[i<span class="number">-1</span>]; <span class="comment">//后继元素顺次后移一个单元</span></span><br><span class="line">	_elem[r] = e; _size++;</span><br><span class="line">	<span class="keyword">return</span> r; <span class="comment">//返回秩</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="4-单元素删除"><a href="#4-单元素删除" class="headerlink" title="4.单元素删除"></a>4.单元素删除</h3><p>即区间删除的特例：[r] = [r, r+1)</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt; <span class="comment">//删除向量中秩为r的元素</span></span><br><span class="line">T Vector&lt;T&gt;::<span class="built_in">remove</span>(Rank r)&#123;</span><br><span class="line">	T e = _elem[r]; <span class="comment">//备份被删除元素</span></span><br><span class="line">	<span class="built_in">remove</span>(r,r+<span class="number">1</span>);</span><br><span class="line">	<span class="keyword">return</span> e;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="5-查找"><a href="#5-查找" class="headerlink" title="5.查找"></a>5.查找</h3><p><strong>无序向量</strong>：T为可判等的基本类型，或已重载操作符”==“或”!=”<br><strong>有序向量</strong>：T为可比较的基本类型，或已重载操作符”&lt;“或”&gt;”</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</span><br><span class="line">Rank Vector&lt;T&gt;::<span class="built_in">find</span>(T <span class="keyword">const</span> &amp; e, Rank lo, Rank hi) <span class="keyword">const</span>&#123;</span><br><span class="line">	<span class="keyword">while</span>((lo &lt; hi--) &amp;&amp; (e!=_elem[hi]));</span><br><span class="line">	<span class="keyword">return</span> hi;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h3 id="Question：能否反复调用remove-r-实现remove-lo-hi-呢？"><a href="#Question：能否反复调用remove-r-实现remove-lo-hi-呢？" class="headerlink" title="Question：能否反复调用remove(r)实现remove(lo,hi)呢？"></a>Question：能否反复调用remove(r)实现remove(lo,hi)呢？</h3><p><strong>删除单元素</strong>每次循环耗时正比于删除区间的后缀长度 = n - hi = O(n)，循环次数等于区间宽度=hi - lo = O(n)，如此将导致<strong>O(n^2)</strong>的复杂度。</p>
-]]></content>
-      <categories>
-        <category>NEEP</category>
-      </categories>
-      <tags>
-        <tag>Notes</tag>
-        <tag>912</tag>
-        <tag>DS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2020年清华大学计算机系学硕录取分析</title>
-    <url>/2020%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E5%AD%A6%E7%A1%95%E6%8B%9F%E5%BD%95%E5%8F%96%E5%88%86%E6%9E%90/</url>
-    <content><![CDATA[<h2 id="2020年被录取计算机学硕（非强军计划）的14位同学情况"><a href="#2020年被录取计算机学硕（非强军计划）的14位同学情况" class="headerlink" title="2020年被录取计算机学硕（非强军计划）的14位同学情况"></a>2020年被录取计算机学硕（非强军计划）的14位同学情况</h2><p>2020年清华大学计算机系学硕初试线：<strong>359</strong>。</p>
-<p>初试科目：<strong>101,201,301,912</strong>。</p>
-<h4 id="1-从以下三个方面列举出计算机学硕拟录取同学的背景"><a href="#1-从以下三个方面列举出计算机学硕拟录取同学的背景" class="headerlink" title="1. 从以下三个方面列举出计算机学硕拟录取同学的背景"></a>1. 从以下三个方面列举出计算机学硕拟录取同学的背景</h4><ul>
-<li><strong>本科：</strong></li>
-</ul>
-<p>​            清华大学(2)，中国科学技术大学(1)，上海交通大学(1)，同济大学(1)，中南大学(1)</br></p>
-<p>​            中国人民大学(1)，北京航空航天大学(1)，武汉大学(1)，天津大学(1)，四川大学(1)</br></p>
-<p>​            北京理工大学(1)，华南理工大学(1)，福州大学(1)</p>
-<ul>
-<li><strong>毕业情况统计：</strong></li>
-</ul>
-<p>​            应届生(4)，非应届生(10)</p>
-<ul>
-<li><strong>本科专业统计：</strong></li>
-</ul>
-<p>​            跨考(5)，非跨考(9)</p>
-<p>注：跨考录取的5名同学本科均为985，其中应届生两人(初试均过380分)。  </p>
-<h4 id="2-分析"><a href="#2-分析" class="headerlink" title="2. 分析"></a>2. 分析</h4><p>2020年录入学硕的14位同学有13位来自985大学，一位来自211大学。这些同学编程能力出众，不乏NOIP省队、ACM牌子选手；数学水平极高：CMO省队；瞩目的项目经历，有ASC全球总决赛一等奖得主；英语水平颇佳：托福110+。(注：未列全，并有交叉)</br></p>
-<p>看被录取的同学名单，远远不能感受到清华大学计算机学硕竞争的激烈程度。</p>
-<p>如果把那些被刷的同学的本科学校摆出来，会更加可怕。</p>
-<p>如：北京大学、上海交通大学、浙江大学、人大……</p>
-<p>仅从本科学校来看，似乎被录取有些运气成分，但正如今年初试第一的同学所言：过线之后，决定你是否录取的因素只有一个——是否有老师愿意接收你成为他的研究生</p>
-<h4 id="3-想读清华计算机学硕需要达到什么条件"><a href="#3-想读清华计算机学硕需要达到什么条件" class="headerlink" title="3. 想读清华计算机学硕需要达到什么条件"></a>3. 想读清华计算机学硕需要达到什么条件</h4><p>那么，过了初试，如何得到老师青睐？或许可以量化以下标准：</p>
-<ul>
-<li>证明编程能力：CCF高分，Codeforces高分</li>
-<li>做过老师感兴趣的项目</li>
-<li>在知名竞赛拿过好名次</li>
-<li>机试高分</li>
-<li>初试高分且毫不放松</li>
-</ul>
-<h3 id="报考清华前的常见问题解答"><a href="#报考清华前的常见问题解答" class="headerlink" title="报考清华前的常见问题解答"></a>报考清华前的常见问题解答</h3><p>下面两个问题引自18年上岸同学。</p>
-<h4 id="1-清华面试黑吗？"><a href="#1-清华面试黑吗？" class="headerlink" title="1.清华面试黑吗？"></a>1.清华面试黑吗？</h4><p>可以明确地说肯定没有。老师面试的时候都是完全根据你的个人能力评价的，不存在所谓的黑幕，大家还是积极提高自己的能力，不要把时间浪费在讨论这些没有意义的东西上。</p>
-<p>关于所谓的本科歧视，这个我觉得肯定是没有的。如果你来自双非但有很牛逼的项目或竞赛经历，还是很可能被录取的。而即使来自985计算机强校，成绩平平没有项目经历也是肯定会被刷的。而且话说回来，本科院校也是个人能力的一种，所以我们必须正视这一事实，而不是抱着被害者心理到处非议。最为关键的还是努力提升自身能力。</p>
-<h4 id="2-我本科不好，成绩平平，也没项目经历怎么办？"><a href="#2-我本科不好，成绩平平，也没项目经历怎么办？" class="headerlink" title="2.我本科不好，成绩平平，也没项目经历怎么办？"></a>2.我本科不好，成绩平平，也没项目经历怎么办？</h4><p>在这里我劝退一下，可能会得罪人，但请多包涵。复试三大劣势：双非、跨考、没项目或者成绩差（挂科之类），如果你只有其中一个，那么还是很有希望的，加油准备吧。但如果你有其中两项，我不得不说希望很小，还是换个目标吧。毕竟大家都是成年人了，应该学会了权衡利弊，用最小投入获得最为可能最大的产出，而不是为了一个心中的愿景不计成本地投入。</p>
-<h3 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h3><p><strong>没有自信的人，从战斗一开始，就输了一半。</strong></p>
-<h3 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h3><p><a href="https://mp.weixin.qq.com/s/4uahTxGOqdsvEJCHsRtP2w" target="_blank" rel="noopener"><strong>考研版《论四大关系》，别再问一些诸如二本考清华有没有机会、基础差能不能考上的问题了，这篇文章给你所有答案！</strong></a></p>
-<p><a href="http://www.cskaoyan.com/thread-649195-1-1.html" target="_blank" rel="noopener"><strong>2018清华计算机考研经验贴_复试细节和初试准备</strong></a></p>
-]]></content>
-      <categories>
-        <category>NEEP</category>
-      </categories>
-      <tags>
-        <tag>912</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>时间随想</title>
-    <url>/%E6%97%B6%E9%97%B4/</url>
-    <content><![CDATA[<p>New York is 3 hours ahead of California, but it does not make California slow.</p>
-<p>Someone graduated at the age of 22, but waited 5 years before securing a good job!</p>
-<p>Someone became a CEO at 25, and died at 50.</p>
-<p>While another became a CEO at 50, and lived to 90 years.</p>
-<p>Someone is still single, while someone else got married.</p>
-<p>Absolutely everyone in this world works based on their Time Zone.</p>
-<p>People around you might seem to go ahead of you, some might seem to be behind you.</p>
-<p>But everyone is running their own RACE, in their own TIME. Don’t envy them or mock them.</p>
-<p>They are in their TIME ZONE, and you are in yours!</p>
-<p>Life is about waiting for the right moment to act.</p>
-<p>So, RELAX.</p>
-<p>You’re not LATE.</p>
-<p>You’re not EARLY.</p>
-<p>You are very much ON TIME, and in your TIME ZONE Destiny set up for you. </p>
-<p>人生没有太晚的开始，哪怕你白发苍苍，一切都还来得及。</p>
-<p>除了生和死的时间是固定的，其他事情，并没有一个固定的时间表要去遵循。</p>
-<p>活得自在一点.</p>
-]]></content>
-      <categories>
-        <category>Mind</category>
-      </categories>
-      <tags>
-        <tag>随想</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>西南交通大学茅以升学院2016级陈玉钰</title>
-    <url>/%E8%A5%BF%E5%8D%97%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E8%8C%85%E4%BB%A5%E5%8D%87%E5%AD%A6%E9%99%A22016%E7%BA%A7%E9%99%88%E7%8E%89%E9%92%B0/</url>
-    <content><![CDATA[<p>陈玉钰</p>
-<p>那些越过教育公平底线的人</p>
-<p>更应该看看你</p>
-<p>像很多人一样</p>
-<p>满怀羡慕</p>
-<p>更改应届生身份的明星</p>
-<p>被取消毕业证和学位证</p>
-<p>即将入职的应届生考试作弊</p>
-<p>被开除</p>
-<p>中北大学某同学</p>
-<p>……</p>
-<p>而你</p>
-<p>陈玉钰</p>
-<p>高考仅超一本线一分</p>
-<p>来到了西南交通大学茅以升学院</p>
-<p>考试开考后申请缓考</p>
-<p>修改成绩</p>
-<p>父母代写论文</p>
-<p>挂了科还能保研</p>
-<p>不过是丢了一个本不属于你的保研资格</p>
-<p>不过你</p>
-<p>照拿毕业证学位证</p>
-<p>今后还能风生水起</p>
-<p>拥有父母的人脉</p>
-<p>考研复试走走流程</p>
-<p>漂亮的成绩</p>
-<p>高水平的论文</p>
-<p>是你出国留学保障</p>
-<p>几年之后</p>
-<p>学成回国</p>
-<p>入职母校</p>
-<p>讲述曾经属于你的辉煌</p>
-<p><strong>奔涌吧，后浪！！！</strong></p>
-]]></content>
-      <categories>
-        <category>Mind</category>
-      </categories>
-      <tags>
-        <tag>教育</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo、NexT和github搭建博客 | Typora使用文档</title>
     <url>/Hexo%20NexT%20Typora%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/</url>
     <content><![CDATA[<h2 id="常用Hexo命令"><a href="#常用Hexo命令" class="headerlink" title="常用Hexo命令"></a>常用Hexo命令</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">hexo server -p 端口号</span><br></pre></td></tr></table></figure>
@@ -1068,37 +1099,6 @@
       </categories>
       <tags>
         <tag>Notes</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2020年清华大学网研院学硕录取分析</title>
-    <url>/2020%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%BD%91%E7%A0%94%E9%99%A2%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%AE%89%E5%85%A8%E5%AD%A6%E7%A1%95%E5%BD%95%E5%8F%96%E5%88%86%E6%9E%90/</url>
-    <content><![CDATA[<h2 id="2020年被录取网研院学硕（非强军计划）的12位同学情况"><a href="#2020年被录取网研院学硕（非强军计划）的12位同学情况" class="headerlink" title="2020年被录取网研院学硕（非强军计划）的12位同学情况"></a>2020年被录取网研院学硕（非强军计划）的12位同学情况</h2><p>2020年清华大学网研院学硕初试线：<strong>335</strong>。</p>
-<p>初试科目：<strong>101,201,301,912</strong>。</p>
-<h4 id="从以下四个方面列举出计算机学硕拟录取同学的背景"><a href="#从以下四个方面列举出计算机学硕拟录取同学的背景" class="headerlink" title="从以下四个方面列举出计算机学硕拟录取同学的背景"></a>从以下四个方面列举出计算机学硕拟录取同学的背景</h4><ul>
-<li><strong>本科：</strong></li>
-</ul>
-<p>​            一志愿：北京航空航天大学(2)，华中科技大学(1)，中央财经大学(1)，西安电子科技大学(1)，武汉科技大学(1)，未知(1)</p>
-<p>​            计学调剂：北京大学(1)，北京航空航天(1)，中山大学(1)，南京理工大学(1)，未知(1)</p>
-<ul>
-<li><strong>毕业情况统计：</strong></li>
-</ul>
-<p>​            应届生(5)，非应届生(5)，未知(2)</p>
-<ul>
-<li><strong>录取平均分：</strong></li>
-</ul>
-<p>​            一志愿：351.3；计学调剂：370</p>
-<ul>
-<li><p><strong>本科专业</strong></p>
-<p>   科班(7)，跨考(2)，未知(3)  </p>
-</li>
-</ul>
-]]></content>
-      <categories>
-        <category>NEEP</category>
-      </categories>
-      <tags>
-        <tag>912</tag>
       </tags>
   </entry>
 </search>
